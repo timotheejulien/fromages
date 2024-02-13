@@ -1,4 +1,8 @@
-[Appenzeller](./Appenzeller.md)
+[[./Appenzeller|Appenzeller]]
+
+Test 
+Test 2 
 
 ---
 
+ 
