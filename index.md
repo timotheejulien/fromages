@@ -1,8 +1,3 @@
-[Appenzeller](./Appenzeller.md)
-
-Test 
-Test 2 
+Test : [Appenzeller](./Appenzeller.md)
 
 ---
-
- 
