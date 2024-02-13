@@ -27,5 +27,6 @@ Très sympa pour changer du comté, plus prononcé en goût
 ## Fromage(s) associé(s)
 * Comté
 * Gruyère suisse
+
 ## Ressource(s) complémentaire(s)
 * [Androuet](https://androuet.com/appenzeller-ou-appenzel-189.html)
