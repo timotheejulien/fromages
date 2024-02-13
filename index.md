@@ -1,3 +1,3 @@
-[Appenzeller](./Appenzeller.md#)
+[Appenzeller](./Appenzeller.md)
 
-On test sans les Wikilinks
+On test avec les Wikilinks
