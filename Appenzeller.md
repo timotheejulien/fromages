@@ -1,35 +1,37 @@
----
-Commentaire: Très sympa pour changer du comté, plus prononcé en goût
-Appellation:
-  - A.O.P
-Pâte:
-  - Lavée
-  - Pressée
-  - Cuite
-Lait:
-  - Vache
-Forme:
-  - Meule
-Odeur: Peu prononcée
-Texture: Souple
-Département:
-  - Appenzell Rhodes-Intérieures
-  - Appenzell Rhodes-Extérieures
-Région:
-  - Appenzell
-Pays:
-  - Suisse
-Note:
-  - ★★★★★
-Affinage: 3 mois en cave fraîche et humide
-Meilleure période de dégustation: Juillet à novembre
-Alcool: Chablis / Vin jaune / Pinot noir
-Prix estimé: 39,80 €/kg
-À racheter: true
-Lien: https://androuet.com/appenzeller-ou-appenzel-189.html
----
+## Informations
+###### Appellation
+A.O.P
+###### Origine géographique
+**Département :** Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures
+**Région :** Appenzell
+**Pays :** Suisse
+###### Pâte
+Lavée, pressée, cuite
+###### Lait
+Vache, lait cru
+###### Forme
+Meule
+###### Odeur 
+Florale
+###### Texture 
+Souple
+###### Affinage
+3 mois en cave fraîche et humide
+###### Boissons
+Chablis / Vin jaune / Pinot noir
+###### Prix
+39,80 €/kg
+
+## Avis
+###### Note
+★★★★★
+###### Commentaire
+Très sympa pour changer du comté, plus prononcé en goût
+
+## Photo
 ![Appenzeller-noir-1024x989-1-365496228.jpg](./M%C3%A9dias/Appenzeller-noir-1024x989-1-365496228.jpg)
 
-Lien : [Camembert de Normandie](./Camembert%20de%20Normandie.md)
-
----
+## Fromage(s) associé(s)
+* 
+## Ressource(s) complémentaire(s)
+* https://androuet.com/appenzeller-ou-appenzel-189.html
