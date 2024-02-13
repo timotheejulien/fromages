@@ -31,5 +31,6 @@ Malgré une préférence pour le comté ou le beaufort, l’Abondance possède u
 
 ## Fromage(s) associé(s)
 * [Appenzeller](./Appenzeller.md)
+
 ## Ressource(s) complémentaire(s)
 * [Androuet](http://androuet.com/Abondance-89.html)
