@@ -29,3 +29,5 @@ Prix estimé: 39,80 €/kg
 Lien: https://androuet.com/appenzeller-ou-appenzel-189.html
 ---
 ![[./Médias/Appenzeller-noir-1024x989-1-365496228.jpg|Appenzeller-noir-1024x989-1-365496228.jpg]]
+
+Lien : [[./Camembert de Normandie|Camembert de Normandie]]
