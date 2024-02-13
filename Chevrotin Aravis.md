@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | A.O.P |
 | **Origine géographique** | **Département :** Haute-Savoie<br>**Région :** Auverg,e-Rhône-Alpes<br>**Pays :** France   |
-| **Pâtes** | Pressée, non cuite, lavée |
+| **Pâte** | Pressée, non cuite, lavée |
 | **Lait** | Chèvre, lait cru |
 | **Forme** | Ronde |
 | **Odeur** | Faible odeur caprine et légère odeur de cave |
@@ -29,7 +29,7 @@ Il se fait appeler le reblochon au chèvre ! C’est excellent, on retrouve bien
 ![Pasted image 20240213185235.png](./M%C3%A9dias/Pasted%20image%2020240213185235.png)
 
 ## Dans le même esprit
-* Petit fiancée des Pyrénnés 
+* [Petit fiancée des Pyrénnés](Petit%20fianc%C3%A9e%20des%20Pyr%C3%A9nn%C3%A9s.md)
 * [Cabri Ariegeois](./Cabri%20Ariegeois.md)
 
 ## Ressource(s)
