@@ -28,9 +28,9 @@ Il se fait appeler le reblochon au chèvre ! C’est excellent, on retrouve bien
 ## Photo
 ![Pasted image 20240213185235.png](./M%C3%A9dias/Pasted%20image%2020240213185235.png)
 
-## Fromage(s) associé(s)
+## Dans le même esprit
 * Petit fiancée des Pyrénnés 
 * [Cabri Ariegeois](./Cabri%20Ariegeois.md)
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * [Saveurs des Aravis](https://saveurs-des-aravis.fr/nos-saveurs-nos-produits/chevrotin)
