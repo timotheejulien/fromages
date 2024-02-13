@@ -7,7 +7,7 @@ Date: 13/02/2024
 | Informations | Valeurs |
 | ---- | ---- |
 | **Appellation** | N/A |
-| **Origine géographique** | **Département :** <br>**Région :** <br>**Pays :**   |
+| **Origine géographique** | **Département :** Loire<br>**Région :** Auvergne-Rhône-Alpe<br>**Pays :** France   |
 | **Pâtes** | Fleurie, lavée, pressée |
 | **Lait** | Vache |
 | **Forme** | Ronde, sanglée d’une écorce d’épicéa |
@@ -27,9 +27,9 @@ Comme le Mont d’Or, il est très crémeux et la croûte donne un goût plus pu
 ## Photo
 ![Pasted image 20240213190439.png](./M%C3%A9dias/Pasted%20image%2020240213190439.png)
 
-## Fromage(s) associé(s)
-* [Le guide du fromage](https://www.leguidedufromage.com/comtesse-de-vichy-io486.html)
-* [Androuet](http://www.androuet.com/Comtesse-de-Vichy-1525.html)
+## Dans le même esprit
+* Mont d'Or
 
-## Ressource(s) complémentaire(s)
-* N/A
+## Ressource(s)
+* [N/A](<[Le guide du fromage](https://www.leguidedufromage.com/comtesse-de-vichy-io486.html)
+* [Androuet](http://www.androuet.com/Comtesse-de-Vichy-1525.html)>)
