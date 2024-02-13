@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | N/A |
 | **Origine géographique** | **Département :** Ariège<br>**Région :** Occitanie<br>**Pays :** France |
-| **Pâtes** | Pressée, cuite |
+| **Pâte** | Pressée, cuite |
 | **Lait** | Vache |
 | **Forme** | Petite meule |
 | **Odeur** | N/A |
