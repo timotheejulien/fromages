@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | N/A |
 | **Origine géographique** | **Département :** Pas-de-Calais<br>**Région :** Hauts-de-France<br>**Pays :** France   |
-| **Pâtes** | Molle, fleurie, lavée |
+| **Pâte** | Molle, fleurie, lavée |
 | **Lait** | vache, lait cru |
 | **Forme** | Cœur |
 | **Odeur** | Pomme, alcool |
