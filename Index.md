@@ -1,1 +1,0 @@
-[Appenzeller](./Appenzeller.md)
