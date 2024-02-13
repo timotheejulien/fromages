@@ -2,6 +2,7 @@
 Date: 13/02/2024
 ```
 ## Informations
+
 | Informations | Valeurs |
 | ---- | ---- |
 | **Appellation** | A.O.P |
@@ -15,6 +16,7 @@ Date: 13/02/2024
 | **Meilleure période de dégustation** |  |
 | **Boisson(s)** | Chablis / Vin jaune / Pinot noir |
 | **Prix** | 39,80 €/kg |
+
 ## Avis
 ### Note
 ★★★★★
