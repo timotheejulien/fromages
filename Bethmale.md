@@ -28,8 +28,8 @@ Sa texture ressemble un peu à celle d’une tomme. Goût assez prononcé, avec 
 ## Photo
 N/A
 
-## Fromage(s) associé(s)
+## Dans le même esprit
 * N/A
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * [Androuet](http://www.androuet.com/Bethmale-200.html)

@@ -27,8 +27,9 @@ Puissant et persistant, à la texture friable et cassante mais très fondante. I
 ## Photo
 ![Pasted image 20240213174320.png](./M%C3%A9dias/Pasted%20image%2020240213174320.png)
 
-## Fromage(s) associé(s)
+## Dans le même esprit
 * [Bleu du Vercors](./Bleu%20du%20Vercors.md)
+* [Fourme de Montbrison](./Fourme%20de%20Montbrison.md)
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * [Androuet](https://androuet.com/Bleu-d-auvergne-139.html)

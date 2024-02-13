@@ -19,6 +19,11 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Claousou](./Claousou.md)
 - [Coeur de pommeau](./Coeur%20de%20pommeau.md)
 - [Comtesse de Vichy](./Comtesse%20de%20Vichy.md)
+- [Coulommiers](./Coulommiers.md)
+- [Etivaz](./Etivaz.md)
+- [Fourme de Montbrison](./Fourme%20de%20Montbrison.md)
+- [Fribourg (gruyère suisse)](./Fribourg%20(gruy%C3%A8re%20suisse).md)
+- [Goustal](./Goustal.md)
 
 ---
 ### Timothée Julien

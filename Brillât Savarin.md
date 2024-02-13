@@ -27,8 +27,8 @@ Fromage goûtu et extrêmement crémeux, on adore !!! Ne pas oublier la version 
 ## Photo
 N/A
 
-## Fromage(s) associé(s)
+## Dans le même esprit
 * [Camembert de Normandie](./Camembert%20de%20Normandie.md)
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * [Androuet](http://androuet.com/Brillat-Savarin-111.html)

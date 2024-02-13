@@ -29,8 +29,8 @@ Est-ce qu'il faut vraiment préciser que c'est délicieux ?!
 ## Photo
 ![Pasted image 20240213184550.png](./M%C3%A9dias/Pasted%20image%2020240213184550.png)
 
-## Fromage(s) associé(s)
-* N/A
+## Dans le même esprit
+* [Coulommiers](./Coulommiers.md)
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * N/A

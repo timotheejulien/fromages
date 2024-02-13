@@ -27,8 +27,8 @@ C’est une belle découverte. D’aspect il ressemble au Mont d’Or mais en bo
 ## Photo
 ![Pasted image 20240213184207.png](./M%C3%A9dias/Pasted%20image%2020240213184207.png)
 
-## Fromage(s) associé(s)
-* N/A
+## Dans le même esprit
+* [Chevrotin Aravis](./Chevrotin%20Aravis.md)
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * [Androuet](http://androuet.com/Cabri-Ariégeois-32.html)
