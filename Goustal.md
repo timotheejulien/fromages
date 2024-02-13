@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | A.O.P |
 | **Origine géographique** | **Département :** Aveyron<br>**Région :** Occitanie<br>**Pays :** France   |
-| **Pâtes** | Molle, fleurie |
+| **Pâte** | Molle, fleurie |
 | **Lait** | Brebis |
 | **Forme** | Ronde |
 | **Odeur** | N/A |
