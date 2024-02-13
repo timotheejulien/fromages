@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | Lait de montagne |
 | **Origine géographique** | **Département :** Isère<br>**Région :** Auvergne-Rhône-Alpes<br>**Pays :** France  |
-| **Pâtes** | Molle, fleurie |
+| **Pâte** | Molle, fleurie |
 | **Lait** | Vache, lait thermisé |
 | **Forme** | Carrée |
 | **Odeur** | N/A |

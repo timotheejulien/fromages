@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | A.O.P |
 | **Origine géographique** | **Département :** Loire<br>**Région :** Auvergne-Rhône-Alpes<br>**Pays :** France   |
-| **Pâtes** | Persillée |
+| **Pâte** | Persillée |
 | **Lait** | Vache |
 | **Forme** | Cylindrique |
 | **Odeur** | N/A |

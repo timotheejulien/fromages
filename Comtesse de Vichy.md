@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | N/A |
 | **Origine géographique** | **Département :** Loire<br>**Région :** Auvergne-Rhône-Alpe<br>**Pays :** France   |
-| **Pâtes** | Fleurie, lavée, pressée |
+| **Pâte** | Fleurie, lavée, pressée |
 | **Lait** | Vache |
 | **Forme** | Ronde, sanglée d’une écorce d’épicéa |
 | **Odeur** | N/A |

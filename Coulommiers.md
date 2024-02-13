@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | N/A |
 | **Origine géographique** | **Département :** Seine-et-Marne<br>**Région :** île-de-France<br>**Pays :**   |
-| **Pâtes** | Molle, fleurie |
+| **Pâte** | Molle, fleurie |
 | **Lait** | Vache, lait cru |
 | **Forme** | Ronde |
 | **Odeur** | N/A |

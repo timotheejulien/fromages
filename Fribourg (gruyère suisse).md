@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | A.O.C |
 | **Origine géographique** | **Département :** N/A<br>**Région :** N/A<br>**Pays :** Suisse   |
-| **Pâtes** | Pressée, cuite |
+| **Pâte** | Pressée, cuite |
 | **Lait** | Vache |
 | **Forme** | Meule |
 | **Odeur** | N/A |

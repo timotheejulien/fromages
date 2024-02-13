@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | A.O.P |
 | **Origine géographique** | **Département :** N/A<br>**Région :** <br>**Pays :** Suisse   |
-| **Pâtes** | Pressée, dure, cuite |
+| **Pâte** | Pressée, dure, cuite |
 | **Lait** | Vache, lait cru |
 | **Forme** | Meule |
 | **Odeur** | Arôme de fumé |

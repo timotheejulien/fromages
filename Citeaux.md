@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | N/A |
 | **Origine géographique** | **Département :** Côte-d'OR<br>**Région :** Bourgogne-Franche-Comté<br>**Pays :** France   |
-| **Pâtes** | Molle, lavée |
+| **Pâte** | Molle, lavée |
 | **Lait** | Vache |
 | **Forme** | Ronde |
 | **Odeur** | Léger parfum d'époisse |

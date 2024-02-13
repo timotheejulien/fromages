@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | A.O.P |
 | **Origine géographique** | **Département :** Orne<br>**Région :** Normandie<br>**Pays :** France  |
-| **Pâtes** | Molle, fleurie |
+| **Pâte** | Molle, fleurie |
 | **Lait** | Vache, lait cru |
 | **Forme** | Ronde |
 | **Odeur** | Forte |
