@@ -27,8 +27,7 @@ Il se rapproche du Neufchâtel mais en bouche, tire légèrement sur le goût de
 ## Photo
 ![Pasted image 20240213190159.png](./M%C3%A9dias/Pasted%20image%2020240213190159.png)
 
-## Fromage(s) associé(s)
+## Dans le même esprit
 * N/A
 
-## Ressource(s) complémentaire(s)
-* N/A
+## Ressource(s)
