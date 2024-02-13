@@ -28,4 +28,4 @@ Prix estimé: 39,80 €/kg
 À racheter: true
 Lien: https://androuet.com/appenzeller-ou-appenzel-189.html
 ---
-![Appenzeller-noir-1024x989-1-365496228.jpg](Appenzeller-noir-1024x989-1-365496228.jpg)
+![Appenzeller-noir-1024x989-1-365496228.jpg](./M%C3%A9dias/Appenzeller-noir-1024x989-1-365496228.jpg)
