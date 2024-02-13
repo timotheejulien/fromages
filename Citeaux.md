@@ -27,8 +27,8 @@ D’aspect on dirait un reblochon mais léger goût plus fort qui s’inspire de
 ## Photo
 ![Pasted image 20240213185546.png](./M%C3%A9dias/Pasted%20image%2020240213185546.png)
 
-## Fromage(s) associé(s)
+## Dans le même esprit
 * N/A
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * N/A
