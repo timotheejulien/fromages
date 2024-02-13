@@ -1,3 +1,3 @@
-[Appenzeller](Appenzeller.md)
+[Appenzeller](./Appenzeller.md)
 
-Test
+Test du link ! 
