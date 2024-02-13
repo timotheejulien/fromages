@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | A.O.P |
 | **Origine géographique** | **Département :** Puy-de-Dôme<br>**Région :** Auvergne-Rhône-Alpes<br>**Pays :** France  |
-| **Pâtes** | Persillée, fleurie, naturelle |
+| **Pâte** | Persillée, fleurie, naturelle |
 | **Lait** | Vache |
 | **Forme** | Cylindrique |
 | **Odeur** | N/A |
