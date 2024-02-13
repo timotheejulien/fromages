@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | A.O.P |
 | **Origine géographique** | **Département :** Haute-Savoie<br>**Région :** Auvergne-Rhône-Alpes<br>**Pays :** France |
-| **Pâtes** | Pressée, cuite |
+| **Pâte** | Pressée, cuite |
 | **Lait** | Vache |
 | **Forme** | Meule |
 | **Odeur** | Trace de noisette |
