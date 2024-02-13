@@ -13,7 +13,7 @@ Date: 13/02/2024
 | **Odeur** | Florale |
 | **Texture** | Souple |
 | **Affinage** | 3 mois en cave fraîche et humide |
-| **Meilleure période de dégustation** |  |
+| **Meilleure période de dégustation** | Juillet à Novembre |
 | **Boisson(s)** | Chablis / Vin jaune / Pinot noir |
 | **Prix** | 39,80 €/kg |
 
@@ -25,4 +25,7 @@ Très sympa pour changer du comté, plus prononcé en goût
 ## Photo
 ![Appenzeller-noir-1024x989-1-365496228.jpg](./M%C3%A9dias/Appenzeller-noir-1024x989-1-365496228.jpg)
 ## Fromage(s) associé(s)
-* https://androuet.com/appenzeller-ou-appenzel-189.html
+* Comté
+* Gruyère suisse
+## Ressource(s) complémentaire(s)
+* [Androuet](https://androuet.com/appenzeller-ou-appenzel-189.html)
