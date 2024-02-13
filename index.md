@@ -1,1 +1,1 @@
-[[./Appenzeller|Appenzeller]]
+[Appenzeller](./Appenzeller.md)
