@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | A.O.P |
 | **Origine géographique** | **Département :** Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures<br>**Région :** Appenzell<br>**Pays :** Suisse |
-| **Pâtes** | Lavée, pressée, cuite |
+| **Pâte** | Lavée, pressée, cuite |
 | **Lait** | Vache, lait cru |
 | **Forme** | Meule |
 | **Odeur** | Florale |
