@@ -32,6 +32,6 @@ Product designer (UX/UI) indépendant, évoluant à Paris.
 * [Portfolio](https://timotheejulien.fr) 
 * [Veille](https://bookmarks.timotheejulien.fr/guest/links)
 - [Linkedin](https://www.linkedin.com/in/timotheejulien/)
-- [Mastodon](https://mastodon.timotheejulien.fr/@tim)
+- <a href="https://mastodon.timotheejulien.fr/@tim" target="_blank" rel="me">Mastodon</a>
 - [Pixelfed](https://pixelfed.social/timothee)
 
