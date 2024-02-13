@@ -8,7 +8,7 @@ Date: 13/02/2024
 | ---- | ---- |
 | **Appellation** | N/A |
 | **Origine géographique** | **Département : Pas-de-Calais<br>Région : Hauts-de-France<br>Pays :** France |
-| **Pâtes** | Pressée, non cuite |
+| **Pâte** | Pressée, non cuite |
 | **Lait** | Vache |
 | **Forme** | Ronde |
 | **Odeur** | Bière brune |
