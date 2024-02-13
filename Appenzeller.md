@@ -25,9 +25,11 @@ Date: 13/02/2024
 Très sympa pour changer du comté, plus prononcé en goût
 ## Photo
 ![Appenzeller-noir-1024x989-1-365496228.jpg](./M%C3%A9dias/Appenzeller-noir-1024x989-1-365496228.jpg)
-## Fromage(s) associé(s)
+## Dans le même esprit
+* [Abondance](./Abondance.md)
 * Comté
-* Gruyère suisse
+* [Etivaz](./Etivaz.md)
+* [Fribourg (gruyère suisse)](./Fribourg%20(gruy%C3%A8re%20suisse).md)
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * [Androuet](https://androuet.com/appenzeller-ou-appenzel-189.html)
