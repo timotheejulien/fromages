@@ -7,8 +7,8 @@ Date: 13/02/2024
 | Informations | Valeurs |
 | ---- | ---- |
 | **Appellation** | I.G.P |
-| **Origine géographique** | **Département :** Seine-et-Marne, Yonne, Aube, Côtes-d'Or, Saône-et-Loire<br>**Région :** Normandie<br>**Pays :** France  |
-| **Pâtes** | Molle, fleurie |
+| **Origine géographique** | **Département :** Seine-et-Marne<br>**Région :** île-de-France<br>**Pays :** France  |
+| **Pâte** | Molle, fleurie |
 | **Lait** | Vache, cru ou pasteurisé |
 | **Forme** | Ronde |
 | **Odeur** | Douce, salée |
