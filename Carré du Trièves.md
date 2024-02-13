@@ -30,8 +30,8 @@ Bien goûtu avec une note sur la fin de fromage de chèvre sec, il pique le pala
 ## Photo
 
 
-## Fromage(s) associé(s)
+## Dans le même esprit
 * N/A
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * N/A
