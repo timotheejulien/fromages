@@ -30,8 +30,10 @@ Malgré une préférence pour le comté ou le beaufort, l’Abondance possède u
 ## Photo
 ![Pasted image 20240213164455.png](./M%C3%A9dias/Pasted%20image%2020240213164455.png)
 
-## Fromage(s) associé(s)
+## Dans le même esprit
 * [Appenzeller](./Appenzeller.md)
+* [Etivaz](./Etivaz.md)
+* [Fribourg (gruyère suisse)](./Fribourg%20(gruy%C3%A8re%20suisse).md)
 
-## Ressource(s) complémentaire(s)
+## Ressource(s)
 * [Androuet](http://androuet.com/Abondance-89.html)
