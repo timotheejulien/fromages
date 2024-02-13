@@ -10,7 +10,15 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Bethmale](./Bethmale.md)
 - [Bleu d’Auvergne](./Bleu%20d%E2%80%99Auvergne.md)
 - [Bleu du Vercors](./Bleu%20du%20Vercors.md)
+- [Brillât Savarin](./Brill%C3%A2t%20Savarin.md)
+- [Cabri Ariegeois](./Cabri%20Ariegeois.md)
 - [Camembert de Normandie](./Camembert%20de%20Normandie.md)
+- [Carré du Trièves](./Carr%C3%A9%20du%20Tri%C3%A8ves.md)
+- [Chevrotin Aravis](./Chevrotin%20Aravis.md)
+- [Citeaux](./Citeaux.md)
+- [Claousou](./Claousou.md)
+- [Coeur de pommeau](./Coeur%20de%20pommeau.md)
+- [Comtesse de Vichy](./Comtesse%20de%20Vichy.md)
 
 ---
 ### Timothée Julien
