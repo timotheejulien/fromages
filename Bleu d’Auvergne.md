@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 4 semaines minimum |
 | **Meilleure période de dégustation** | Avril à octobre |
 | **Boisson(s)** | Gewurztraminer d'Alsace / Sauternes / Monbazillac / Château Neuf du Pape |
-| **Prix** | 20,90 €/kg |
+| **Prix** | 20,90 € /kg |
 
 ## Avis
 ### Note
