@@ -30,7 +30,7 @@ Cousin du comté ou gruyère suisse, il est plus aromatique que la concurrence
 ## Dans le même esprit
 * [Appenzeller](./Appenzeller.md)
 * [Abondance](./Abondance.md)
-* [Fribourg (gruyère suisse)](./Fribourg%20(gruy%C3%A8re%20suisse).md)
+* [Fribourg ou gruyère suisse](./Fribourg%20ou%20gruy%C3%A8re%20suisse.md)
 
 ## Ressource(s)
 * [Androuet](https://androuet.com/Etivaz-705.html)
