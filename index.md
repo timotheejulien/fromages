@@ -9,6 +9,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Bethmale](./Bethmale.md)
 - [Bleu d’Auvergne](./Bleu%20d%E2%80%99Auvergne.md)
 - [Bleu du Vercors](./Bleu%20du%20Vercors.md)
+- [Brie de Meaux](./Brie%20de%20Meaux.md)
 - [Brillât Savarin](./Brill%C3%A2t%20Savarin.md)
 - [Cabri Ariegeois](./Cabri%20Ariegeois.md)
 - [Camembert de Normandie](./Camembert%20de%20Normandie.md)
