@@ -2,7 +2,6 @@
 **À l'âge de 1 an je mangeais déjà du camembert !** 
 
 Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche par fromage goûté. J'essaie sans prétention, selon mes connaissances et mes sens, de retranscrire cela dans ces fiches.
-
 ## Fromages goûtés
 - [Abondance](./Abondance.md)
 - [Appenzeller](./Appenzeller.md)
@@ -49,10 +48,8 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 ---
 #### Timothée Julien
 Product designer (UX/UI) indépendant, évoluant à Paris.
-
-* [Portfolio](https://timotheejulien.fr) 
-* [Veille](https://bookmarks.timotheejulien.fr/guest/links)
-- [Linkedin](https://www.linkedin.com/in/timotheejulien/)
+* <a href="https://timotheejulien.fr" target="_blank">Pixelfed</a>
+* <a href="https://bookmarks.timotheejulien.fr/guest/links" target="_blank">Veille</a>
+* <a href="https://www.linkedin.com/in/timotheejulien/" target="_blank">Linkedin</a>
 - <a href="https://mastodon.timotheejulien.fr/@tim" target="_blank" rel="me">Mastodon</a>
-- [Pixelfed](https://pixelfed.social/timothee)
-
+- <a href="https://pixelfed.social/timothee" target="_blank">Pixelfed</a>
