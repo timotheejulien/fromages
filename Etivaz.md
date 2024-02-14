@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 5 mois minimum |
 | **Meilleure période de dégustation** | Mars à octobre |
 | **Boisson(s)** | *Fendant du Valais (Suisse) / Gewurztraminer d'Alsace / Vin de Paille - Arbois / Vouvray ou Montlouis moelleux* |
-| **Prix** |  |
+| **Prix** | N/A |
 
 ## Avis
 ### Note
@@ -30,7 +30,7 @@ Cousin du comté ou gruyère suisse, il est plus aromatique que la concurrence
 ## Dans le même esprit
 * [Appenzeller](./Appenzeller.md)
 * [Abondance](./Abondance.md)
-* [Fribourg (gruyère suisse)](./Fribourg%20(gruy%C3%A8re%20suisse).md)
+* [Fribourg ou gruyère suisse](./Fribourg%20ou%20gruy%C3%A8re%20suisse.md)
 
 ## Ressource(s)
 * [Androuet](https://androuet.com/Etivaz-705.html)

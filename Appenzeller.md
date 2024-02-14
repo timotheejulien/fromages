@@ -29,7 +29,7 @@ Très sympa pour changer du comté, plus prononcé en goût
 * [Abondance](./Abondance.md)
 * Comté
 * [Etivaz](./Etivaz.md)
-* [Fribourg (gruyère suisse)](./Fribourg%20(gruy%C3%A8re%20suisse).md)
+* [Fribourg ou gruyère suisse](./Fribourg%20ou%20gruy%C3%A8re%20suisse.md)
 
 ## Ressource(s)
 * [Androuet](https://androuet.com/appenzeller-ou-appenzel-189.html)

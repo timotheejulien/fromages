@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 3 à 4 semaines en cave fraîche |
 | **Meilleure période de dégustation** | Avril à septembre |
 | **Boisson(s)** | *Champagne / Pomerol / St Estephe / Beaujolais / Faugères* |
-| **Prix** |  |
+| **Prix** | N/A |
 
 ## Avis
 ### Note

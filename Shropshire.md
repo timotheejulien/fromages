@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 12 semaines |
 | **Meilleure période de dégustation** | Novembre à mai |
 | **Boisson(s)** | *Porto / Monbazillac / Sauternes* |
-| **Prix** | 38 €/kg |
+| **Prix** | 38 € /kg |
 
 ## Avis
 ### Note

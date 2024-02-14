@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | N/A |
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | N/A |
-| **Prix** | 5€ /pièce |
+| **Prix** | 5€ pièce |
 
 ## Avis
 ### Note

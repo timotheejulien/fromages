@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | Après un salage en saumure, les fromages sont mis en cave au minimum 3 semaines |
 | **Meilleure période de dégustation** | Avril à septembre |
 | **Boisson(s)** | N/A |
-| **Prix** | 48 €/kg |
+| **Prix** | 48 € /kg |
 
 ## Avis
 ### Note

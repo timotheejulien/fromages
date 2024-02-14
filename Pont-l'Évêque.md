@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 5 à 6 semaines en cave humide avec lavages. |
 | **Meilleure période de dégustation** | Mai à Septembre |
 | **Boisson(s)** | Vin blanc |
-| **Prix** |  |
+| **Prix** | N/A |
 
 ## Avis
 ### Note
