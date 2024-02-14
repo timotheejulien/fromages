@@ -39,7 +39,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Raclette Suisse](./Raclette%20Suisse.md)
 - [Rocamadour](./Rocamadour.md)
 - [Sablé de Wissant](./Sabl%C3%A9%20de%20Wissant.md)
-- [Saint Marcellin IGP](./Saint%20Marcellin%20IGP.md)
+- [Saint Marcellin](./Saint%20Marcellin.md)
 - [Saint-Germier](./Saint-Germier.md)
 - [Shropshire](./Shropshire.md)
 - [Soumaintrain](./Soumaintrain.md)

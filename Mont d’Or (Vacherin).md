@@ -1,4 +1,4 @@
-# Mont d’Or (Vacherin)
+# Mont d’Or ou Vacherin
 ```
 Date: 13/02/2024
 ```
