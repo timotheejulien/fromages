@@ -23,6 +23,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Etivaz](./Etivaz.md)
 - [Fourme de Montbrison](./Fourme%20de%20Montbrison.md)
 - [Fribourg ou gruyère suisse](./Fribourg%20ou%20gruy%C3%A8re%20suisse.md)
+- [Gorgonzola](./Gorgonzola.md)
 - [Goustal](./Goustal.md)
 - [L’ami du Chambertin](./L%E2%80%99ami%20du%20Chambertin.md)
 - [Le sillon bleu](./Le%20sillon%20bleu.md)
