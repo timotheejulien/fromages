@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 3 mois en cave humide avec lavages à l'eau salée. |
 | **Meilleure période de dégustation** | Mai à septembre |
 | **Boisson(s)** | Calvados, du pommeau<br> ou du cidre normand |
-| **Prix** |  |
+| **Prix** | N/A |
 
 ## Avis
 ### Note
