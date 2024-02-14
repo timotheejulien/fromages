@@ -27,7 +27,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Le sillon bleu](./Le%20sillon%20bleu.md)
 - [Livarot](./Livarot.md)
 - [Manigodine](./Manigodine.md)
-- [Mont d’Or (Vacherin)](./Mont%20d%E2%80%99Or%20(Vacherin).md)
+- [Mont d’Or ou Vacherin](./Mont%20d%E2%80%99Or%20ou%20Vacherin.md)
 - [Munster](./Munster.md)
 - [Ovale Brebis](./Ovale%20Brebis.md)
 - [Pavé d’Auge](./Pav%C3%A9%20d%E2%80%99Auge.md)
