@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 8 semaines |
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | N/A |
-| **Prix** | 27,90 €/kg |
+| **Prix** | 27,90 € /kg |
 
 ## Avis
 ### Note
