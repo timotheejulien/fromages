@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 1 mois |
 | **Meilleure période de dégustation** | Avril à août |
 | **Boisson(s)** | *St Estephe / Pomerol / Sauternes / Faugères / Cidre brut* |
-| **Prix** | 6/7 € / pièce |
+| **Prix** | ~7 € / pièce |
 
 ## Avis
 ### Note
