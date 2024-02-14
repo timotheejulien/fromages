@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 5 mois minimum |
 | **Meilleure période de dégustation** | Mars à octobre |
 | **Boisson(s)** | *Fendant du Valais (Suisse) / Gewurztraminer d'Alsace / Vin de Paille - Arbois / Vouvray ou Montlouis moelleux* |
-| **Prix** |  |
+| **Prix** | N/A |
 
 ## Avis
 ### Note

@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 1 mois à 3 mois |
 | **Meilleure période de dégustation** | Septembre à Avril |
 | **Boisson(s)** | *Tokay / Monbazillac / Sauternes / Banyuls ou Maury / Vouvray ou Montlouis moelleux* |
-| **Prix** | 19€/kg |
+| **Prix** | 19 € /kg |
 
 ## Avis
 ### Note

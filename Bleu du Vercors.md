@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | N/A |
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin de Savoie pour la raclette |
-| **Prix** | 40 € / kg |
+| **Prix** | 40 € /kg |
 
 ## Avis
 ### Note

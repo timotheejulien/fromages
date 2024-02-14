@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 6 semaines en cave humide avec lavages |
 | **Meilleure période de dégustation** | Mai à décembre |
 | **Boisson(s)** | N/A |
-| **Prix** | 13,90 € /pièce |
+| **Prix** | 13,90 € pièce |
 
 ## Avis
 ### Note

@@ -6,7 +6,7 @@ Date: 13/02/2024
 
 | Informations | Valeurs |
 | ---- | ---- |
-| **Appellation** |  |
+| **Appellation** | N/A |
 | **Origine géographique** | **Département :** Pyrénées-Orientales<br>**Région :** Occitanie<br>**Pays :** France   |
 | **Pâte** | Pressée, non cuite |
 | **Lait** | Vache |
