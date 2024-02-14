@@ -16,7 +16,7 @@ Date: 13/02/2024
 | **Affinage** | 4 à 6 mois en cave fraîche et humide avec lavages |
 | **Meilleure période de dégustation** | Juillet à novembre |
 | **Boisson(s)** | Vin blanc sec / Apremont |
-| **Prix** | N.A |
+| **Prix** | N/A |
 
 ## Avis
 ### Note
