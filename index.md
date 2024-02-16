@@ -41,7 +41,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Raclette suisse](./raclette-suisse.md)
 - [Rocamadour](./rocamadour.md)
 - [Sablé de Wissant](./sable-de-wissant.md)
-- [Sablé du boulonnais ou Vieux Boulogne](./sable-du-boulonnais-ou-vieux-boulogne.md)
+- [Sablé du Boulonnais ou Vieux Boulogne](./sable-du-boulonnais-ou-vieux-boulogne.md)
 - [Saint Marcellin](./saint-marcellin.md)
 - [Saint-Germier](./saint-germier.md)
 - [Shropshire](./shropshire.md)
