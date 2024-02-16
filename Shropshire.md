@@ -30,7 +30,7 @@ Une saveur forte et un arôme légèrement piquant. Légèrement acide, mais gé
 * [Stilton](./Stilton.md)
 * [Fourme-de-Montbrison](./Fourme-de-Montbrison.md)
 * [Bleu-Auvergne](./Bleu-Auvergne.md)
-* [Bleu du Vercors](./Bleu%20du%20Vercors.md)
+* [Bleu-du-Vercors](./Bleu-du-Vercors.md)
 
 ## Ressource(s)
 * [Androuet](https://androuet.com/Shropshire-173.html)
