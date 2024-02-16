@@ -1,3 +1,6 @@
+---
+fromage: Munster
+---
 # Munster
 ```
 Date: 13/02/2024
