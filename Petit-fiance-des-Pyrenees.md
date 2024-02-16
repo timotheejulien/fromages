@@ -1,3 +1,6 @@
+---
+fromage: Petit fiancé des Pyrénées
+---
 # Petit fiancé des Pyrénées
 ```
 Date: 13/02/2024

@@ -1,11 +1,7 @@
+---
+fromage: Abondance
+---
 # Abondance
-
-```
----
-	aliases:
-  - Abondance
----
-```
 
 ```
 Date: 13/02/2024

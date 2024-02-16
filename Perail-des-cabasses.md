@@ -1,3 +1,6 @@
+---
+fromage: Pérail des cabasses
+---
 # Pérail des cabasses
 ```
 Date: 13/02/2024

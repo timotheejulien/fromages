@@ -1,3 +1,6 @@
+---
+fromage: Camembert de Normandie
+---
 # Camembert de Normandie
 ```
 Date: 13/02/2024

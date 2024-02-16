@@ -1,4 +1,7 @@
-# Name
+---
+fromage: Manigodine
+---
+# Manigodine
 ```
 Date: 13/02/2024
 ```

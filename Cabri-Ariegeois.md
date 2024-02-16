@@ -1,4 +1,7 @@
-# Cabri Ariegeois
+---
+fromage: Cabri Ariégeois
+---
+# Cabri Ariégeois
 ```
 Date: 13/02/2024
 ```

@@ -1,3 +1,6 @@
+---
+fromage: L’ami du Chambertin
+---
 # L’ami du Chambertin
 ```
 Date: 13/02/2024

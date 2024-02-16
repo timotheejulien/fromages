@@ -1,8 +1,8 @@
-# Belval à la bière brune
+---
+fromage: Belval à la bière brune
+---
 
----
-	aliases: Belval à la bière brune
----
+# Belval à la bière brune
 
 ```
 Date: 13/02/2024

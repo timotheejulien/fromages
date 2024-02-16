@@ -1,3 +1,6 @@
+---
+fromage: Gorgonzola
+---
 # Gorgonzola
 ```
 Date: 14/02/2024

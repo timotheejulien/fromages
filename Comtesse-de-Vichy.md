@@ -1,3 +1,6 @@
+---
+fromage: Comtesse de Vichy
+---
 # Comtesse de Vichy
 ```
 Date: 13/02/2024
