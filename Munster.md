@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★★
 ### Commentaire
-Fromage a un goût long en bouche et fort ! Proche de l’Époisses malgré une pâte moins coulante, c’est un fromage avec un sacré caractère !
+Il a un goût long en bouche et puissant ! Proche de l’Époisses malgré une pâte moins coulante, c’est un fromage avec un sacré caractère !
 
 > Au premier abord de fumet fort et franc, le munster tient ses promesses en bouche. Plus son affinage est long, plus son goût et affirmé et puissant. Durant cet affinage il est frotté à l’eau enrichie de culture de ferments tous les 2 jours, ce qui lui confère sa croûte orangée qui recouvre une pâte souple et onctueuse.
 
