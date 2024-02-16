@@ -1,3 +1,6 @@
+---
+fromage: Mont d’Or ou Vacherin
+---
 # Mont d’Or ou Vacherin
 ```
 Date: 13/02/2024
