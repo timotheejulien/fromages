@@ -29,7 +29,7 @@ On le différencie du Pont l'Evêque par son goût plus prononcé et le fait qu'
 ![Pasted image 20240213223533.png](./M%C3%A9dias/Pasted%20image%2020240213223533.png)
 
 ## Dans le même esprit
-* N/A
+* [Pont-l'Évêque](./Pont-l'%C3%89v%C3%AAque.md)
 
 ## Ressource(s)
 * N/A
