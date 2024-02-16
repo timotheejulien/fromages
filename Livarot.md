@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★
 ### Commentaire
-Puissant en bouche, c’est un bon fromage normand !
+Puissant en bouche, c’est un bon fromage normand ;). On retrouve ce goût caractéristique des pâtes lavées.
 
 ## Photo
 ![Pasted image 20240213220853.png](./M%C3%A9dias/Pasted%20image%2020240213220853.png)

@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★
 ### Commentaire
-Goûté lors d’une raclette, il est assez doux mais parfumé, c’était trop bon !
+Goûté lors d’une raclette, il est assez doux mais parfumé, c’était trop bon ! Se déguste bien évidemment aussi froid ;) 
 
 ## Photo
 ![Pasted image 20240213172521.png](./M%C3%A9dias/Pasted%20image%2020240213172521.png)

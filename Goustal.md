@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★
 ### Commentaire
-En bouche il ressemble a du Lou Pérac pour sa texture onctueuse mais plus ferme que le petit fiancé des Pyrénées, moins coulant. Il est  cependant plus parfumé que Lou Pérac !! Belle découverte
+En bouche il ressemble a du Lou Pérac pour sa texture onctueuse mais plus ferme que le petit fiancé des Pyrénées, moins coulant. Il est  cependant plus parfumé que Lou Pérac !! Belle découverte.
 
 ## Photo
 ![Pasted image 20240213202758.png](./M%C3%A9dias/Pasted%20image%2020240213202758.png)

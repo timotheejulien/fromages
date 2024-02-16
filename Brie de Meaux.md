@@ -22,7 +22,7 @@ Date: 14/02/2024
 ### Note
 ★★★★★
 ### Commentaire
-Dans la même veine que le Camembert et le Coulommiers, le Brie de Meaux est un peu plus fruité avec un goût également prononcé. 
+Dans la même veine que le Camembert et le Coulommiers, le Brie de Meaux est un peu plus fruité avec un goût également prononcé. Également très bon, le Brie truffé.
 
 ## Photo
 ![Pasted image 20240214173856.png](./M%C3%A9dias/Pasted%20image%2020240214173856.png)

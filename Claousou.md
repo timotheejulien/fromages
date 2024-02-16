@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★
 ### Commentaire
-De texture il ressemble à un Lou Pérac mais un goût plus prononcé, et une odeur bien plus prononcé. C’est très bon !
+De texture il ressemble à un Lou Pérac mais un goût plus prononcé, et une odeur bien plus prononcée. C’est très bon !
 
 ## Photo
 ![Pasted image 20240213185858.png](./M%C3%A9dias/Pasted%20image%2020240213185858.png)

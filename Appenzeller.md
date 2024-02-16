@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★★
 ### Commentaire
-Très sympa pour changer du comté, plus prononcé en goût
+Très sympa pour changer du comté, plus prononcé en goût. Sa texture est un peu plus souple également.
 ## Photo
 ![Appenzeller-noir-1024x989-1-365496228.jpg](./M%C3%A9dias/Appenzeller-noir-1024x989-1-365496228.jpg)
 ## Dans le même esprit

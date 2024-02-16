@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★
 ### Commentaire
-Belle surprise en bouche, ce chèvre sec est bien parfumé ! On a un léger goût herbacé. C’est une belle découverte !
+Belle surprise en bouche, ce chèvre sec est bien parfumé ! Il a un léger goût herbacé. C’est une belle découverte !
 
 ## Photo
 ![Pasted image 20240213224232.png](./M%C3%A9dias/Pasted%20image%2020240213224232.png)
