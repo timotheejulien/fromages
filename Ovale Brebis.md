@@ -22,8 +22,8 @@ Date: 13/02/2024
 ### Note
 ★★★
 ### Commentaire
-Son goût est frais, parfumé et sa texture crémeuse font qu'on le dévore à l’apéritif !
-Il peut s’accompagner de confiture de cerise noire.
+Son goût frais, parfumé et sa texture crémeuse en font un choix judicieux pour l'apéritif !
+Il peut également s’accompagner de confiture de cerise noire.
 
 ## Photo
 ![Pasted image 20240213223205.png](./M%C3%A9dias/Pasted%20image%2020240213223205.png)
