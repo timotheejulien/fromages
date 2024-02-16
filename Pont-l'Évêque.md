@@ -28,7 +28,7 @@ Date: 13/02/2024
 ![Pasted image 20240213224538.png](./M%C3%A9dias/Pasted%20image%2020240213224538.png)
 
 ## Dans le même esprit
-* [Pavé d’Auge](./Pav%C3%A9%20d%E2%80%99Auge.md)
+* [Pavé-d’Auge](./Pav%C3%A9-d%E2%80%99Auge.md)
 
 ## Ressource(s)
 * [Androuet](http://www.androuet.com/Pont-l-Evêque-122.html)
