@@ -33,6 +33,7 @@ Est-ce qu'il faut vraiment préciser que c'est délicieux ?! Mis à part cela, �
 
 ## Dans le même esprit
 * [Coulommiers](./Coulommiers.md)
+* [Brie de Meaux](./Brie%20de%20Meaux.md)
 
 ## Ressource(s)
 * N/A
