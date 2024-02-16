@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★
 ### Commentaire
-Sa pâte est fine, fraiche et douce. Son goût lactique (petit lait) lui confère une légère acidité qui sera combinée à une pointe d’amertume. Le Soumaintrain se distingue par la richesse de sa palette aromatique. L’affinage développe des arômes végétaux, (champignon, humus, foin, paille), parfois boisés. Plus l’affinage est développé plus les nuances animales prennent de l’importance. Ses arômes sont persistants en bouche
+Sa pâte est fine, fraiche et douce. Son goût lactique (petit lait) lui confère une légère acidité qui sera combinée à une pointe d’amertume. Le Soumaintrain se distingue par la richesse de sa palette aromatique. L’affinage développe des arômes végétaux, (champignon, humus, foin, paille), parfois boisés. Plus l’affinage est développé plus les nuances animales prennent de l’importance. Ses arômes sont persistants en bouche.
 
 ## Photo
 ![Pasted image 20240213230742.png](./M%C3%A9dias/Pasted%20image%2020240213230742.png)
