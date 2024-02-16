@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★
 ### Commentaire
-Il se rapproche du Neufchâtel mais en bouche, tire légèrement sur le goût de chèvre frais. Il a également son aspect, plâtreux mais il est très goûtu ! Bonne durée en bouche, très bonne dégustation !
+Il se rapproche du Neufchâtel mais en bouche, il tire légèrement sur le goût de chèvre frais. Il a également son aspect, plâtreux mais il est très goûtu ! Bonne durée en bouche, très bonne dégustation !
 
 ## Photo
 ![Pasted image 20240213190159.png](./M%C3%A9dias/Pasted%20image%2020240213190159.png)
