@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★
 ### Commentaire
-Cousin du comté ou gruyère suisse, il est plus aromatique que la concurrence
+Cousin du comté ou gruyère suisse, il est plus aromatique que la concurrence.
 
 ## Photo
 ![Pasted image 20240213201128.png](./M%C3%A9dias/Pasted%20image%2020240213201128.png)
