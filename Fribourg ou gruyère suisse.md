@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★★
 ### Commentaire
-C’est excellent, proche du comté, il est encore plus fruité à mon sens
+C’est excellent, proche du comté, il est encore plus fruité à mon sens.
 
 ## Photo
 ![Pasted image 20240213202443.png](./M%C3%A9dias/Pasted%20image%2020240213202443.png)
