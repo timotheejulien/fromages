@@ -1,4 +1,7 @@
-# Ovale Brebis
+---
+fromage: Ovale de brebis
+---
+# Ovale de brebis
 ```
 Date: 13/02/2024
 ```
