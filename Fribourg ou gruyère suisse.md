@@ -1,8 +1,9 @@
-# Fribourg (gruyère suisse)
+# Fribourg ou gruyère suisse
 
 ```
 Date: 13/02/2024
 ```
+
 ## Informations
 
 | Informations | Valeurs |
