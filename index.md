@@ -17,7 +17,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Chevrotin Aravis](./Chevrotin%20Aravis.md)
 - [Citeaux](./Citeaux.md)
 - [Claousou](./Claousou.md)
-- [Coeur de pommeau](./Coeur%20de%20pommeau.md)
+- [Cœur de pommeau](./C%C5%93ur%20de%20pommeau.md)
 - [Comtesse de Vichy](./Comtesse%20de%20Vichy.md)
 - [Coulommiers](./Coulommiers.md)
 - [Etivaz](./Etivaz.md)
