@@ -1,3 +1,7 @@
+---
+fromage: Saint-Germier
+---
+
 # Saint-Germier
 ```
 Date: 13/02/2024
