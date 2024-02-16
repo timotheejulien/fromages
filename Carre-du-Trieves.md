@@ -1,3 +1,6 @@
+---
+fromage: Carré du Trièves
+---
 # Carré du Trièves
 ```
 Date: 13/02/2024
