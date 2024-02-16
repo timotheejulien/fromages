@@ -30,6 +30,7 @@ Une dinguerie ! Ce fromage qui pourrait avoir un petit air de reblochon, est plu
 ## Dans le même esprit
 * [Cabri Ariegeois](./Cabri%20Ariegeois.md)
 * [Chevrotin Aravis](./Chevrotin%20Aravis.md)
+* [Pérail des cabasses](./P%C3%A9rail%20des%20cabasses.md)
 
 ## Ressource(s)
 * [Le guide du friomage](https://www.leguidedufromage.com/le-petit-fiance-des-pyrenees-io590.html)
