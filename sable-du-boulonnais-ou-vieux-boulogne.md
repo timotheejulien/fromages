@@ -1,5 +1,5 @@
 ---
-fromage: Sablé du boulonnais ou Vieux Boulogne
+fromage: Sablé du Boulonnais ou Vieux Boulogne
 ---
 # Sablé du Boulonnais ou Vieux Boulogne
 ```
