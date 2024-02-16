@@ -1,3 +1,6 @@
+---
+fromage: Pavé d'Auge
+---
 # Pavé d’Auge
 ```
 Date: 13/02/2024
