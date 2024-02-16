@@ -1,3 +1,6 @@
+---
+fromage: Cœeur de pommeau
+---
 # Cœur de pommeau
 
 ```
