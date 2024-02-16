@@ -5,7 +5,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 ## Fromages goûtés
 - [Abondance](./Abondance.md)
 - [Appenzeller](./Appenzeller.md)
-- [Belval-à-la-biere-brune](./Belval-%C3%A0-la-biere-brune.md)
+- [Belval a la biere brune](./Belval%20a%20la%20biere%20brune.md)
 - [Bethmale](./Bethmale.md)
 - [Bleu d’Auvergne](./Bleu%20d%E2%80%99Auvergne.md)
 - [Bleu du Vercors](./Bleu%20du%20Vercors.md)
