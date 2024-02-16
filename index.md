@@ -5,7 +5,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 ## Fromages goûtés
 - [Abondance](./Abondance.md)
 - [Appenzeller](./Appenzeller.md)
-- [Belval-a-la-biere-brune](./Belval-a-la-biere-brune.md)
+- [Belval-à-la-biere-brune](./Belval-%C3%A0-la-biere-brune.md)
 - [Bethmale](./Bethmale.md)
 - [Bleu d’Auvergne](./Bleu%20d%E2%80%99Auvergne.md)
 - [Bleu du Vercors](./Bleu%20du%20Vercors.md)
@@ -32,7 +32,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Mont d’Or ou Vacherin](./Mont%20d%E2%80%99Or%20ou%20Vacherin.md)
 - [Munster](./Munster.md)
 - [Ovale Brebis](./Ovale%20Brebis.md)
-- [Pavé d’Auge](./Pav%C3%A9%20d%E2%80%99Auge.md)
+- [Pavé-d’Auge](./Pav%C3%A9-d%E2%80%99Auge.md)
 - [Pérail des cabasses](./P%C3%A9rail%20des%20cabasses.md)
 - [Petit fiancé des Pyrénées](./Petit%20fianc%C3%A9%20des%20Pyr%C3%A9n%C3%A9es.md)
 - [Phébus](./Ph%C3%A9bus.md)
