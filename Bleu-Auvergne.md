@@ -28,7 +28,7 @@ Puissant et persistant, à la texture friable et cassante mais très fondante. I
 ![Pasted image 20240213174320.png](./M%C3%A9dias/Pasted%20image%2020240213174320.png)
 
 ## Dans le même esprit
-* [Bleu du Vercors](./Bleu%20du%20Vercors.md)
+* [Bleu-du-Vercors](./Bleu-du-Vercors.md)
 * [Fourme-de-Montbrison](./Fourme-de-Montbrison.md)
 
 ## Ressource(s)

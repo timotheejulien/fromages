@@ -28,7 +28,7 @@ Belle découverte ! C’est une belle pâte persillée à la texture d’une tom
 
 ## Dans le même esprit
 * [Bleu-Auvergne](./Bleu-Auvergne.md)
-* [Bleu du Vercors](./Bleu%20du%20Vercors.md)
+* [Bleu-du-Vercors](./Bleu-du-Vercors.md)
 
 ## Ressource(s)
 * N/A
