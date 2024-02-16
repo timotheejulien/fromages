@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★
 ### Commentaire
-Très sympa, on sent bien le lait de brebis, typé mais relativement doux en bouche
+Très sympa, on sent bien le lait de brebis, typé mais relativement doux en bouche.
 
 ## Photo
 ![Pasted image 20240213230042.png](./M%C3%A9dias/Pasted%20image%2020240213230042.png)
