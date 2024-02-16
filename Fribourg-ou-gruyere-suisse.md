@@ -1,3 +1,6 @@
+---
+fromage: Fribourg ou gruyère suisse
+---
 # Fribourg ou gruyère suisse
 
 ```
