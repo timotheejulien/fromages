@@ -1,4 +1,7 @@
-# Name
+---
+fromage: Brie de Meaux
+---
+# Brie de Meaux
 ```
 Date: 14/02/2024
 ```
