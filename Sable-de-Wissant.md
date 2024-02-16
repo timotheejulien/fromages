@@ -1,3 +1,7 @@
+---
+fromage: Sablé de Wissant
+---
+
 # Sablé de Wissant
 ```
 Date: 13/02/2024
