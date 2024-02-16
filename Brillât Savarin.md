@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★★
 ### Commentaire
-Fromage goûtu et extrêmement crémeux, on adore !!! Ne pas oublier la version truffée qui est également un délice !
+Fromage goûtu et paradoxalement assez doux. Il est auss extrêmement crémeux, on adore !!! Ne pas oublier la version truffée qui est également un délice !
 
 ## Photo
 N/A
