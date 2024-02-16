@@ -22,7 +22,7 @@ Date: 13/02/2024
 ### Note
 ★★★★
 ### Commentaire
-Fromage au lait cru de vache, à pâte souple et croûte brossée à la bière blanche de Wissant. La chapelure dans laquelle il est roulé capte tous les arômes de la bière et nous les restitue au moment de la dégustation.
+Fromage au lait cru de vache, à pâte souple et croûte brossée à la bière blanche de Wissant. La chapelure dans laquelle il est roulé capte tous les arômes de la bière et nous les restitue au moment de la dégustation. Excellente découverte ! 
 
 ## Photo
 ![Pasted image 20240213225710.png](./M%C3%A9dias/Pasted%20image%2020240213225710.png)
