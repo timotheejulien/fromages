@@ -28,8 +28,8 @@ En bouche il ressemble a du Lou Pérac pour sa texture onctueuse mais plus ferme
 ![Pasted image 20240213202758.png](./M%C3%A9dias/Pasted%20image%2020240213202758.png)
 
 ## Dans le même esprit
-* [Cabri Ariegeois](./Cabri%20Ariegeois.md)
-* [Chevrotin Aravis](./Chevrotin%20Aravis.md)
+* [Cabri-Ariegeois](./Cabri-Ariegeois.md)
+* [Chevrotin-Aravis](./Chevrotin-Aravis.md)
 * [Claousou](./Claousou.md)
 
 ## Ressource(s)

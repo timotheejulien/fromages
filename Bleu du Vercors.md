@@ -28,8 +28,8 @@ Goûté lors d’une raclette, il est assez doux mais parfumé, c’était trop 
 ![Pasted image 20240213172521.png](./M%C3%A9dias/Pasted%20image%2020240213172521.png)
 
 ## Dans le même esprit
-* [Bleu d’Auvergne](./Bleu%20d%E2%80%99Auvergne.md)
-* [Fourme de Montbrison](./Fourme%20de%20Montbrison.md)
+* [Bleu-Auvergne](./Bleu-Auvergne.md)
+* [Fourme-de-Montbrison](./Fourme-de-Montbrison.md)
 
 ## Ressource(s)
 * N/A

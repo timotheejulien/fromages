@@ -29,8 +29,8 @@ Une pépite ! Très belle pâte persillée au goût beurré, je recommande !!!
 
 ## Dans le même esprit
 * [Shropshire](./Shropshire.md)
-* [Fourme de Montbrison](./Fourme%20de%20Montbrison.md)
-* [Bleu d’Auvergne](./Bleu%20d%E2%80%99Auvergne.md)
+* [Fourme-de-Montbrison](./Fourme-de-Montbrison.md)
+* [Bleu-Auvergne](./Bleu-Auvergne.md)
 * [Bleu du Vercors](./Bleu%20du%20Vercors.md)
 
 ## Ressource(s)

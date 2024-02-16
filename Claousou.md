@@ -28,7 +28,7 @@ De texture il ressemble à un Lou Pérac mais un goût plus prononcé, et une od
 ![Pasted image 20240213185858.png](./M%C3%A9dias/Pasted%20image%2020240213185858.png)
 
 ## Dans le même esprit
-* [Ovale Brebis](./Ovale%20Brebis.md)
+* [Ovale-Brebis](./Ovale-Brebis.md)
 
 ## Ressource(s)
 * [Le guide du fromage](https://www.leguidedufromage.com/le-claousou-io621.html)

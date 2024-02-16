@@ -28,8 +28,8 @@ Une saveur forte et un arôme légèrement piquant. Légèrement acide, mais gé
 
 ## Dans le même esprit
 * [Stilton](./Stilton.md)
-* [Fourme de Montbrison](./Fourme%20de%20Montbrison.md)
-* [Bleu d’Auvergne](./Bleu%20d%E2%80%99Auvergne.md)
+* [Fourme-de-Montbrison](./Fourme-de-Montbrison.md)
+* [Bleu-Auvergne](./Bleu-Auvergne.md)
 * [Bleu du Vercors](./Bleu%20du%20Vercors.md)
 
 ## Ressource(s)

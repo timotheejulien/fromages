@@ -30,7 +30,7 @@ Il a un goût long en bouche et puissant ! Proche de l’Époisses malgré une p
 ![Pasted image 20240213222805.png](./M%C3%A9dias/Pasted%20image%2020240213222805.png)
 
 ## Dans le même esprit
-* [L’ami du Chambertin](./L%E2%80%99ami%20du%20Chambertin.md)
+* [L-ami-du-Chambertin](./L-ami-du-Chambertin.md)
 * [Livarot](./Livarot.md)
 
 ## Ressource(s)

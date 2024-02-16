@@ -29,8 +29,8 @@ Goût de terroir prononcé mais un peu plus doux que son homologue le Camembert.
 ![Pasted image 20240213200356.png](./M%C3%A9dias/Pasted%20image%2020240213200356.png)
 
 ## Dans le même esprit
-* [Camembert de Normandie](./Camembert%20de%20Normandie.md)
-* [Brie de Meaux](./Brie%20de%20Meaux.md)
+* [Camembert-de-Normandie](./Camembert-de-Normandie.md)
+* [Brie-de-Meaux](./Brie-de-Meaux.md)
 
 ## Ressource(s)
 * [Androuet](http://androuet.com/Coulommiers-112.html)
