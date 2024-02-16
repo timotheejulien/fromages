@@ -1,3 +1,6 @@
+---
+fromage: Fourme de Montbrison
+---
 # Fourme de Montbrison
 ```
 Date: 13/02/2024
