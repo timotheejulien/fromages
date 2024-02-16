@@ -33,7 +33,7 @@ Malgré une préférence pour le comté ou le beaufort, l’Abondance possède u
 ## Dans le même esprit
 * [Appenzeller](./Appenzeller.md)
 * [Etivaz](./Etivaz.md)
-* [Fribourg ou gruyère suisse](./Fribourg%20ou%20gruy%C3%A8re%20suisse.md)
+* [Fribourg-ou-gruyere-suisse](./Fribourg-ou-gruyere-suisse.md)
 
 ## Ressource(s)
 * [Androuet](http://androuet.com/Abondance-89.html)
