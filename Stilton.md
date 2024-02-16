@@ -31,7 +31,7 @@ Une pépite ! Très belle pâte persillée au goût beurré, je recommande !!!
 * [Shropshire](./Shropshire.md)
 * [Fourme-de-Montbrison](./Fourme-de-Montbrison.md)
 * [Bleu-Auvergne](./Bleu-Auvergne.md)
-* [Bleu du Vercors](./Bleu%20du%20Vercors.md)
+* [Bleu-du-Vercors](./Bleu-du-Vercors.md)
 
 ## Ressource(s)
 * [Androuet](https://androuet.com/stilton-cheese-171.html)
