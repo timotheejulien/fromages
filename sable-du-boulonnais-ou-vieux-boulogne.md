@@ -25,7 +25,7 @@ Date: 16/02/2024
 ### Note
 ★★★★
 ### Commentaire
-Il a la texture d’une tomme et est légèrement alvéolé. Ce fromage offre un bon caractère grâce à sa croûte lavée à la bière. Son cœur reste plus doux doux. Bon équilibre en somme ! 
+Il a la texture d’une tomme et est légèrement alvéolé. Ce fromage offre un bon caractère grâce à sa croûte lavée à la bière. Son cœur reste plus doux. Bon équilibre en somme ! 
 Je me demande si en cuisson dans un burger… il serait pas top 😉
 
 ## Photo
