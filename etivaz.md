@@ -34,6 +34,7 @@ Cousin du comté ou gruyère suisse, il est plus aromatique que la concurrence.
 * [appenzeller](./appenzeller.md)
 * [abondance](./abondance.md)
 * [fribourg-ou-gruyere-suisse](./fribourg-ou-gruyere-suisse.md)
+* [comte](./comte.md)
 
 ## Ressource(s)
 * [Androuet](https://androuet.com/Etivaz-705.html)
