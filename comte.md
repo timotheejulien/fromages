@@ -14,23 +14,22 @@ Date: 19/02/2024
 | **Pâte** | Pressée, cuite |
 | **Lait** | Vache, lait cru |
 | **Forme** | Meule |
-| **Odeur** | Varie selon l'affinage |
+| **Odeur** |  |
 | **Texture** | Ferme |
-| **Affinage** | Varie |
+| **Affinage** |  |
 | **Meilleure période de dégustation** | Septembre à décembre |
-| **Boisson(s)** | Vin blanc |
-| **Prix** | Varie selon l'affinage |
+| **Boisson(s)** |  |
+| **Prix** |  |
 
 ## Avis
 ### Note
 ★★★★
 ### Commentaire
 C’est un incontournable ! 
-Difficile de décrire ce fromage puisque que selon son affinage, son goût évoluera. Un comté plus jeune sera plus fruité alors qu’un fromage plus affiné offrira plus de caractère en bouche. Il pourra être mangé froid comme fondu.
+Difficile de décrire ce fromage puisque que selon son affinage, son goût évoluera. Un comté plus jeune sera plus fruité alors qu’un fromage plus affiné offrira plus de caractère en bouche. 
 
 ## Photo
-![comte-produit.webp](./M%C3%A9dias/comte-produit.webp)
-Crédit : [Comté](https://www.comte.com/portrait-dun-grand-fromage/)
+
 
 ## Dans le même esprit
 * [appenzeller](./appenzeller.md)

@@ -32,6 +32,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Manigodine](./manigodine.md)
 - [Mont d’Or ou Vacherin](./mont-dor-ou-vacherin.md)
 - [Munster](./munster.md)
+- [Ossau-Iraty](./ossau-iraty.md)
 - [Ovale de brebis](./ovale-Brebis.md)
 - [Pavé d'Auge](./pave-dauge.md)
 - [Pérail des cabasses](./perail-des-cabasses.md)
