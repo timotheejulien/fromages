@@ -18,6 +18,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 - [Citeaux](./citeaux.md)
 - [Claousou](./claousou.md)
 - [Cœur de pommeau](./coeur-de-pommeau.md)
+- [Comté](./comte.md)
 - [Comtesse de Vichy](./comtesse-de-vichy.md)
 - [Coulommiers](./coulommiers.md)
 - [Etivaz](./etivaz.md)
