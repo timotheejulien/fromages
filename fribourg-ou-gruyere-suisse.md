@@ -36,6 +36,7 @@ C’est excellent, proche du comté, il est encore plus fruité à mon sens.
 * [abondance](./abondance.md)
 * [appenzeller](./appenzeller.md)
 * [etivaz](./etivaz.md)
+* [comte](./comte.md)
 
 ## Ressource(s)
 * [Androuet](http://www.androuet.com/gruyere-suisse-169.html)
