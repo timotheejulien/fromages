@@ -30,7 +30,7 @@ Très sympa pour changer du comté, plus prononcé en goût. Sa texture est un p
 ![Appenzeller-noir-1024x989-1-365496228.jpg](./M%C3%A9dias/Appenzeller-noir-1024x989-1-365496228.jpg)
 ## Dans le même esprit
 * [abondance](./abondance.md)
-* Comté
+* [comte](./comte.md)
 * [etivaz](./etivaz.md)
 * [fribourg-ou-gruyere-suisse](./fribourg-ou-gruyere-suisse.md)
 
