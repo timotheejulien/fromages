@@ -1,5 +1,5 @@
 ---
-fromage: Bethmal
+fromage: Bethmale
 ---
 # Bethmale
 ```
