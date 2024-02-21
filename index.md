@@ -1,12 +1,10 @@
-## À propos
-**À l'âge de 1 an je mangeais déjà du camembert !** 
-
-Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche par fromage goûté. J'essaie sans prétention, selon mes connaissances et mes sens, de retranscrire cela dans ces fiches.
+## Avant-goût
+Amateur de caséologie depuis toujours (à l'âge de 1 an je mangeais déjà du camembert), j'ai décidé il y a quelques temps de créer une fiche sur chaque fromage que je déguste. J'essaie sans prétention, selon mes connaissances et mes sens, de retranscrire cela dans ces notes.
 ## Fromages goûtés
 - [Abondance](./abondance.md)
 - [Appenzeller](./appenzeller.md)
 - [Belval à la bière brune](./belval-a-la-biere-brune.md)
-- [Bethmal](./bethmale.md)
+- [Bethmale](./bethmale.md)
 - [Bleu d'Aubergne](./bleu-auvergne.md)
 - [Bleu du Vercors](./bleu-du-vercors.md)
 - [Brie de Meaux](./brie-de-meaux.md)
@@ -53,7 +51,7 @@ Amateur de caséologie, j'ai décidé il y a quelques temps de créer une fiche 
 ---
 #### Timothée Julien
 Product designer (UX/UI) indépendant, évoluant à Paris.
-* <a href="https://timotheejulien.fr" target="_blank">Pixelfed</a>
+* <a href="https://timotheejulien.fr" target="_blank">Portfolio</a>
 * <a href="https://bookmarks.timotheejulien.fr/guest/links" target="_blank">Veille</a>
 * <a href="https://www.linkedin.com/in/timotheejulien/" target="_blank">Linkedin</a>
 - <a href="https://mastodon.timotheejulien.fr/@tim" target="_blank" rel="me">Mastodon</a>
