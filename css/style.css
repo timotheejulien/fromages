@@ -109,6 +109,7 @@ a:hover {
     display: inline-block;
     vertical-align: middle;
     text-decoration: none;
+    font-family: MonaSans-title;
     font-weight: 500;
     font-size: 18px;
     border-radius: 360px;
