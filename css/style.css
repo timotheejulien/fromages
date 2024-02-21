@@ -174,7 +174,8 @@ header {
     right: 0;
     z-index: 10;
     background: rgba(251, 251, 251, 0.85);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px) saturate(120%);
+    -webkit-backdrop-filter: blur(10px) saturate(120%);
 }
 
 nav {
