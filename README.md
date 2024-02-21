@@ -1,8 +1,6 @@
-# À propos
+# Amateur de caséologie, depuis toujours
 
-**À l’âge de 1 an je mangeais déjà du camembert !**
-
-Amateur de caséologie, j’ai décidé il y a quelques temps de créer une fiche par fromage goûté. J’essaie sans prétention, selon mes connaissances et mes sens, de retranscrire cela dans ces fiches.
+J'ai décidé il y a quelques temps de créer une fiche sur chaque fromage que je déguste. J'essaie sans prétention, selon mes connaissances et mes sens, de retranscrire cela dans ces notes.
 
 ## URL
 [fromages.timotheejulien.fr](https://fromages.timotheejulien.fr)
