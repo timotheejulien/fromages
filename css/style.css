@@ -37,6 +37,7 @@
     src: url(../assets/fonts/MonaSans-title.woff2) format("woff2");
     font-style: normal;
     font-weight: 500;
+    font-display: fallback;
 }
 
 @font-face {
@@ -45,6 +46,7 @@
     font-style: normal;
     font-weight: 400;
     font-feature-settings: "ss01" on;
+    font-display: fallback;
 }
 
 @font-face {
@@ -53,6 +55,7 @@
     font-style: normal;
     font-weight: 700;
     font-feature-settings: "ss01" on;
+    font-display: fallback;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
