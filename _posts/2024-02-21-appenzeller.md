@@ -22,9 +22,9 @@ comment: "Très sympa pour changer du comté, plus prononcé en goût. Sa textur
 
 ## Dans le même esprit
 * [Abondance]({% post_url 2024-02-21-abondance %})
-* [[comte]]
-* [[etivaz]]
-* [[fribourg-ou-gruyere-suisse]]
+* [Comté]({% post_url 2024-02-21-comte %})
+* [Etivaz]({% post_url 2024-02-21-etivaz %})
+* [Fribourg ou gruyère suisse]({% post_url 2024-02-21-fribourg-ou-gruyere-suisse %})
 
 ## Ressource(s)
 * [Androuet](https://androuet.com/appenzeller-ou-appenzel-189.html)

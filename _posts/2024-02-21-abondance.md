@@ -22,9 +22,9 @@ comment: "Malgré une préférence pour le comté ou le beaufort, l’Abondance 
 
 ## Dans le même esprit
 * [Appenzeller]({% post_url 2024-02-21-appenzeller %})
-* [etivaz](./etivaz.md)
-* [fribourg-ou-gruyere-suisse](./fribourg-ou-gruyere-suisse.md)
-* [comte](./comte.md)
+* [Etivaz]({% post_url 2024-02-21-etivaz %})
+* [Fribourg ou gruyère suisse]({% post_url 2024-02-21-fribourg-ou-gruyere-suisse %})
+* [Comté]({% post_url 2024-02-21-comte %})
 
 ## Ressource(s)
 * [Androuet](http://androuet.com/Abondance-89.html)
