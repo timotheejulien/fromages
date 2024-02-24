@@ -4,6 +4,9 @@ title:  "Brie de Meaux"
 note: "★★★★★"
 image: /assets/brie-de-meaux.png
 comment: "Dans la même veine que le Camembert et le Coulommiers, le Brie de Meaux est un peu plus fruité avec un goût également prononcé. Également très bon, le Brie truffé."
+tags:
+    - Pâte molle
+    - Pâte fleurie
 ---
 
 ## Informations
