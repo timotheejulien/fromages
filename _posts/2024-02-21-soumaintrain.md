@@ -4,6 +4,9 @@ title: "Soumaintrain"
 note: "★★★★☆"
 image: /assets/soumaintrain.png
 comment: "Sa pâte est fine, fraiche et douce. Son goût lactique (petit lait) lui confère une légère acidité qui sera combinée à une pointe d’amertume. Le Soumaintrain se distingue par la richesse de sa palette aromatique. L’affinage développe des arômes végétaux, (champignon, humus, foin, paille), parfois boisés. Plus l’affinage est développé plus les nuances animales prennent de l’importance. Ses arômes sont persistants en bouche."
+tags:
+    - Pâte molle
+    - Pâte lavée
 ---
 
 ## Informations
