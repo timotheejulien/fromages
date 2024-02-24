@@ -4,6 +4,9 @@ title:  "Comtesse de Vichy"
 note: "★★★★☆"
 image: /assets/comtesse-vichy.png
 comment: "Comme le Mont d’Or, il est très crémeux et la croûte donne un goût plus puissant, un peu boisé."
+tags:
+    - Pâte fleurie
+    - Pâte pressée
 ---
 
 ## Informations
