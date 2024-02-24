@@ -4,6 +4,9 @@ title: "Rocamadour"
 note: "★★★★★"
 image: /assets/rocamadour.png
 comment: "Sa pâte est onctueuse et crémeuse qui libère des saveurs subtiles de crème, de beurre et de noisette."
+tags:
+    - Pâte molle
+    - Pâte naturelle
 ---
 
 ## Informations
