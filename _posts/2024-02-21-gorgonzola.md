@@ -3,7 +3,9 @@ layout: post
 title:  "Gorgonzola"
 note: "★★★★★"
 image: /assets/fribourg.png
-comment: "J'ai une préférence pour le gorgonzola à la louche, plus crémeux encore. Mis à part ça, c'est un fromage à pâte persillée qui est très bon, goûtu et crémeux à souhait et qui permet de changer d'un Roquefort s'il a plus d'affinage. Il est également idéal dans des sauces !"
+comment: "J'ai une préférence pour le Gorgonzola à la louche, plus crémeux encore. Mis à part ça, c'est un fromage à pâte persillée qui est très bon, goûtu et crémeux à souhait. Je trouve qu'il permet de changer d'un Roquefort. Il est également idéal dans des sauces !"
+tags:
+    - Pâte persillée
 ---
 
 ## Informations
