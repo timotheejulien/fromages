@@ -4,6 +4,8 @@ title:  "Bleu d'Auvergne"
 note: "★★★★☆"
 image: /assets/bleu-auvergne.png
 comment: "Puissant et persistant, à la texture friable et cassante mais très fondante. Il revêt des arômes délicats de sous bois et de champignons sauvages."
+tags:
+    - Pâte persillée
 ---
 
 ## Informations
