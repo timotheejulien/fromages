@@ -4,6 +4,9 @@ title: "Saint-Germier"
 note: "★★★★☆"
 image: /assets/saint-germier.png
 comment: "Très sympa, on sent bien le lait de brebis, typé mais relativement doux en bouche."
+tags:
+    - Pâte molle
+    - Pâte lavée
 ---
 
 ## Informations
