@@ -4,6 +4,9 @@ title: "Sablé du Boulonnais ou Vieux Boulogne"
 note: "★★★★☆"
 image: /assets/sable-boulonnais.jpg
 comment: "Il a la texture d’une tomme et est légèrement alvéolé. Ce fromage offre un bon caractère grâce à sa croûte lavée à la bière. Son cœur reste plus doux. Bon équilibre en somme ! Je me demande si en cuisson dans un burger… il serait pas top 😉"
+tags:
+    - Pâte molle
+    - Pâte lavée
 ---
 
 ## Informations
