@@ -4,13 +4,15 @@ title: "Sablé de Wissant"
 note: "★★★★☆"
 image: /assets/sable-wissant.png
 comment: "Fromage au lait cru de vache, à pâte souple et croûte brossée à la bière blanche de Wissant. La chapelure dans laquelle il est roulé capte tous les arômes de la bière et nous les restitue au moment de la dégustation. Excellente découverte !"
+tags: 
+    - Pâte brossée
 ---
 
 ## Informations
 
 | **Appellation** | N/A |
 | **Origine géographique** | Département : Pas-de-Calais, Région : Hauts-de-France, Pays : France   |
-| **Pâte** | Brossée, Souple |
+| **Pâte** | Brossée |
 | **Lait** | Vache |
 | **Forme** | Ronde |
 | **Odeur** | Bière |
