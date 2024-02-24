@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Cœur de pommeau"
+title:  "Coeur de pommeau"
 note: "★★★☆☆"
 image: /assets/coeur-pommeau.png
 comment: "Il se rapproche du Neufchâtel mais en bouche, il tire légèrement sur le goût de chèvre frais. Il a également son aspect, plâtreux mais il est très goûtu ! Bonne durée en bouche, très bonne dégustation !"
+tags:
+    - Pâte molle
+    - Pâte fleurie
 ---
 
 ## Informations
