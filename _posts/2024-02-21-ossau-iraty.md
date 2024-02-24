@@ -4,6 +4,9 @@ title:  "Ossau-Iraty"
 note: "★★★☆☆"
 image: /assets/ossau-iraty.png
 comment: "C'est un bon fromage de brebis. Idéal pour changer des fromages au lait de vache du type Comté. Il conviendra parfaitement en apéritif mais aussi sur un plateau de fromage. Je le trouve meilleur lorsqu'il est marié avec une confiture de cerise noire ! Au goût, je trouve qu'on perçoit des notes de noisette."
+tags:
+    - Pâte pressée
+    - Pâte cuite
 ---
 
 ## Informations
