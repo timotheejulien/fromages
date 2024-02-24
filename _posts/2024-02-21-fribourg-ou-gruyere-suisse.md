@@ -3,7 +3,10 @@ layout: post
 title:  "Fribourg ou gruyère suisse"
 note: "★★★★★"
 image: /assets/fribourg.png
-comment: "C’est excellent, proche du comté, il est encore plus fruité à mon sens."
+comment: "Je vous le dis, c’est excellent ! Proche du Comté, il est encore plus fruité à mon sens et reste plus longtemps en bouche."
+tags:
+    - Pâte pressée
+    - Pâte cuite
 ---
 
 ## Informations
