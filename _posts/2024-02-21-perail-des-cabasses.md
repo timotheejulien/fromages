@@ -4,6 +4,9 @@ title:  "Pérail des cabasses"
 note: "★★★★★"
 image: /assets/perail-cabasses.png
 comment: "Superbe découverte ! Belle alternative au Petit fiancé des Pyrénées"
+tags:
+    - Pâte molle
+    - Pâte fleurie
 ---
 
 ## Informations
