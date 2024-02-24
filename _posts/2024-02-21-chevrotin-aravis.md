@@ -3,7 +3,10 @@ layout: post
 title:  "Chevrotin Aravis"
 note: "★★★★★"
 image: /assets/chevrotin-aravis.png
-comment: "Il se fait appeler le reblochon au chèvre ! C’est excellent, on retrouve bien l’aspect et le goût du Reblochon. Une pépite pour remplacer le Petit Fiancé des Pyrénées."
+comment: "Il se fait appeler le Reblochon au chèvre ! C’est excellent, on retrouve bien l’aspect et le goût du Reblochon. Une pépite pour remplacer le Petit Fiancé des Pyrénées."
+tags:
+    - Pâte pressée
+    - Pâte non cuite
 ---
 
 ## Informations
