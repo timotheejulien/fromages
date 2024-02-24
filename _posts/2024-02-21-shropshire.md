@@ -3,7 +3,9 @@ layout: post
 title: "Shropshire"
 note: "★★★★★"
 image: /assets/shropshire.png
-comment: "Une saveur forte et un arôme légèrement piquant. Légèrement acide, mais généralement plus fort que le Stilton et plus crémeux."
+comment: "Une saveur forte et un arôme légèrement piquant. On retrouve également une pointe d'acidité. Il est plus fort que le Stilton et plus crémeux."
+tags:
+    - Pâte persillée
 ---
 
 ## Informations
