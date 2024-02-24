@@ -4,6 +4,9 @@ title:  "Appenzeller"
 note: "★★★★★"
 image: /assets/appenzeller.jpg
 comment: "Très sympa pour changer du comté, plus prononcé en goût. Sa texture est un peu plus souple également."
+tags:
+    - Pâte pressée
+    - Pâte cuite
 ---
 
 ## Informations
