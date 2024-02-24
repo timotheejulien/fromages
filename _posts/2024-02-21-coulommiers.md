@@ -4,6 +4,9 @@ title:  "Coulommiers"
 note: "★★★★☆"
 image: /assets/coulommiers.png
 comment: "Goût de terroir prononcé mais un peu plus doux que son homologue le Camembert de Normandie."
+tags:
+    - Pâte molle
+    - Pâte fleurie
 ---
 
 ## Informations
