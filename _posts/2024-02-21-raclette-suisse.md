@@ -4,6 +4,9 @@ title: "Raclette suisse"
 note: "★★★★★"
 image: /assets/raclette-suisse.png
 comment: "Plus fin et plus fruité que la raclette française, c'est devenu le fromage de mes raclettes !"
+tags:
+    - Pâte pressée
+    - Pâte cuite
 ---
 
 ## Informations
