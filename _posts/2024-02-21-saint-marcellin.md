@@ -4,6 +4,8 @@ title: "Saint Marcellin"
 note: "★★★★☆"
 image: /assets/saint-marcellin.png
 comment: "Un goût légèrement acide avec des pointes aromatiques de noisette, c'est très bon et crémeux !"
+tags:
+     - Pâte molle
 ---
 
 ## Informations
