@@ -5,6 +5,9 @@ note: "★★★★☆"
 image: /assets/mont-or.png
 comment: "Meilleur chaud en apéritif, c’est un fromage chaleureux et très coulant ! Parfumé avec des notes boisées ! Peut être mangé préparé (vin blanc, échalotte…).
 <br> « Fabriqué uniquement dans le Haut-Doubs à plus de 700 m d’altitude, le Mont d’Or a obtenu son AOC en 1981 puis son AOP en 1996. Fromage d’hiver, il tire notamment ses arômes de l’épicéa avec lequel il partage beaucoup : ceinturé avec une sangle en épicéa, affiné sur des planches en épicéa puis dans sa boîte faite avec la même essence »."
+tags:
+    - Pâte molle
+    - Pâte lavée
 ---
 
 ## Informations
