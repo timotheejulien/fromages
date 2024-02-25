@@ -1,4 +1,4 @@
 author:
   name: Timothée JULIEN
-
-permalink: /:categories/:title/
+title: Notes caséologiques
+permalink: /:categories/:title.html

@@ -2,7 +2,7 @@
 layout: post
 title: "Petit fiancé des Pyrénées"
 note: "★★★★★"
-image: /assets/petit-fiance-pyrenees.png
+image: /assets/image-placeholder.jpg
 comment: "Une dinguerie ! Ce fromage qui pourrait avoir un petit air de Reblochon, est plus puissant en bouche, offrant des saveurs caprines équilibrées et parfumées de notes florales, de paille et de noisettes."
 tags:
     - Pâte molle

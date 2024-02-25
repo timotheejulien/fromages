@@ -245,6 +245,10 @@ ul.listing li {
 }
 
 .post-image {
+    height: 0%;
+    margin: 0;
+    padding: 0;
+    display: block;
     position: relative;
 }
   
@@ -266,22 +270,22 @@ ul.listing li {
 
 .post-image figcaption {
     width: 100%;
-    margin-top: calc(100% + var(--space-x-small));
+    margin-top: calc(100% + var(--space-small));
     padding: var(--space-none) var(--space-regular) var(--space-none) var(--space-regular);
     font-size: 14px;
-    font-weight: 18px;
+    line-height: 18px;
     letter-spacing: 0.2px;
     text-align: center;
     color: var(--color-text-secondary);
+    position: absolute;
 }
 
 .post-image figcaption a {
     color: var(--color-text-secondary);
 }
 
-
-
 #informations {
+    margin-top: var(--space-regular);
     margin-bottom: var(--space-medium);
 }
 
@@ -417,7 +421,6 @@ ul.footer-nav li {
         min-width: 400px;
         max-height: 400px;
         min-height: 400px;
-        
     }
 
     #dans-le-même-esprit, #ressources {

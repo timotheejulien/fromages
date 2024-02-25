@@ -2,7 +2,8 @@
 layout: post
 title:  "Bleu d'Auvergne"
 note: "★★★★☆"
-image: /assets/bleu-auvergne.png
+image: /assets/bleu-auvergne.jpg
+image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_Clermont-Ferrand_-_Bleu_d%27Auvergne_20220825-02.jpg">Pymouss</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 comment: "Puissant et persistant, à la texture friable et cassante mais très fondante. Il revêt des arômes délicats de sous bois et de champignons sauvages."
 tags:
     - Pâte persillée

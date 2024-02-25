@@ -2,7 +2,8 @@
 layout: post
 title:  "Comtesse de Vichy"
 note: "★★★★☆"
-image: /assets/comtesse-vichy.png
+image: /assets/comtesse-vichy.jpg
+image-credit: Pierre-Yves Beaudouin&nbsp;/&nbsp;<a href="https://commons.wikimedia.org/wiki/File:WikiCheese_-_Comtesse_de_Vichy_06.jpg" title="Main Page">Wikimedia Commons</a>
 comment: "Comme le Mont d’Or, il est très crémeux et la croûte donne un goût plus puissant, un peu boisé."
 tags:
     - Pâte fleurie

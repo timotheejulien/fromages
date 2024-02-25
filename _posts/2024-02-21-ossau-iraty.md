@@ -2,7 +2,8 @@
 layout: post
 title:  "Ossau-Iraty"
 note: "★★★☆☆"
-image: /assets/ossau-iraty.png
+image: /assets/ossau-iraty.jpg
+image-credit: <a href="https://commons.wikimedia.org/wiki/File:Fromages_Ossau-Iraty_003.jpg">Jean Michel Etchecolonea</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 comment: "C'est un bon fromage de brebis. Idéal pour changer des fromages au lait de vache du type Comté. Il conviendra parfaitement en apéritif mais aussi sur un plateau de fromage. Je le trouve meilleur lorsqu'il est marié avec une confiture de cerise noire ! Au goût, je trouve qu'on perçoit des notes de noisette."
 tags:
     - Pâte pressée

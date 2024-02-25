@@ -2,7 +2,8 @@
 layout: post
 title: "Shropshire"
 note: "★★★★★"
-image: /assets/shropshire.png
+image: /assets/shropshire.jpg
+image-credit: <a href="https://commons.wikimedia.org/wiki/File:Shropshire_(fromage)_en_ao%C3%BBt_2023.jpg">Benoît Prieur</a>, CC0, via Wikimedia Commons
 comment: "Une saveur forte et un arôme légèrement piquant. On retrouve également une pointe d'acidité. Il est plus fort que le Stilton et plus crémeux."
 tags:
     - Pâte persillée

@@ -2,7 +2,8 @@
 layout: post
 title: "Rocamadour"
 note: "★★★★★"
-image: /assets/rocamadour.png
+image: /assets/rocamadour.jpg
+image-credit: <a href="https://commons.wikimedia.org/wiki/File:Rocamadour_(fromage)_05.jpg">Coyau / Wikimedia Commons</a>
 comment: "Sa pâte est onctueuse et crémeuse qui libère des saveurs subtiles de crème, de beurre et de noisette."
 tags:
     - Pâte molle

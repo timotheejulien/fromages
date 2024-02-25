@@ -2,7 +2,8 @@
 layout: post
 title: "Saint Marcellin"
 note: "★★★★☆"
-image: /assets/saint-marcellin.png
+image: /assets/saint-marcellin.jpg
+image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_-_Saint-marcellin_-_20150417_-_010.jpg">Thesupermat</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 comment: "Un goût légèrement acide avec des pointes aromatiques de noisette, c'est très bon et crémeux !"
 tags:
      - Pâte molle

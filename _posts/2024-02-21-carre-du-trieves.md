@@ -2,6 +2,7 @@
 layout: post
 title:  "Carré du Trièves"
 note: "★★★★☆"
+image: /assets/image-placeholder.jpg
 comment: "Bien goûtu avec une note sur la fin de fromage de chèvre sec, il pique le palais ! Belle découverte !"
 tags:
     - Pâte molle

@@ -2,7 +2,8 @@
 layout: post
 title:  "Coulommiers"
 note: "★★★★☆"
-image: /assets/coulommiers.png
+image: /assets/coulommiers.jpg
+image-credit: Myrabella <a href="https://commons.wikimedia.org/wiki/File:Coulommiers_lait_cru.jpg" title="Main Page">Wikimedia Commons</a>
 comment: "Goût de terroir prononcé mais un peu plus doux que son homologue le Camembert de Normandie."
 tags:
     - Pâte molle
