@@ -78,6 +78,14 @@ h2, .h2 {
     line-height: 44px;
 }
 
+h3, .h3 {
+    margin: 0;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+
 h4, .h4 {
     font-size: 18px;
     font-weight: 450;
@@ -271,7 +279,7 @@ ul.listing li {
 .post-image figcaption {
     width: 100%;
     margin-top: calc(100% + var(--space-small));
-    padding: var(--space-none) var(--space-regular) var(--space-none) var(--space-regular);
+    padding: var(--space-none) var(--space-x-small) var(--space-none) var(--space-x-small);
     font-size: 14px;
     line-height: 18px;
     letter-spacing: 0.2px;
@@ -360,6 +368,13 @@ ul.footer-nav li {
         font-style: normal;
         font-weight: 500;
         line-height: 54px;
+    }
+
+    h3, .h3 {
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: auto;
     }
 
     /* VARIABLE LAYOUT */
