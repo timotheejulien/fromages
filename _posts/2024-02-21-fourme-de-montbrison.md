@@ -3,7 +3,7 @@ layout: post
 title:  "Fourme de Montbrison"
 note: "★★★★☆"
 image: /assets/fourme-montbrison.png
-comment: "Belle découverte ! Ce fromage à pâte persillée possède la texture d’une tomme. Le mélange est harmonieux et change. On retrouve ce goût persillé, semblable à la fourme d’Ambert mais adoucit."
+comment: "Belle découverte ! Ce fromage à pâte persillée possède la texture d’une tomme. Le mélange est harmonieux et change. On retrouve ce goût persillé, semblable à la fourme d’Ambert mais adoucit."
 tags:
     - Pâte persillée
 ---

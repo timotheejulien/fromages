@@ -3,7 +3,7 @@ layout: post
 title: "Pont-l'Évêque"
 note: "★★★☆☆"
 image: /assets/pont-eveque.png
-comment: "« De couleur jaune pâle, la pâte du fromage Pont l'Evêque doit être tendre, ni trop sèche, ni trop coulante. Onctueuse, légèrement salée, elle révèle des goûts subtils et raffinés. On retrouve la finesse d'arômes crémeux et fruités, comme la noisette »."
+comment: "« De couleur jaune pâle, la pâte du fromage Pont l'Evêque doit être tendre, ni trop sèche, ni trop coulante. Onctueuse, légèrement salée, elle révèle des goûts subtils et raffinés. On retrouve la finesse d'arômes crémeux et fruités, comme la noisette »."
 tags:
     - Pâte molle
     - Pâte lavée

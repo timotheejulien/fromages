@@ -3,7 +3,7 @@ layout: post
 title:  "Ovale de brebis"
 note: "★★★☆☆"
 image: /assets/ovale-brebis.png
-comment: "Son goût frais, parfumé et sa texture crémeuse en font un choix judicieux pour l'apéritif ! Il peut également s’accompagner de confiture de cerise noire."
+comment: "Son goût frais, parfumé et sa texture crémeuse en font un choix judicieux pour l'apéritif ! Il peut également s’accompagner de confiture de cerise noire."
 tags: 
     - Pâte molle
     - Pâte naturelle

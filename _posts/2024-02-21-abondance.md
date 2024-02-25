@@ -3,7 +3,7 @@ layout: post
 title:  "Abondance"
 note: "★★★★☆"
 image: /assets/abondance.png
-comment: "Malgré une préférence pour le comté ou le beaufort, l’Abondance possède un léger goût de noisette et sa croûte donne un léger goût crayeux qui vient relever le fromage !"
+comment: "Malgré une préférence pour le comté ou le beaufort, l’Abondance possède un léger goût de noisette et sa croûte donne un léger goût crayeux qui vient relever le fromage !"
 tags: 
     - Pâte pressée
     - Pâte cuite
@@ -12,7 +12,7 @@ tags:
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Département : Haute-Savoie, Région : Auvergne-Rhône-Alpes, Pays : France |
+| **Origine géographique** | Département : Haute-Savoie, Région : Auvergne-Rhône-Alpes, Pays : France |
 | **Pâte** | Pressée, cuite |
 | **Lait** | Vache |
 | **Forme** | Meule |

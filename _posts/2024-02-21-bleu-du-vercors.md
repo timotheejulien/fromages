@@ -3,7 +3,7 @@ layout: post
 title:  "Bleu du Vercors"
 note: "★★★★☆"
 image: /assets/bleu-vercors.png
-comment: "Goûté lors d’une raclette, il est assez doux mais parfumé, c’était trop bon ! Se déguste bien évidemment aussi froid ;)"
+comment: "Goûté lors d’une raclette, il est assez doux mais parfumé, c’était trop bon ! Se déguste bien évidemment aussi froid ;)"
 tags:
     - Pâte persillée
 ---

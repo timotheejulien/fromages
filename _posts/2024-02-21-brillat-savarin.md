@@ -2,7 +2,7 @@
 layout: post
 title:  "Brillât Savarin"
 note: "★★★★★"
-comment: "Fromage goûtu et paradoxalement assez doux. Il est aussi extrêmement crémeux, on adore !!! Ne pas oublier la version truffée qui est également un délice !"
+comment: "Fromage goûtu et paradoxalement assez doux. Il est aussi extrêmement crémeux, on adore !!! Ne pas oublier la version truffée qui est également un délice !"
 tags:
     - Pâte molle
     - Pâte fleurie
