@@ -22,8 +22,5 @@ tags:
 | **Boisson(s)** | *Côte du Rhone ou St Joseph* |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* N/A
-
-## Ressource(s)
+### Ressource(s)
 * N/A

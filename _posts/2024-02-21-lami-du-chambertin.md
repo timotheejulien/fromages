@@ -23,8 +23,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | 8 € pièce |
 
-## Dans le même esprit
-* [[munster]]
-
-## Ressource(s)
+### Ressource(s)
 * N/A

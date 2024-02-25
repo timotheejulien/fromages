@@ -24,10 +24,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | ~45 € /kg |
 
-## Dans le même esprit
-* [[cabri-ariegeois]]
-* [[chevrotin-aravis]]
-* [[perail-des-cabasses]]
-
-## Ressource(s)
+### Ressource(s)
 * [Le guide du friomage](https://www.leguidedufromage.com/le-petit-fiance-des-pyrenees-io590.html)

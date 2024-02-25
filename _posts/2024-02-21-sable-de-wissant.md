@@ -22,8 +22,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* N/A
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](http://www.androuet.com/Sablé-de-Wissant-1002.html)

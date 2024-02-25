@@ -23,8 +23,5 @@ tags:
 | **Boisson(s)** | Vin chardonnay  |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* N/A
-
-## Ressource(s)
+### Ressource(s)
 * N/A

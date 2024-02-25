@@ -23,8 +23,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | 5€ pièce |
 
-## Dans le même esprit
-* [[claousou]]
-
-## Ressource(s)
+### Ressource(s)
 * N/A

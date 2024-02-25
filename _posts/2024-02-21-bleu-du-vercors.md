@@ -22,9 +22,5 @@ tags:
 | **Boisson(s)** | Vin de Savoie pour la raclette |
 | **Prix** | 40 € /kg |
 
-## Dans le même esprit
-* [[bleu-auvergne]]
-* [[fourme-de-montbrison]]
-
-## Ressource(s)
+### Ressource(s)
 * N/A

@@ -23,10 +23,6 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* [[camembert-de-normandie]]
-* [[coulommiers]]
-
-## Ressource(s)
+### Ressource(s)
 * [Wikipédia](https://fr.wikipedia.org/wiki/Brie_de_Meaux)
 * [Androuet](https://androuet.com/Brie-de-Meaux-123.html)

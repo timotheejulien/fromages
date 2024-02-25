@@ -23,9 +23,6 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | 27,90 € /kg |
 
-## Dans le même esprit
-* N/A
-
-## Ressource(s)
+### Ressource(s)
 
 * N/A

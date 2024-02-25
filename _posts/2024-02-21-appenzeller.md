@@ -23,11 +23,5 @@ tags:
 | **Boisson(s)** | Chablis / Vin jaune / Pinot noir |
 | **Prix** | 39,80 €/kg |
 
-## Dans le même esprit
-* [Abondance]({% post_url 2024-02-21-abondance %})
-* [Comté]({% post_url 2024-02-21-comte %})
-* [Etivaz]({% post_url 2024-02-21-etivaz %})
-* [Fribourg ou gruyère suisse]({% post_url 2024-02-21-fribourg-ou-gruyere-suisse %})
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](https://androuet.com/appenzeller-ou-appenzel-189.html)

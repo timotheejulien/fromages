@@ -23,10 +23,5 @@ tags:
 | **Boisson(s)** | Vin blanc du Languedoc |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* [[petit-fiance-des-pyrenees]]
-* [[chevrotin-aravis]]
-* [[cabri-ariegeois]]
-
-## Ressource(s)
+### Ressource(s)
 * N/A

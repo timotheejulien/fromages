@@ -22,11 +22,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | 38 € /kg |
 
-## Dans le même esprit
-* [[stilton]]
-* [[fourme-de-montbrison]]
-* [[bleu-auvergne]]
-* [[bleu-du-vercors]]
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](https://androuet.com/Shropshire-173.html)

@@ -23,11 +23,5 @@ tags:
 | **Boisson(s)** | Vin blanc |
 | **Prix** | ~40 € /kg |
 
-## Dans le même esprit
-* [[abondance]]
-* [[appenzeller]]
-* [[etivaz]]
-* [[comte]]
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](http://www.androuet.com/gruyere-suisse-169.html)

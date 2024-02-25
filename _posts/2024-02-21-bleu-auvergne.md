@@ -22,9 +22,5 @@ tags:
 | **Boisson(s)** | Gewurztraminer d'Alsace / Sauternes / Monbazillac / Château Neuf du Pape |
 | **Prix** | 20,90 € /kg |
 
-## Dans le même esprit
-* [[bleu-du-vercors]]
-* [[fourme-de-montbrison]]
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](https://androuet.com/Bleu-d-auvergne-139.html)

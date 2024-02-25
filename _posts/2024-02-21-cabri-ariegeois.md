@@ -22,8 +22,5 @@ tags:
 | **Boisson(s)** | *Sancerre blanc / St Joseph ou Vacqueyras* |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* [[chevrotin-aravis]]
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](http://androuet.com/Cabri-Ariégeois-32.html)

@@ -23,8 +23,5 @@ tags:
 | **Boisson(s)** | Vin blanc |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* [[pave-dauge]]
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](http://www.androuet.com/Pont-l-Evêque-122.html)

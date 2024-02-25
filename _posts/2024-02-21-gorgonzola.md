@@ -22,11 +22,6 @@ tags:
 | **Boisson(s)** | Bière, vin blanc |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* [[stilton]]
-* [[shropshire]]
-* Roquefort
-
-## Ressource(s)
+### Ressource(s)
 * [Wikipédia](<https://fr.wikipedia.org/wiki/Gorgonzola_(fromage)>)
 * [Androuet](https://androuet.com/Gorgonzola-167.html)

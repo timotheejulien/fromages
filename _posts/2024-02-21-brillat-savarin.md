@@ -22,8 +22,5 @@ tags:
 | **Boisson(s)** | *Champagne / Pommard ou Mercurey / Sauternes* |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* Chaource
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](http://androuet.com/Brillat-Savarin-111.html)

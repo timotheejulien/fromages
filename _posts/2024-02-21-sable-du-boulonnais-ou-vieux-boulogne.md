@@ -23,9 +23,6 @@ tags:
 | **Boisson(s)** | Bière, cidre ou vin blanc |
 | **Prix** | 20,70 € pièce |
 
-## Dans le même esprit
-* [[sable-de-wissant]]
-
-## Ressource(s)
+### Ressource(s)
 * [Épices review](https://epices-review.fr/vieux-boulogne/)
 * [Androuet](https://androuet.com/Fruit%C3%A9-du-Boulonnais-989.html)

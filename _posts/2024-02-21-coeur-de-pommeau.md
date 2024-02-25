@@ -23,8 +23,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* N/A
-
-## Ressource(s)
+### Ressource(s)
 * N/A

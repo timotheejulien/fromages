@@ -23,9 +23,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* [[camembert-de-normandie]]
-* [[brie-de-meaux]]
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](http://androuet.com/Coulommiers-112.html)

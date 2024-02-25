@@ -23,8 +23,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | 13,90 € pièce |
 
-## Dans le même esprit
-* N/A
-
-## Ressource(s)
+### Ressource(s)
 * N/A

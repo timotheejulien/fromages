@@ -23,8 +23,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | 17,70 € /kg |
 
-## Dans le même esprit
-* [[Morbier]]
-
-## Ressource(s)
+### Ressource(s)
 * N/A

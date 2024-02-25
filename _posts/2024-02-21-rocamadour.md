@@ -23,8 +23,5 @@ tags:
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 1,20 € /pièce |
 
-## Dans le même esprit
-* N/A
-
-## Ressource(s)
+### Ressource(s)
 * N/A

@@ -22,9 +22,5 @@ tags:
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 19 € /kg |
 
-## Dans le même esprit
-* [[bleu-auvergne]]
-* [[bleu-du-vercors]]
-
-## Ressource(s)
+### Ressource(s)
 * N/A

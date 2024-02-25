@@ -23,9 +23,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | 48 € /kg |
 
-## Dans le même esprit
-* [[Petit fiancée des Pyrénnés]]
-* [[cabri-ariegeois]]
-
-## Ressource(s)
+### Ressource(s)
 * [Saveurs des Aravis](https://saveurs-des-aravis.fr/nos-saveurs-nos-produits/chevrotin)

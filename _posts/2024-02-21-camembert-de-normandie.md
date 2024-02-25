@@ -23,9 +23,5 @@ tags:
 | **Boisson(s)** | Cidre brut, Vinc blanc légèrement acidulé |
 | **Prix** | ~7 € / pièce |
 
-## Dans le même esprit
-* [[coulommiers]]
-* [[brie-de-meaux]]
-
-## Ressource(s)
+### Ressource(s)
 * N/A

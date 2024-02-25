@@ -23,8 +23,5 @@ tags:
 | **Boisson(s)** | Vin blanc (Apremont) |
 | **Prix** | 25 € /kg |
 
-## Dans le même esprit
-* Raclette
-
-## Ressource(s)
+### Ressource(s)
 * N/A

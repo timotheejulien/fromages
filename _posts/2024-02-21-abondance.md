@@ -23,11 +23,5 @@ tags:
 | **Boisson(s)** | Vin blanc sec / Apremont |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* [Appenzeller]({% post_url 2024-02-21-appenzeller %})
-* [Etivaz]({% post_url 2024-02-21-etivaz %})
-* [Fribourg ou gruyère suisse]({% post_url 2024-02-21-fribourg-ou-gruyere-suisse %})
-* [Comté]({% post_url 2024-02-21-comte %})
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](http://androuet.com/Abondance-89.html)

@@ -23,9 +23,6 @@ tags:
 | **Boisson(s)** | *Vin blanc Crozes-Hermitage, Bière Ambrée* |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* Mont d'Or
-
-## Ressource(s)
+### Ressource(s)
 * [N/A](<[Le guide du fromage](https://www.leguidedufromage.com/comtesse-de-vichy-io486.html)
 * [Androuet](http://www.androuet.com/Comtesse-de-Vichy-1525.html)>)

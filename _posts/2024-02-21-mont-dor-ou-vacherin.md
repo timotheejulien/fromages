@@ -24,8 +24,5 @@ tags:
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* [[comtesse-de-vichy]]
-
-## Ressource(s)
+### Ressource(s)
 * [Androuet](http://androuet.com/Mont-d-or-ou-vacherin-mont-d-or-154.html)

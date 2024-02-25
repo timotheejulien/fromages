@@ -23,9 +23,6 @@ tags:
 | **Boisson(s)** | Vin blanc |
 | **Prix** | N/A |
 
-## Dans le même esprit
-* N/A
-
-## Ressource(s)
+### Ressource(s)
 * [Ossau-Iraty](https://www.ossau-iraty.fr)
 * [Androuet](https://androuet.com/Ossau-Iraty-12.html)
