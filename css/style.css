@@ -264,6 +264,23 @@ ul.listing li {
     border-color: var(--color-divider);
 }
 
+.post-image figcaption {
+    width: 100%;
+    margin-top: calc(100% + var(--space-x-small));
+    padding: var(--space-none) var(--space-regular) var(--space-none) var(--space-regular);
+    font-size: 14px;
+    font-weight: 18px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: var(--color-text-secondary);
+}
+
+.post-image figcaption a {
+    color: var(--color-text-secondary);
+}
+
+
+
 #informations {
     margin-bottom: var(--space-medium);
 }

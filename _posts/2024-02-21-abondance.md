@@ -2,7 +2,8 @@
 layout: post
 title:  "Abondance"
 note: "★★★★☆"
-image: /assets/abondance.png
+image: /assets/abondance.jpg
+image-credit: Coyau&nbsp;/&nbsp;<a href="/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>
 comment: "Malgré une préférence pour le comté ou le beaufort, l’Abondance possède un léger goût de noisette et sa croûte donne un léger goût crayeux qui vient relever le fromage !"
 tags: 
     - Pâte pressée

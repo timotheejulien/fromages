@@ -9,9 +9,14 @@
             <p class="post-review-comment">{{ page.comment }}</p>
         </div>
         
-        <div class="post-image">
+        <!-- <div class="post-image">
             <img src="{{ page.image }}" alt="Photographie du fromage : {{ page.title }}" />
-        </div>
+        </div> -->
+
+        <figure class="post-image">
+            <img src="{{ page.image }}" alt="Photographie du fromage : {{ page.title }}" />
+            <figcaption>{{ page.image-credit }}</figcaption>
+          </figure>
     </section>
 
     <section class="container">
