@@ -2,7 +2,7 @@
 layout: post
 title:  "Cabri Ariégeois"
 note: "★★★★★"
-image: /assets/image-placeholder.jpg
+image: /assets/image-placeholder.png
 comment: C’est une belle découverte ! D’aspect il ressemble au Mont d’Or mais en bouche il se rapproche du Petit Fiancé des Pyrénées ou du Reblochon, en légèrement plus doux.
 tags:
     - Pâte molle
