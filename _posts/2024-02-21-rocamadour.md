@@ -8,6 +8,7 @@ comment: "Sa pâte est onctueuse et crémeuse qui libère des saveurs subtiles d
 tags:
     - Pâte molle
     - Pâte naturelle
+tags-preview: "Pâte molle, naturelle"
 ---
 
 ## Informations

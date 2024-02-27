@@ -8,6 +8,7 @@ comment: "Comme le Mont d’Or, il est très crémeux et la croûte donne un go�
 tags:
     - Pâte fleurie
     - Pâte pressée
+tags-preview: "Pâte fleurie, pressée"
 ---
 
 ## Informations

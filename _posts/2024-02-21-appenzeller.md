@@ -8,6 +8,7 @@ comment: "Très sympa pour changer du comté, plus prononcé en goût. Sa textur
 tags:
     - Pâte pressée
     - Pâte cuite
+tags-preview: "Pâte pressée, cuite"
 ---
 
 ## Informations

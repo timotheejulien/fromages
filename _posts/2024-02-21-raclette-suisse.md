@@ -8,6 +8,7 @@ comment: "Plus fin et plus fruité que la raclette française, c'est devenu le f
 tags:
     - Pâte pressée
     - Pâte cuite
+tags-preview: "Pâte pressée, cuite"
 ---
 
 ## Informations

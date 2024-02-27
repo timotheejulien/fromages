@@ -8,6 +8,7 @@ comment: "Dans la même veine que le Camembert et le Coulommiers, le Brie de Mea
 tags:
     - Pâte molle
     - Pâte fleurie
+tags-preview: "Pâte molle, fleurie"
 ---
 
 ## Informations

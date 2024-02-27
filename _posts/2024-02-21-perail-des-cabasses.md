@@ -7,6 +7,7 @@ comment: "Superbe découverte ! Belle alternative au Petit fiancé des Pyréné
 tags:
     - Pâte molle
     - Pâte fleurie
+tags-preview: "Pâte molle, fleurie"
 ---
 
 ## Informations

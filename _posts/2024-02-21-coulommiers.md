@@ -8,6 +8,7 @@ comment: "Goût de terroir prononcé mais un peu plus doux que son homologue le 
 tags:
     - Pâte molle
     - Pâte fleurie
+tags-preview: "Pâte molle, fleurie"
 ---
 
 ## Informations

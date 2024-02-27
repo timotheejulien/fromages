@@ -2,3 +2,8 @@ author:
   name: Timothée JULIEN
 title: Notes caséologiques
 permalink: /:categories/:title.html
+
+collections:
+  previews:
+    output: true
+    permalink: /previews/:slug/

@@ -8,6 +8,7 @@ comment: "Il se fait appeler le Reblochon au chèvre ! C’est excellent, on re
 tags:
     - Pâte pressée
     - Pâte non cuite
+tags-preview: "Pâte pressée, non cuite"
 ---
 
 ## Informations

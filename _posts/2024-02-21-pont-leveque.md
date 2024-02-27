@@ -8,6 +8,7 @@ comment: "« De couleur jaune pâle, la pâte du fromage Pont l'Evêque doit ê
 tags:
     - Pâte molle
     - Pâte lavée
+tags-preview: "Pâte molle, lavée"
 ---
 
 ## Informations

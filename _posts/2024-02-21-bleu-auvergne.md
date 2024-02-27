@@ -7,6 +7,7 @@ image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_Clermo
 comment: "Puissant et persistant, à la texture friable et cassante mais très fondante. Il revêt des arômes délicats de sous bois et de champignons sauvages."
 tags:
     - Pâte persillée
+tags-preview: "Pâte persillée"
 ---
 
 ## Informations

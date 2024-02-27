@@ -8,6 +8,7 @@ comment: "Je vous le dis, c’est excellent ! Proche du Comté, il est encore p
 tags:
     - Pâte pressée
     - Pâte cuite
+tags-preview: "Pâte pressée, cuite"
 ---
 
 ## Informations

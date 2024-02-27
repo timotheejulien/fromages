@@ -8,6 +8,7 @@ comment: "Fromage goûtu et paradoxalement assez doux. Il est aussi extrêmement
 tags:
     - Pâte molle
     - Pâte fleurie
+tags-preview: "Pâte molle, fleurie"
 ---
 
 ## Informations

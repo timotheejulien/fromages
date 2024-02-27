@@ -7,7 +7,8 @@ image-credit: <a href="https://commons.wikimedia.org/wiki/File:Ami_du_Chambertin
 comment: "Il ressemble à l’Époisse. C’est un fromage qui dégage de forts arômes, sa croûte est fine, souple, plissée et brillante. Sa robe est rouge/orangée. En bouche, c’est un fromage puissant aux abords, mais qui est également fin et crémeux."
 tags:
     - Pâte molle
-    - Pâte persilée
+    - Pâte lavée
+tags-preview: "Pâte molle, lavée"
 ---
 
 ## Informations

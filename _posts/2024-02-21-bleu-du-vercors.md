@@ -7,6 +7,7 @@ image-credit: <a href="https://commons.wikimedia.org/wiki/File:Bleu_du_Vercors_-
 comment: "Goûté lors d’une raclette, il est assez doux mais parfumé, c’était trop bon ! Se déguste bien évidemment aussi froid ;)"
 tags:
     - Pâte persillée
+tags-preview: "Pâte persillée"
 ---
 
 ## Informations

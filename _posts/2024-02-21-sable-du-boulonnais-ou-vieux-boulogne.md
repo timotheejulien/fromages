@@ -8,6 +8,7 @@ comment: "Il a la texture d’une tomme et est légèrement alvéolé. Ce fromag
 tags:
     - Pâte molle
     - Pâte lavée
+tags-preview: "Pâte molle, lavée"
 ---
 
 ## Informations

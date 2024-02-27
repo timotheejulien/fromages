@@ -7,6 +7,7 @@ image-credit: Photographie prise par moi-même
 comment: "Sa couleur crème peut virer sur le jaune paille quand il est affiné. Son goût est assez lactique, parfumé et un légèrement boisé sur la fin. Il est également très onctueux puisque de la crème est rajoutée pendant sa conception. Une belle découverte !"
 tags: 
     - Pâte molle
+tags-preview: "Pâte à croûte mixte"
 ---
 
 ## Informations

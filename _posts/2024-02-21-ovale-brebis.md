@@ -7,6 +7,7 @@ comment: "Son goût frais, parfumé et sa texture crémeuse en font un choix jud
 tags: 
     - Pâte molle
     - Pâte naturelle
+tags-preview: "Pâte molle, naturelle"
 ---
 
 ## Informations

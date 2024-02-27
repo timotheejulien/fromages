@@ -7,6 +7,7 @@ comment: "Bien goûtu avec une note sur la fin de fromage de chèvre sec, il piq
 tags:
     - Pâte molle
     - Pâte fleurie
+tags-preview: "Pâte molle, fleurie"
 ---
 
 ## Informations

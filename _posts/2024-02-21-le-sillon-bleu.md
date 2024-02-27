@@ -7,6 +7,7 @@ comment: "C'est un fromage qui fera plaisir aux amateurs de tommes et de lait de
 tags:
     - Pâte lavée
     - Pâte pressée
+tags-preview: "Pâte lavée, pressée"
 ---
 
 ## Informations

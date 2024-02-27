@@ -7,6 +7,7 @@ image-credit: <a href="https://commons.wikimedia.org/wiki/File:A_Gongonzola_from
 comment: J'ai une préférence pour le Gorgonzola à la louche, plus crémeux encore. Mis à part ça, c'est un fromage à pâte persillée qui est très bon, goûtu et crémeux à souhait. Je trouve qu'il permet de changer d'un Roquefort. Il est également idéal dans des sauces !"
 tags:
     - Pâte persillée
+tags-preview: "Pâte persillée"
 ---
 
 ## Informations

@@ -8,6 +8,7 @@ comment: "Sa pâte est fine, fraiche et douce. Son goût lactique (petit lait) l
 tags:
     - Pâte molle
     - Pâte lavée
+tags-preview: "Pâte molle, lavée"
 ---
 
 ## Informations

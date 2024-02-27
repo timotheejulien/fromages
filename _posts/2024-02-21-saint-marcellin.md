@@ -7,6 +7,7 @@ image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_-_Sain
 comment: "Un goût légèrement acide avec des pointes aromatiques de noisette, c'est très bon et crémeux !"
 tags:
      - Pâte molle
+tags-preview: "Pâte molle"
 ---
 
 ## Informations

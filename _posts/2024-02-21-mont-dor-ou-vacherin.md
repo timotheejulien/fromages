@@ -9,6 +9,7 @@ comment: "Meilleur chaud en apéritif, c’est un fromage chaleureux et très co
 tags:
     - Pâte molle
     - Pâte lavée
+tags-preview: "Pâte molle, lavée"
 ---
 
 ## Informations

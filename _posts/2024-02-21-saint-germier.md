@@ -7,6 +7,7 @@ comment: "Très sympa, on sent bien le lait de brebis, typé mais relativement d
 tags:
     - Pâte molle
     - Pâte lavée
+tags-preview: "Pâte molle, lavée"
 ---
 
 ## Informations

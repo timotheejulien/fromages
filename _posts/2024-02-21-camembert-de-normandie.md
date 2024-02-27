@@ -8,6 +8,7 @@ comment: "Est-ce qu'il faut vraiment préciser que c'est délicieux ?! Mis à p
 tags: 
     - Pâte molle
     - Pâte fleurie
+tags-preview: "Pâte molle, fleurie"
 ---
 
 ## Informations

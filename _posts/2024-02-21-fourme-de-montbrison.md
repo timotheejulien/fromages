@@ -7,6 +7,7 @@ image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_-_Four
 comment: "Belle découverte ! Ce fromage à pâte persillée possède la texture d’une tomme. Le mélange est harmonieux et change. On retrouve ce goût persillé, semblable à la fourme d’Ambert mais adoucit."
 tags:
     - Pâte persillée
+tags-preview: "Pâte persillée"
 ---
 
 ## Informations

@@ -7,6 +7,7 @@ comment: "La Manigodine présente des saveurs équilibrées, un goût de crème 
 tags: 
     - Pâte molle
     - Pâte lavée
+tags-preview: "Pâte molle, lavée"
 ---
 
 ## Informations

@@ -8,6 +8,7 @@ comment: "Malgré une préférence pour le comté ou le beaufort, l’Abondance 
 tags: 
     - Pâte pressée
     - Pâte cuite
+tags-preview: "Pâte pressée, cuite"
 ---
 
 ## Informations

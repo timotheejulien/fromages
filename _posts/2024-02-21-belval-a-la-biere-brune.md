@@ -8,6 +8,7 @@ comment: "Sa texture est proche de celle d’une tomme mais il est plus moelleux
 tags: 
     - Pâte pressée
     - Pâte non cuite
+tags-preview: "Pâte pressée, non cuite"
 ---
 
 ## Informations

@@ -6,6 +6,7 @@ image: /assets/image-placeholder.jpg
 comment: "Fromage au lait cru de vache, à pâte souple et croûte brossée à la bière blanche de Wissant. La chapelure dans laquelle il est roulé capte tous les arômes de la bière et nous les restitue au moment de la dégustation. Excellente découverte !"
 tags: 
     - Pâte brossée
+tags-preview: "Pâte brossée"
 ---
 
 ## Informations

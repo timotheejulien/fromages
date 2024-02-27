@@ -8,6 +8,7 @@ tags:
     - Pâte molle
     - Pâte non cuite
     - Pâte lavée
+tags-preview: "Pâte molle, fleurie"
 ---
 
 ## Informations

@@ -8,6 +8,7 @@ comment: "C'est un bon fromage de brebis. Idéal pour changer des fromages au la
 tags:
     - Pâte pressée
     - Pâte cuite
+tags-preview: "Pâte pressée, cuite"
 ---
 
 ## Informations

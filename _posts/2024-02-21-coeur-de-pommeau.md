@@ -8,6 +8,7 @@ comment: "Il se rapproche du Neufchâtel mais en bouche, il tire légèrement su
 tags:
     - Pâte molle
     - Pâte fleurie
+tags-preview: "Pâte molle, fleurie"
 ---
 
 ## Informations
