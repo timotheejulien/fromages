@@ -152,7 +152,9 @@ a:hover {
 
 .divider {
     width: 100%;
+    max-width: calc(1240px - var(--space-large));
     height: 1px;
+    margin: auto;
     background: var(--color-divider);
 }
 
@@ -194,13 +196,19 @@ header {
     -webkit-backdrop-filter: blur(10px) saturate(120%);
 }
 
-nav {
+nav ul {
+    margin: 0;
+    padding: 0;
     display: flex;
-    gap: var(--space-regular);
-    align-items: center;
+    gap: var(--space-large);
 }
 
-.logo {
+nav ul li {
+    list-style: none;
+}
+
+.nav-item {
+    position: relative;
     flex: auto;
     font-weight: 500;
     font-size: 18px;
@@ -210,22 +218,33 @@ nav {
     text-decoration: none;
 }
 
-.logo:hover {
-    text-decoration: underline;
+.nav-item:hover {
+    color: var(--color-text-secondary);
+    text-decoration: none;
+}
+
+.nav-item:hover::after {
+    content:'';
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    background: var(--color-text-secondary);
 }
 
 .container {
-    padding: var(--space-regular) var(--space-medium) var(--space-regular) var(--space-medium);
+    width: 100%;
     max-width: 1240px;
     margin: 0 auto;
-    width: 100%;
+    padding: var(--space-regular) var(--space-medium) var(--space-regular) var(--space-medium);
 }
 
 .hero p {
     margin-bottom: var(--space-x-large);
 }
 
-#section-fromage {
+.section-fromage {
     padding-top: var(--space-large);
 }
 
@@ -324,6 +343,20 @@ table > tbody > tr > td:nth-child(2) {
     width: 50%;
 }
 
+/* FAMILLE DE FROMAGES */
+.section-fromage-divider {
+    width: calc(100% - var(--space-x-large));
+    max-width: 1240px;
+    margin: var(--space-none) auto var(--space-none) auto;
+    padding: var(--space-regular) var(--space-medium) var(--space-regular) var(--space-medium);
+    border-bottom: 1px solid;
+    border-color: var(--color-divider);
+}
+
+.section-fromage-divider:last-of-type  {
+    display: none;
+}
+
 /* FOOTER */
 #footer {
     padding-top: var(--space-x-large);
@@ -403,7 +436,7 @@ ul.footer-nav li {
         margin-bottom: var(--space-xxx-large);
     } 
 
-    #section-fromage {
+    .section-fromage {
         padding-top: var(--space-xxx-large);
         gap: var(--space-xxx-large);
     }
@@ -452,6 +485,15 @@ ul.footer-nav li {
     
     table > tbody > tr > td:nth-child(2) {
         width: 70%;
+    }
+
+    /* FAMILLE DE FROMAGES */
+    .section-fromage-divider {
+        max-width: 1192px;
+        margin: var(--space-xx-large) auto var(--space-none) auto;
+        padding: var(--space-regular) var(--space-medium) var(--space-regular) var(--space-medium);
+        border-bottom: 1px solid;
+        border-color: var(--color-divider);
     }
 
     /* FOOTER */

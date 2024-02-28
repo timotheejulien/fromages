@@ -7,15 +7,15 @@ image-credit: <a href="https://commons.wikimedia.org/wiki/File:Rocamadour_(froma
 comment: "Sa pâte est onctueuse et crémeuse qui libère des saveurs subtiles de crème, de beurre et de noisette."
 tags:
     - Pâte molle
-    - Pâte naturelle
-tags-preview: "Pâte molle, naturelle"
+    - Pâte fleurie
+tags-preview: "Pâte molle, fleurie"
 ---
 
 ## Informations
 
 | **Appellation** | N/A |
 | **Origine géographique** | Département : Lot, Région : Nouvelle-Aquitaine, Pays : France   |
-| **Pâte** | Molle, naturelle |
+| **Pâte** | Molle, fleurie |
 | **Lait** | Chèvre |
 | **Forme** | Palet |
 | **Odeur** | Légère odeur sui generis suivant l’espèce animale |
@@ -26,4 +26,5 @@ tags-preview: "Pâte molle, naturelle"
 | **Prix** | 1,20 € /pièce |
 
 ### Ressource(s)
-* N/A
+* [Androuet](https://www.androuet.com/Rocamadour-68.html)
+* [Wikipédia](https://fr.wikipedia.org/wiki/Rocamadour_(fromage))
