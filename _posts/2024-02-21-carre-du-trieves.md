@@ -3,7 +3,7 @@ layout: post
 title:  "Carré du Trièves"
 note: "★★★★☆"
 image: /assets/image-placeholder.png
-comment: "Bien goûtu avec une note sur la fin de fromage de chèvre sec, il pique le palais ! Belle découverte !"
+comment: "En bouche il ressemble au Camembert mais totalement différent au niveau du goût. Bien parfumé avec une note sur la fin de fromage de chèvre sec, il pique le palais. Belle découverte !"
 tags:
     - Pâte molle
     - Pâte fleurie

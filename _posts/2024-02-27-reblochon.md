@@ -3,7 +3,7 @@ layout: post
 title:  "Reblochon fermier"
 note: "★★★★★"
 image: /assets/reblochon.jpg
-image-credit: <a href="https://commons.wikimedia.org/wiki/File:Reblochon_11.jpg">Pierre-Yves Beaudouin / Wikimedia Commons</a>
+image-credit: <a href="https://commons.wikimedia.org/wiki/File:Reblochon_11.jpg">Coyau / Wikimedia Commons</a>
 comment: "Tout d'abord, on ne déguste que du Reblochon fermier (pastille verte) ! C'est un fromage réconfortant, crémeux qui se déguste facilement à l'apéro mais aussi sur un plateau. Il offre un léger goût de noisette et une belle onctuosité. Cela va s'en dire mais il est délicieux dans une tartiflette !"
 tags:
     - Pâte pressée

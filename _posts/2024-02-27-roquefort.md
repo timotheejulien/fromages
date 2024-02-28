@@ -13,7 +13,7 @@ tags-preview: "Pâte persillée"
 ## Informations
 
 | **Appellation** | A.O.P, A.O.C |
-| **Origine géographique** | Départements : Aveyron, Région : Occitanie, Pays : France |
+| **Origine géographique** | Département : Aveyron, Région : Occitanie, Pays : France |
 | **Pâte** | Persillée |
 | **Lait** | Brebis, lait cru |
 | **Forme** | Cylindrique |

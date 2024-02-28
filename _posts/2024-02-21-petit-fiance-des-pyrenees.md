@@ -21,9 +21,9 @@ tags-preview: "Pâte non cuite, molle, lavée"
 | **Odeur** | N/A |
 | **Texture** | Molle, crémeuse |
 | **Affinage** | 45 jours |
-| **Meilleure période de dégustation** | Petit fiancé des Pyrénées |
+| **Meilleure période de dégustation** | Juin à septembre |
 | **Boisson(s)** | N/A |
 | **Prix** | ~45 € /kg |
 
 ### Ressource(s)
-* [Le guide du friomage](https://www.leguidedufromage.com/le-petit-fiance-des-pyrenees-io590.html)
+* [Le guide du fromage](https://www.leguidedufromage.com/le-petit-fiance-des-pyrenees-io590.html)

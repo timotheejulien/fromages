@@ -13,7 +13,7 @@ tags-preview: "Pâte molle à croûte mixte"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Départements : Maine-et-Loire, Région : Pays de la Loire, Pays : France |
+| **Origine géographique** | Département : Maine-et-Loire, Région : Pays de la Loire, Pays : France |
 | **Pâte** | Molle à croûte mixte |
 | **Lait** | Vache, lait pasteurisé |
 | **Forme** | Ronde |
