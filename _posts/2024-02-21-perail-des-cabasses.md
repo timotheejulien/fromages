@@ -2,7 +2,7 @@
 layout: post
 title:  "Pérail des cabasses"
 note: "★★★★★"
-image: /assets/image-placeholder.png
+image: /images/posts/image-placeholder.png
 comment: "Superbe découverte ! Belle alternative au Petit fiancé des Pyrénées"
 tags:
     - Pâte molle

@@ -2,7 +2,7 @@
 layout: post
 title:  "Sillon bleu"
 note: "★★★★☆"
-image: /assets/image-placeholder.png
+image: /images/posts/image-placeholder.png
 comment: "C'est un fromage qui fera plaisir aux amateurs de tommes et de lait de chèvre. Sa couche de charbon végétal rappelle celle du Morbier et lui vaut d'être également baptisé « Morbier de chèvre ». Son goût est un mélange de douceur grâce à sa texture et de caractère grâce à sa croûte lavée. Il peut convenir pour une raclette."
 tags:
     - Pâte lavée

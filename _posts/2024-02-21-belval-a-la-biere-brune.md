@@ -2,7 +2,7 @@
 layout: post
 title:  "Belval à la bière brune"
 note: "★★★☆☆"
-image: /assets/image-placeholder.jpg
+image: /images/posts/image-placeholder.jpg
 image-credit: 
 comment: "Sa texture est proche de celle d’une tomme mais il est plus moelleux. Il n’est pas fort en bouche mais garde son caractère grâce à l’incorporation de bière brune dans la pâte qui lui offre son originalité. Belle découverte !"
 tags: 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Trou du cru"
 note: "★★★★☆"
-image: /assets/trou-du-cru.jpg
+image: /images/posts/trou-du-cru.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Le_Trou_Du_Cru.jpg">Tristan Ferne from UK</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons
 comment: "Très bonne découverte ! Ce petit fromage au parfum bien prononcé (affiné avec du marc de Bourgogne), agite les papilles avec ses arômes puissants ! Bonne tenue en bouche, il se rapproche de l’Époisses."
 tags:

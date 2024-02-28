@@ -2,7 +2,7 @@
 layout: post
 title: "Raclette suisse"
 note: "★★★★★"
-image: /assets/raclette-suisse.jpg
+image: /images/posts/raclette-suisse.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Raclette_-_001.jpg">Martin Steiger</a>, CC0, via Wikimedia Commons
 comment: "Plus fin et plus fruité que la raclette française, c'est devenu le fromage de mes raclettes !"
 tags:

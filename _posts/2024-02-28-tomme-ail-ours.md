@@ -2,7 +2,7 @@
 layout: post
 title:  "Tomme à l'ail des Ours"
 note: "★★☆☆☆"
-image: /assets/image-placeholder.png
+image: /images/posts/image-placeholder.png
 image-credit: 
 comment: "L’ail des Ours, c’est cet ail sauvage si parfumé aux notes piquantes et qui refait son apparition depuis quelques années dans de nombreuses recettes de cuisine. Elle est ici incorporée à la fabrication d'une Tomme de Savoie classique. Je pense que fondue, elle serait encore meilleure ! Ceci dit, je ne suis pas un grand fan de cet ail."
 tags:

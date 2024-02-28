@@ -2,7 +2,7 @@
 layout: post
 title:  "Fourme de Montbrison"
 note: "★★★★☆"
-image: /assets/fourme-montbrison.jpg
+image: /images/posts/fourme-montbrison.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_-_Fourme_de_Montbrison_-_20151024_-_012.jpg">Thesupermat</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 comment: "Belle découverte ! Ce fromage à pâte persillée possède la texture d’une tomme. Le mélange est harmonieux et change. On retrouve ce goût persillé, semblable à la fourme d’Ambert mais adoucit."
 tags:

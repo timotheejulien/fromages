@@ -2,7 +2,7 @@
 layout: post
 title:  "Séchon de chèvre"
 note: "★★★☆☆"
-image: /assets/image-placeholder.png
+image: /images/posts/image-placeholder.png
 image-credit: 
 comment: "Il est ussi appelé « Chevreton ». Bonne découverte ! Moi qui ne suit pas fan des chèvres secs, celui-ci apporte un bon compromis pour ce type de fromage. Son goût est subtil et puissant sans être agressif. Il révèle toute sa saveur râpé dans une salade."
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Séchon de vache"
 note: "★★★☆☆"
-image: /assets/image-placeholder.png
+image: /images/posts/image-placeholder.png
 image-credit: 
 comment: "Proche du Saint Marcellin mais beaucoup plus sec, il a un goût plus affirmé ! Comme son homologue au chèvre, sa texture est parfaite pour le râper sur vos. Bonne découverte !"
 tags:

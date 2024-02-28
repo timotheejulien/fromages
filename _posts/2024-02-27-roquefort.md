@@ -2,7 +2,7 @@
 layout: post
 title:  "Roquefort"
 note: "★★★★★"
-image: /assets/roquefort.jpg
+image: /images/posts/roquefort.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_-_Roquefort_-_20150417_-_002.jpg">Thesupermat</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 comment: "Ce fromage qui retourne les papilles est la pâte persillée française la plus connue ! Son goût est bien prononcé (il reste en bouche, n'ayons pas peur des mots), typique des pâtes persillées. Il fond sous le palais et on retrouvera également une touche salée sur la langue. C'est un incontournable sur un plateau de fromage pour changer du Stilton. Je le recommande aussi avec de la poire et de la noix pour une recette sucrée/salée."
 tags:

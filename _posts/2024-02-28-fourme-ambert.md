@@ -2,7 +2,7 @@
 layout: post
 title:  "Fourme d’Ambert"
 note: "★★★★☆"
-image: /assets/fourme-ambert.jpg
+image: /images/posts/fourme-ambert.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Fourme_d%27Ambert_04.jpg">Coyau / Wikimedia Commons</a>
 comment: "Plus doux et crémeux que le Roquefort, c’est top en apéritif ou en sauce !"
 tags:

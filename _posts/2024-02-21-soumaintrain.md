@@ -2,7 +2,7 @@
 layout: post
 title: "Soumaintrain"
 note: "★★★★☆"
-image: /assets/soumaintrain.jpg
+image: /images/posts/soumaintrain.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Soumaintrain_250g_GAUGRY.jpg">CandBee</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 comment: "Sa pâte est fine, fraiche et douce. Son goût lactique (petit lait) lui confère une légère acidité qui sera combinée à une pointe d’amertume. Le Soumaintrain se distingue par la richesse de sa palette aromatique. L’affinage développe des arômes végétaux, (champignon, humus, foin, paille), parfois boisés. Plus l’affinage est développé plus les nuances animales prennent de l’importance. Ses arômes sont persistants en bouche."
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title:  "L’ami du Chambertin"
 note: "★★★★☆"
-image: /assets/lami-chambertin.jpg
+image: /images/posts/lami-chambertin.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Ami_du_Chambertin.jpg">Popo le Chien</a>, CC0, via Wikimedia Commons
 comment: "Il ressemble à l’Époisse. C’est un fromage qui dégage de forts arômes, sa croûte est fine, souple, plissée et brillante. Sa robe est rouge/orangée. En bouche, c’est un fromage puissant aux abords, mais qui est également fin et crémeux."
 tags:
