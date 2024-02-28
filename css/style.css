@@ -146,6 +146,10 @@ a:hover {
     flex-direction: column;
 }
 
+.flex-width-1 {
+    flex: 1;
+}
+
 .divider {
     width: 100%;
     height: 1px;
