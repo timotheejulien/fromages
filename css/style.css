@@ -11,7 +11,8 @@
     --color-text-primary: #202020;
     --color-text-secondary: #707070;
     --color-text-third: #BABABA;
-    --color-focux: #202020;
+    --color-focus: #202020;
+    --color-primary: #EAB631;
   
     /* SPACE TOKEN */
     --space-none: 0;
@@ -200,7 +201,7 @@ nav ul {
     margin: 0;
     padding: 0;
     display: flex;
-    gap: var(--space-large);
+    gap: var(--space-regular);
 }
 
 nav ul li {
@@ -231,6 +232,76 @@ nav ul li {
     left: 0;
     bottom: -5px;
     background: var(--color-text-secondary);
+}
+#search_modal {
+    width: 100%;
+    height: 100%;
+    visibility: hidden;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1000;
+    background: rgba(32, 32, 32, 0.85);
+    backdrop-filter: blur(10px) saturate(120%);
+    -webkit-backdrop-filter: blur(10px) saturate(120%);
+}
+
+#search-container {
+    width: 100%;
+    height: calc(100vh - var(--space-medium));
+    padding: var(--space-medium);
+    position: absolute;
+    left: 50%;
+    top: calc(50% + var(--space-medium));
+    background: var(--color-background);
+    border-radius: 24px 24px 0 0;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    overflow-y: scroll;
+}
+
+.search-modal-header {
+    margin-bottom: var(--space-medium);
+    text-align: end;
+}
+
+#search-input {
+    width: 100%;
+    padding: var(--space-regular) var(--space-medium) var(--space-regular) var(--space-medium);
+    background: var(--color-background-elevated);
+    border: none;
+    border-radius: 30px;
+    font-family: MonaSans-body, sans-serif;
+    font-size: 18px;
+    font-weight: 450;
+    line-height: 1.2;
+    line-height: 1.5;
+    letter-spacing: .4px;
+    color: var(--color-text-primary);
+}
+
+#search-input::placeholder {
+    font-family: MonaSans-body, sans-serif;
+    font-size: 18px;
+    font-weight: 450;
+    line-height: 1.2;
+    line-height: 1.5;
+    letter-spacing: .4px;
+    color: var(--color-text-primary);
+}
+
+#search-input:focus {
+    outline: 2px solid var(--color-primary);
+}
+
+#results-container {
+    padding: var(--space-none) var(--space-none) var(--space-none) var(--space-medium);
+}
+
+#results-container li {
+    margin-bottom: var(--space-regular);
+    list-style: none;
 }
 
 .container {
@@ -427,6 +498,40 @@ ul.footer-nav li {
     }
 
     /* LAYOUT */
+    nav ul {
+        gap: var(--space-medium);
+    }
+
+    #search_modal {
+        width: 100%;
+        height: auto;
+        max-width: 800px;
+        left: 50%;
+        transform: translate(-50%, 0%);
+        -ms-transform: translate(-50%, 0%);
+        -webkit-transform: translate(-50%, 0%);
+        background: none;
+        backdrop-filter: blur(0px) saturate(100%);
+        -webkit-backdrop-filter: blur(0px) saturate(100%);
+    }
+
+    #search-container {
+        width: 100%;
+        height: auto;
+        padding: var(--space-medium);
+        position: absolute;
+        left: 50%;
+        top: var(--space-xxx-large);
+        background: var(--color-background);
+        border-radius: 24px;
+        transform: translate(-50%, 0%);
+        -ms-transform: translate(-50%, 0%);
+        -webkit-transform: translate(-50%, 0%);
+        box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
+        -webkit-box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
+        -moz-box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
+    }
+
     main {
         padding-top: calc(110px + var(--space-xxx-large));
     } 
@@ -535,7 +640,8 @@ ul.footer-nav li {
         --color-text-primary: #FBFBFB;
         --color-text-secondary: #BABABA;
         --color-text-third: #DEDEDE;
-        --color-focux: #FBFBFB;
+        --color-focus: #FBFBFB;
+        --color-primary: #FFD363;
     }
 
     img {
@@ -544,6 +650,15 @@ ul.footer-nav li {
 
     header {
         background: rgba(32, 32, 32, 0.85);
-        backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px) saturate(120%);
+        -webkit-backdrop-filter: blur(10px) saturate(120%);
+    }
+
+    #search-container {
+        background: var(--color-background-elevated);
+    }
+
+    #search-input {
+        background: var(--color-background);
     }
 }
