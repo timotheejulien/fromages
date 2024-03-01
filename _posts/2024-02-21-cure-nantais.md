@@ -5,7 +5,7 @@ rating-date: "2024-03-01"
 note: "★★★★☆"
 image: /images/posts/cure-nantais.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Cur%C3%A9_nantais.JPG">Rehtse</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
-comment: "Le goût du Curé Nantais est caractérisé par des arômes riches et prononcés dûs à sa croute lavée. On retrouve des notes crémeuses et parfois légèrement salées. Il est à la fois très bon froid mais aussi chaud dans un burger ou encore pendant une raclette (succès garanti !)"
+comment: "Le goût du Curé Nantais est caractérisé par des arômes riches et prononcés grâce à sa croute lavée. On retrouve des notes crémeuses et parfois légèrement salées. Il est à la fois très bon froid mais aussi chaud dans un burger ou encore pendant une raclette. Succès garanti !"
 tags:
     - Pâte pressée
     - Pâte non cuite
