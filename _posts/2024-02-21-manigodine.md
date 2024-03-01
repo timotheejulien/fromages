@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Manigodine"
+rating-date: "2024-02-21"
 note: "★★★★☆"
 image: /images/posts/image-placeholder.png
 comment: "La Manigodine présente des saveurs équilibrées, un goût de crème et des arômes boisés. Sa texture est onctueuse, crémeuse.<br> « Il est cerclé d’une sangle en Epicéa pour maîtriser la souplesse de la pâte à l’affinage. C’est l’affineur Paccard qui a baptisé ainsi ce fromage en l’honneur des femmes qui assurent sa fabrication à la ferme »."

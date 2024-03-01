@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Soumaintrain"
+rating-date: "2024-02-21"
 note: "★★★★☆"
 image: /images/posts/soumaintrain.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Soumaintrain_250g_GAUGRY.jpg">CandBee</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons

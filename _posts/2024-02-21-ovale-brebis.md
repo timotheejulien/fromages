@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ovale de brebis"
+rating-date: "2024-02-21"
 note: "★★★☆☆"
 image: /images/posts/image-placeholder.png
 comment: "Son goût frais, parfumé et sa texture crémeuse en font un choix judicieux pour l'apéritif ! Il peut également s’accompagner de confiture de cerise noire."

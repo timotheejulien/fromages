@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fourme de Montbrison"
+rating-date: "2024-02-21"
 note: "★★★★☆"
 image: /images/posts/fourme-montbrison.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_-_Fourme_de_Montbrison_-_20151024_-_012.jpg">Thesupermat</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fribourg ou gruyère suisse"
+rating-date: "2024-02-21"
 note: "★★★★★"
 image: /images/posts/fribourg.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Gruyere_alpage_th_wa.jpg">Gruyere alpage</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons

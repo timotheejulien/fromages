@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Séchon de chèvre"
+rating-date: "2024-02-28"
 note: "★★★☆☆"
 image: /images/posts/image-placeholder.png
 image-credit: 

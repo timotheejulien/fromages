@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Camembert de Normandie"
+rating-date: "2024-02-21"
 note: "★★★★★"
 image: /images/posts/camembert.jpg
 image-credit: Photographie prise par moi-même

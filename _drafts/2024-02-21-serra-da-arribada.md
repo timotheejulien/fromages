@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Serra da arribada"
+rating-date: "2024-02-28"
 note: "★★★★☆"
 image: /images/posts/serra-da-arribada.jpg
 image-credit: Photo prise par moi-même

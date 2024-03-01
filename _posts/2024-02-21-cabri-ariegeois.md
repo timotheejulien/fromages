@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cabri Ariégeois"
+rating-date: "2024-02-21"
 note: "★★★★★"
 image: /images/posts/image-placeholder.png
 comment: C’est une belle découverte ! D’aspect il ressemble au Mont d’Or mais en bouche il se rapproche du Petit Fiancé des Pyrénées ou du Reblochon, en légèrement plus doux.

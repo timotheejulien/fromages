@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pérail des cabasses"
+rating-date: "2024-02-21"
 note: "★★★★★"
 image: /images/posts/image-placeholder.png
 comment: "Superbe découverte ! Belle alternative au Petit fiancé des Pyrénées"

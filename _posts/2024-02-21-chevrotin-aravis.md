@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Chevrotin Aravis"
+rating-date: "2024-02-21"
 note: "★★★★★"
 image: /images/posts/chevrotin-aravis.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Chevrotin_des_Aravis_(avril_2021)_-_2.jpg">Benoît Prieur</a>, CC0, via Wikimedia Commons

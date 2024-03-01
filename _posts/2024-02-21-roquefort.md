@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Roquefort"
+rating-date: "2024-02-27"
 note: "★★★★★"
 image: /images/posts/roquefort.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_-_Roquefort_-_20150417_-_002.jpg">Thesupermat</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons

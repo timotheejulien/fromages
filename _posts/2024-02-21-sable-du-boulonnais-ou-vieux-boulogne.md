@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sablé du Boulonnais ou Vieux Boulogne"
+rating-date: "2024-02-21"
 note: "★★★★☆"
 image: /images/posts/sable-boulonnais.jpg
 image-credit: Photographie prise par moi-même

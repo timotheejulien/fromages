@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Galet de la Loire"
+rating-date: "2024-02-25"
 note: "★★★★☆"
 image: /images/posts/galet-de-la-loire.jpg
 image-credit: Photographie prise par moi-même

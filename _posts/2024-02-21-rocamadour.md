@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rocamadour"
+rating-date: "2024-02-21"
 note: "★★★★★"
 image: /images/posts/rocamadour.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Rocamadour_(fromage)_05.jpg">Coyau / Wikimedia Commons</a>

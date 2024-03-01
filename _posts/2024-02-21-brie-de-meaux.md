@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Brie de Meaux"
+
 note: "★★★★★"
 image: /images/posts/brie-de-meaux.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_-_Brie_de_Meaux_-_20150515_-_022.jpg">Thesupermat</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons

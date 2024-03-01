@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Raclette suisse"
+rating-date: "2024-02-21"
 note: "★★★★★"
 image: /images/posts/raclette-suisse.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Raclette_-_001.jpg">Martin Steiger</a>, CC0, via Wikimedia Commons

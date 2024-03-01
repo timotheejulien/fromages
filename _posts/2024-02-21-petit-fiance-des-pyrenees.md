@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Petit fiancé des Pyrénées"
+rating-date: "2024-02-21"
 note: "★★★★★"
 image: /images/posts/image-placeholder.png
 comment: "Une dinguerie ! Ce fromage qui pourrait avoir un petit air de Reblochon, est plus puissant en bouche, offrant des saveurs caprines équilibrées et parfumées de notes florales, de paille et de noisettes."

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mont d’Or ou Vacherin"
+rating-date: "2024-02-21"
 note: "★★★★☆"
 image: /images/posts/mont-or.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Vacherin_du_haut_Doubs.jpg">Zubro</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons

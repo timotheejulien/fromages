@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "L’ami du Chambertin"
+rating-date: "2024-02-21"
 note: "★★★★☆"
 image: /images/posts/lami-chambertin.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Ami_du_Chambertin.jpg">Popo le Chien</a>, CC0, via Wikimedia Commons

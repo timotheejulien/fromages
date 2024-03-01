@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Reblochon fermier"
+rating-date: "2024-02-27"
 note: "★★★★★"
 image: /images/posts/reblochon.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Reblochon_11.jpg">Coyau / Wikimedia Commons</a>

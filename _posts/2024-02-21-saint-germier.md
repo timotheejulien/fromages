@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Saint-Germier"
+rating-date: "2024-02-21"
 note: "★★★★☆"
 image: /images/posts/image-placeholder.png
 comment: "Très sympa, on sent bien le lait de brebis, typé mais relativement doux en bouche."

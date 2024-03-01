@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Gorgonzola"
+rating-date: "2024-02-21"
 note: "★★★★★"
 image: /images/posts/gorgonzola.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:A_Gongonzola_from_Baci.jpg">Peachyeung316</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons

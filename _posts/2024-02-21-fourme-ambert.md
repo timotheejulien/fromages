@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fourme d’Ambert"
+rating-date: "2024-02-28"
 note: "★★★★☆"
 image: /images/posts/fourme-ambert.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Fourme_d%27Ambert_04.jpg">Coyau / Wikimedia Commons</a>

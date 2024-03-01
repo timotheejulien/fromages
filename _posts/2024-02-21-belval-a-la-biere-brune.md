@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Belval à la bière brune"
+rating-date: "2024-02-21"
 note: "★★★☆☆"
 image: /images/posts/image-placeholder.jpg
 image-credit: 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ossau-Iraty"
+rating-date: "2024-02-21"
 note: "★★★☆☆"
 image: /images/posts/ossau-iraty.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Fromages_Ossau-Iraty_003.jpg">Jean Michel Etchecolonea</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
