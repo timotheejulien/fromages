@@ -23,7 +23,7 @@ tags-preview: "Pâte molle, fleurie"
 | **Texture** | Molle |
 | **Affinage** | 2 semaines |
 | **Meilleure période de dégustation** | Toute l'année |
-| **Boisson(s)** |  |
+| **Boisson(s)** | Vin blanc |
 | **Prix** | 7,00 € |
 
 ### Ressource(s)
