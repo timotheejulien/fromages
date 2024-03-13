@@ -5,7 +5,7 @@ rating-date: "2024-02-28"
 note: "★★★★☆"
 image: /images/posts/neufchatel.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:C%C5%93urs_de_Neufch%C3%A2tel_01.jpg" target="_blank">Coyau / Wikimedia Commons</a>
-comment: "Ce fromage à croute fleurie offre un goût lactique assez salé je trouve. Les premiers millimètres de sa pâte sont souvent crémeux alors que le coeur va être plus crayeux. On peut également percevoir une légère acidité. Je l'apprécie également dans des recettes de cuisine."
+comment: "Ce fromage à croûte fleurie offre, à mon sens, un goût lactique salé. Les premiers millimètres de sa pâte sont souvent crémeux alors que le coeur va être plus crayeux. On peut également percevoir une légère acidité. Je l'apprécie également dans des recettes de cuisine."
 tags:
     - Pâte molle
     - Pâte fleurie
