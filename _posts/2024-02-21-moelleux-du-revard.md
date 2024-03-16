@@ -22,7 +22,7 @@ tags-preview: "Pâte molle, lavée"
 | **Odeur** | Animal |
 | **Texture** | Molle, fondante |
 | **Affinage** | 5 semaines minimum |
-| **Meilleure période de dégustation** |  |
+| **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc, bière |
 | **Prix** | 29,95 € /kg |
 

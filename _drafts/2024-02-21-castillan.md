@@ -17,12 +17,12 @@ tags-preview: "Pâte "
 | **Origine géographique** | Département :, Région : , Pays : Espagne  |
 | **Pâte** |  |
 | **Lait** | Brebis |
-| **Forme** |  |
-| **Odeur** |  |
-| **Texture** |  |
-| **Affinage** |  |
+| **Forme** | Cylindrique (petite meule haute) |
+| **Odeur** | Fumée, boisée |
+| **Texture** | Ferme |
+| **Affinage** | N/A |
 | **Meilleure période de dégustation** |  |
-| **Boisson(s)** |  |
+| **Boisson(s)** | Vin blanc, bière |
 | **Prix** | 29,95 € /kg |
 
 ### Ressource(s)
