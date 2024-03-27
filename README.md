@@ -1,6 +1,6 @@
-# Cheese notes
-
 [![Follow @nhoizey@mamot.fr](https://img.shields.io/badge/Follow%20%40tim-%235b5bf8?style=flat&logo=mastodon&logoColor=white&link=https%3A%2F%2Fmastodon.timotheejulien.fr%2F%40tim)](https://mastodon.timotheejulien.fr/@tim)
+
+# Cheese notes
 
 ## A lifelong cheese lover
 
