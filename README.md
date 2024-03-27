@@ -1,8 +1,32 @@
-# Notes caséologiques
+# Cheese notes
 
-## Amateur de caséologie, depuis toujours
+[![Follow @nhoizey@mamot.fr](https://img.shields.io/badge/Follow%20%40tim-%235b5bf8?style=flat&logo=mastodon&logoColor=white&link=https%3A%2F%2Fmastodon.timotheejulien.fr%2F%40tim)](https://mastodon.timotheejulien.fr/@tim)
 
-J'ai décidé il y a quelques temps de créer une fiche sur chaque fromage que je déguste. J'essaie sans prétention, selon mes connaissances et mes sens, de retranscrire cela dans ces notes.
+## A lifelong cheese lover
 
-### URL
-[fromages.timotheejulien.fr](https://fromages.timotheejulien.fr)
+Some time ago, I decided to create a file on each cheese I taste. I try, without pretension, according to my knowledge and my senses, to transcribe this in these notes.
+
+You can see this project (in french) at [fromages.timotheejulien.fr](https://fromages.timotheejulien.fr)
+
+## Released under MIT License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+## Installation
+
+```bash
+git clone https://github.com/timotheejulien/fromages.git
+cd ./fromages
+```
+
+## Development
+
+```
+jekyll serve
+```
+
+## Build
+
+```
+jekyll build
+```
