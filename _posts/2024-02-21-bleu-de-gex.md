@@ -14,7 +14,7 @@ tags-preview: "Pâte persillée"
 ## Informations
 
 | **Appellation** | A.O.C |
-| **Origine géographique** | Département :, Région : , Pays : France  |
+| **Origine géographique** | Départements : Ain et Jura, Région :  Bourgogne-Franche-Comté et Auvergne-Rhône-Alpes, Pays : France  |
 | **Pâte** | Persillée |
 | **Lait** | Vache, cru |
 | **Forme** | Cylindrique |
