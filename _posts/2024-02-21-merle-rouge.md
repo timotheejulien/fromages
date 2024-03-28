@@ -5,7 +5,7 @@ rating-date: "2024-03-27"
 note: "★★★☆☆"
 image: /images/posts/merle-rouge.jpg
 image-credit: Photo prise par moi-même
-comment: "J'ai été surpris par l'intensité de la couleur de la croûte. Il est frotté avec la lie de vin du Château Clarke, ce qui lui donne cette belle couleur rouge et qui fera sans aucun doute son petit effet sur un plateau ! À l'odeur on retrouve des notes fruitées de vin. Au goût il est très bien équilibré entre sa croûte qui ramène quelques tanins et sa pâte qui est plus douce et fraiche. Belle découverte mais qui est néanmoins pas un coup de cœur."
+comment: "J'ai été surpris par l'intensité de la couleur de la croûte. Il est frotté avec la lie de vin du Château Clarke, ce qui lui donne cette belle couleur rouge et qui fera sans aucun doute son petit effet sur un plateau ! À l'odeur on retrouve des notes fruitées de vin. Au goût il est très bien équilibré entre sa croûte qui ramène quelques tanins et sa pâte au gout lactique qui est plus douce et fraiche. Belle découverte mais qui est néanmoins pas un coup de cœur."
 tags:
     - Pâte pressée
     - Pâte non cuite
