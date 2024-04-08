@@ -21,7 +21,7 @@ tags-preview: "Pâte persillée"
 | **Odeur** | Parfumée, douce |
 | **Texture** | Souple |
 | **Affinage** | N/A |
-| **Meilleure période de dégustation** |  |
+| **Meilleure période de dégustation** | N/A (dégusté en avril) |
 | **Boisson(s)** | Vin blanc fruité (parfum de poire idéalement) |
 | **Prix** | 29,50 € /kg |
 
