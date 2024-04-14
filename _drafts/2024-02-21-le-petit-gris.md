@@ -5,7 +5,7 @@ rating-date: "2024-04-13"
 note: "★★★★☆"
 image: /images/posts/.jpg
 image-credit: Photo prise par moi-même
-comment: "Son odeur assez neutre, aucune effluve particulière. La pâte à un goût salin et lactique. Cependant la croûte aux couleurs de cendre, amène une certaine amertume pour créer un bel équilibre. Pour vous donner une idée de sa texture, elle est légèrement plus molle que celle du Saint-Nectaire. C’est un fromage agréable sans être un coup de cœur."
+comment: "Son odeur assez neutre de loin, mais proche du nez, on reconnait bien une senteur lactique et fermier. La pâte à un goût salin et lactique également. Cependant la croûte aux couleurs de cendre, amène une certaine amertume pour créer un bel équilibre avec un aspect légèrement terreux. Pour vous donner une idée de sa texture, elle est plus molle que celle du Saint-Nectaire et bien plus cremeuse. C’est un fromage agréable !"
 tags:
     - Pâte 
 tags-preview: "Pâte "
