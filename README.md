@@ -14,6 +14,11 @@ Open sourced under the [MIT license](LICENSE.md).
 
 ## Installation
 
+### Install Jekyll
+You can find the tutorial here : https://jekyllrb.com/docs/installation/
+
+### Get the project
+
 ```bash
 git clone https://github.com/timotheejulien/fromages.git
 cd ./fromages
