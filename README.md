@@ -2,7 +2,7 @@
 
 # Cheese notes
 
-## A lifelong cheese lover
+## Introduction: a lifelong cheese lover
 
 Some time ago, I decided to create a file on each cheese I taste. I try, without pretension, according to my knowledge and my senses, to transcribe this in these notes.
 
