@@ -6,7 +6,7 @@ note: "★★★★★"
 image: /images/posts/petit-fiance-pyrenees.jpg
 image-credit: Photo prise par moi-même
 comment: "Tout simplement un de mes fromages préférés ! Cela dit, d'aspect il reprend  la forme du Reblochon avec une pâte lavée aux couleurs orangées. En bouche il est plus puissant, offrant des saveurs caprines équilibrées et parfumées de notes florales, de paille et de noisettes. Il est également plus crémeux, l'équilibre entre la pâte onctueuse et la croûte plus prononcée est un délice pour les papilles. À l'odeur, il offre des senteurs animales et boisées, assez puissantes.<br><br>
-Pour la petite histoire, c'est le couple Philippe et Marie-Suzanne Garros qui fabrique cette pépite dans les Pyrénées ariégeoises, sous le Col del Fach. J'ai pour objectif de goûter tous leurs fromages !"
+Pour la petite histoire, c'est Philippe Garros fabrique a conçu cette pépite dans les Pyrénées ariégeoises, sous le Col del Fach en hommage à sa femme Marie-Suzanne. Ils sont maintenant tous les deux fromagers et j'ai pour objectif de goûter tous leurs fromages !"
 
 tags:
     - Pâte molle
