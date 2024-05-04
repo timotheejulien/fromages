@@ -22,7 +22,7 @@ tags-preview: "Pâte pressée, non cuite"
 | **Odeur** | Boisée, animale |
 | **Texture** | Molle, fondante |
 | **Affinage** | N/A |
-| **Meilleure période de dégustation** |  |
+| **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc de Savoie |
 | **Prix** | 29,80 € /kg |
 
