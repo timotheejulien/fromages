@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Allobroge fermier"
-rating-date: "2024-05-04"
+title:  "Caciocavallo Testa Piccola"
+rating-date: "2024-02-28"
 note: "★★★★☆"
 image: /images/posts/.jpg
 image-credit: Photo prise par moi-même
-comment: "Melange entre Rebochon et Saint-Nectaire"
+comment: ""
 tags:
     - Pâte 
 tags-preview: "Pâte "
@@ -14,16 +14,16 @@ tags-preview: "Pâte "
 ## Informations
 
 | **Appellation** |  |
-| **Origine géographique** | Département :, Région : , Pays : France  |
+| **Origine géographique** | Département :, Région : , Pays : Italie  |
 | **Pâte** |  |
-| **Lait** |  |
+| **Lait** | Vache, cru |
 | **Forme** |  |
 | **Odeur** |  |
 | **Texture** |  |
 | **Affinage** |  |
 | **Meilleure période de dégustation** |  |
 | **Boisson(s)** |  |
-| **Prix** |  |
+| **Prix** | 19,99 € /kg |
 
 ### Ressource(s)
 * N/A
