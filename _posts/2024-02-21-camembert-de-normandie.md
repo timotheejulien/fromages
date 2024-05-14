@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Département : Orne, Région  Normandie, Pays : France  |
+| **Origine géographique** | Orne, Normandie, France |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Vache, lait cru |
 | **Forme** | Ronde |

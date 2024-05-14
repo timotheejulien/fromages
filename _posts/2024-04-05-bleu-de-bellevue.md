@@ -14,7 +14,7 @@ tags-preview: "Pâte persillée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Côtes-d'Armor, Région : Bretagne, Pays : France  |
+| **Origine géographique** | Côtes-d'Armor, Bretagne, France |
 | **Pâte** | Persillée |
 | **Lait** | Vache,cru |
 | **Forme** | Petite meule |

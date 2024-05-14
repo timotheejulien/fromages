@@ -15,7 +15,7 @@ tags-preview: "Pâte pressée, non cuite"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Pas-de-Calais, Région : Hauts-de-France, Pays : France |
+| **Origine géographique** | Pas-de-Calais, Hauts-de-France, France |
 | **Pâte** | Pressée, non cuite |
 | **Lait** | Vache |
 | **Forme** | Ronde |

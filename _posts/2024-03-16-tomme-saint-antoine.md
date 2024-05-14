@@ -15,7 +15,7 @@ tags-preview: "Pâte pressée, non cuite"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Doubs, Région : Bourgogne-Franche-Comté, Pays : France  |
+| **Origine géographique** | Doubs, Bourgogne-Franche-Comté, France |
 | **Pâte** | Pressée, non cuite |
 | **Lait** | Vache, cru |
 | **Forme** | Ronde, tomme |

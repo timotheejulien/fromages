@@ -15,7 +15,7 @@ tags-preview: "Pâte fleurie, pressée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Loire, Région : Auvergne-Rhône-Alpe, Pays : France   |
+| **Origine géographique** | Loire, Auvergne-Rhône-Alpe, France |
 | **Pâte** | Fleurie, lavée, pressée |
 | **Lait** | Vache |
 | **Forme** | Ronde, sanglée d’une écorce d’épicéa |

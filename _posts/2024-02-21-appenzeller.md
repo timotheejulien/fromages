@@ -15,7 +15,7 @@ tags-preview: "Pâte pressée, cuite"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Départements : Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Région : Appenzell, Pays : Suisse |
+| **Origine géographique** | Appenzell Rhodes-Intérieures / Appenzell Rhodes-Extérieures, Appenzell, Suisse |
 | **Pâte** | Lavée, pressée, cuite |
 | **Lait** | Vache, lait cru |
 | **Forme** | Meule |

@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, lavée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Côte-d'Or, Région : Bourgogne-Franche-Comté, Pays : France   |
+| **Origine géographique** | Côte-d'Or, Bourgogne-Franche-Comté, France |
 | **Pâte** | Molle, lavée |
 | **Lait** | Vache, lait cru ou pasteurisé |
 | **Forme** | Cercle |

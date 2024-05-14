@@ -14,7 +14,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Aveyron, Région : Occitanie, Pays : France   |
+| **Origine géographique** | Aveyron, Occitanie, France |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Brebis, lait cru |
 | **Forme** | Ronde |

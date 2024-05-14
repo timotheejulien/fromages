@@ -14,7 +14,7 @@ tags-preview: "Pâte molle, lavée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Tarn, Région : Occitanie, Pays : France   |
+| **Origine géographique** | Tarn, Occitanie, France |
 | **Pâte** | Molle, lavée |
 | **Lait** | Brebis |
 | **Forme** | Ronde |

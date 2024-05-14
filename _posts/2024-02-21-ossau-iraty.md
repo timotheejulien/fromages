@@ -15,7 +15,7 @@ tags-preview: "Pâte pressée, cuite"
 ## Informations
 
 | **Appellation** | A.O.P, A.O.C |
-| **Origine géographique** | Département : Pyrénées-Atlantiques, Région : Nouvelle-Aquitaine, Pays : France    |
+| **Origine géographique** | Pyrénées-Atlantiques, Nouvelle-Aquitaine, France |
 | **Pâte** | Pressée, non cuite |
 | **Lait** | Brebis |
 | **Forme** | Cylyndrique |

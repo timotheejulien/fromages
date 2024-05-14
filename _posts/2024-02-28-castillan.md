@@ -14,7 +14,7 @@ tags-preview: "Pâte pressée"
 ## Informations
 
 | **Appellation** | I.G.P |
-| **Origine géographique** | Région : Castille, Pays : Espagne  |
+| **Origine géographique** | Castille, Espagne |
 | **Pâte** | Pressée |
 | **Lait** | Brebis, cru ou pasteurisé |
 | **Forme** | Cylindrique (petite meule haute) |

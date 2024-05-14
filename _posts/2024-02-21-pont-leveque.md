@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, lavée"
 ## Informations
 
 | **Appellation** | A.O.C |
-| **Origine géographique** | Département : Calvados, Région : Normandie, Pays : France   |
+| **Origine géographique** | Calvados, Normandie, France |
 | **Pâte** | Molle, lavée |
 | **Lait** | Vache |
 | **Forme** | Carrée |

@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, lavée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Pas-de-Calais, Région : Hauts-de-France, Pays : France    |
+| **Origine géographique** | Pas-de-Calais, Hauts-de-France, France |
 | **Pâte** | Molle, lavée à la bière |
 | **Lait** | Vache, lait cru |
 | **Forme** | Carrée |

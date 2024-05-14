@@ -18,7 +18,7 @@ tags-preview: "Pâte non cuite, molle, lavée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Ariège, Région : Occitanie, Pays : France   |
+| **Origine géographique** | Ariège, Occitanie, France |
 | **Pâte** | Non cuite, molle, lavée |
 | **Lait** | Chèvre, lait cru |
 | **Forme** | Ronde |

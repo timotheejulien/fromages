@@ -14,7 +14,7 @@ tags-preview: "Pâte persillée"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Département : Isère, Drôme, Région : Auvergne-Rhône-Alpes, Pays : France  |
+| **Origine géographique** | Isère / Drôme, Auvergne-Rhône-Alpes, France  |
 | **Pâte** | Persillée |
 | **Lait** | Vache |
 | **Forme** | Moyenne meule |

@@ -14,7 +14,7 @@ tags-preview: "Pâte fleurie"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Isère, Région : Auvergne-Rhône-Alpes, Pays : France |
+| **Origine géographique** | Isère, Auvergne-Rhône-Alpes, France |
 | **Pâte** | Fleurie |
 | **Lait** | Vache, lait cru |
 | **Forme** | Petit palet |

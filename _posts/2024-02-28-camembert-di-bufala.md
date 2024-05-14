@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Région : Lombardie, Pays : Italie  |
+| **Origine géographique** | Lombardie, Italie |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Buflonne, pasteurisé |
 | **Forme** | Ronde |

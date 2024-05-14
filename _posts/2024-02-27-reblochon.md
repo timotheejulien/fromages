@@ -16,7 +16,7 @@ tags-preview: "Pâte pressée, non cuite, lavée"
 ## Informations
 
 | **Appellation** | A.O.P, A.O.C |
-| **Origine géographique** | Département : Haute-Savoie, SAvoie : Auvergne-Rhône-Alpes, Pays : France  |
+| **Origine géographique** | Haute-Savoie / Savoie, Auvergne-Rhône-Alpes, France |
 | **Pâte** | Pâte pressée, non cuite, lavée |
 | **Lait** | Vache, lait cru |
 | **Forme** | Ronde |

@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, lavée"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Région : Serra da Estrela, Pays : Portugal  |
+| **Origine géographique** | Serra da Estrela, Portugal |
 | **Pâte** | Molle |
 | **Lait** | Brebis, lait cru |
 | **Forme** | Ronde |

@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Seine-et-Marne, Région : île-de-France, Pays : France   |
+| **Origine géographique** | Seine-et-Marne, Île-de-France, France |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Vache, lait cru |
 | **Forme** | Ronde |

@@ -14,7 +14,7 @@ tags-preview: "Pâte persillée"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Département : N/A, Région : Lombardie, Pays : Italie   |
+| **Origine géographique** | Lombardie, Italie |
 | **Pâte** | Persillée |
 | **Lait** | Vache, lait cru |
 | **Forme** | Meule |

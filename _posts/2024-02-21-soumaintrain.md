@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, lavée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Yonne, Région : Bourgogne-Franche-Comté, Pays : France   |
+| **Origine géographique** | Yonne, Bourgogne-Franche-Comté, France |
 | **Pâte** | Molle, lavée |
 | **Lait** | Vache |
 | **Forme** | Ronde |

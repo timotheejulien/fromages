@@ -14,7 +14,7 @@ tags-preview: "Pâte pressée, non cuite"
 ## Informations
 
 | **Appellation** | A.O.P, A.O.C |
-| **Origine géographique** | Département : Cantal, Puy-de-Dôme, Région : Auvergne-Rhône-Alpes, Pays : France  |
+| **Origine géographique** | Cantal / Puy-de-Dôme, Auvergne-Rhône-Alpes, France |
 | **Pâte** | Pressée, non cuite |
 | **Lait** | Vache, lait emprésuré |
 | **Forme** | Petite meule |

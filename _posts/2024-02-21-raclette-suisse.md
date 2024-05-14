@@ -15,7 +15,7 @@ tags-preview: "Pâte pressée, cuite"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : N/A, Région : N/A, Pays : Suisse   |
+| **Origine géographique** | Suisse |
 | **Pâte** | Pressée, cuite |
 | **Lait** | Vache, lait cru |
 | **Forme** | Meule |

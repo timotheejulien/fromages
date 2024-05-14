@@ -15,7 +15,7 @@ tags-preview: "Pâte pressée, cuite"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Département : Haute-Savoie, Région : Auvergne-Rhône-Alpes, Pays : France |
+| **Origine géographique** | Haute-Savoie, Auvergne-Rhône-Alpes, France |
 | **Pâte** | Pressée, cuite |
 | **Lait** | Vache |
 | **Forme** | Meule |

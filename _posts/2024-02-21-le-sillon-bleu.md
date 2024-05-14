@@ -14,7 +14,7 @@ tags-preview: "Pâte lavée, pressée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Vendée, Région : Pays de la Loire<, Pays : France   |
+| **Origine géographique** | Vendée, Pays de la Loire, France |
 | **Pâte** | Lavée, pressée |
 | **Lait** | Chèvre, pasteurisé |
 | **Forme** | Meule (30 cm) |

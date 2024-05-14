@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Isère, Région : Auvergne-Rhône-Alpes, Pays : France |
+| **Origine géographique** | Isère, Auvergne-Rhône-Alpes, France |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Chèvre |
 | **Forme** | Petit palet |

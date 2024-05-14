@@ -14,7 +14,7 @@ tags-preview: "Pâte persillée"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Département : Loire, Région : Auvergne-Rhône-Alpes, Pays : France   |
+| **Origine géographique** | Loire, Auvergne-Rhône-Alpes, France |
 | **Pâte** | Persillée |
 | **Lait** | Vache |
 | **Forme** | Cylindrique |

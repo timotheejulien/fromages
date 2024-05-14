@@ -14,7 +14,7 @@ tags-preview: "Pâte persillée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Pays : Royaume-Uni   |
+| **Origine géographique** | Royaume-Uni |
 | **Pâte** | Persillée |
 | **Lait** | Vache |
 | **Forme** | Cyllindrique |

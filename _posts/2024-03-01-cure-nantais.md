@@ -16,7 +16,7 @@ tags-preview: "Pâte pressée, non cuite, lavée"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Département : Loire-Atlantique, Région : Pays de la Loire, Pays : France  |
+| **Origine géographique** | Loire-Atlantique, Pays de la Loire, France |
 | **Pâte** | Pressée, non cuite, lavée |
 | **Lait** | Vache |
 | **Forme** | Carrée arrondie |

@@ -14,7 +14,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | Lait de montagne |
-| **Origine géographique** | Département : Isère, Région : Auvergne-Rhône-Alpes, Pays : France  |
+| **Origine géographique** | Isère, Auvergne-Rhône-Alpes, France |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Vache, lait thermisé |
 | **Forme** | Carrée |

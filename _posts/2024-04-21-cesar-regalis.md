@@ -14,7 +14,7 @@ tags-preview: "Pâte persillée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Haute-Garonne, Région : Occitanie, Pays : France  |
+| **Origine géographique** | Haute-Garonne, Occitanie, France |
 | **Pâte** | Persillée |
 | **Lait** | Brebis, pasteurisé |
 | **Forme** | Cylindrique |

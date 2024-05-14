@@ -15,7 +15,7 @@ tags-preview: "Pâte pressée, non cuite"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département :  Pyrénées-Atlantiques, Région : Nouvelle-Aquitaine, Pays : France |
+| **Origine géographique** | Pyrénées-Atlantiques, Nouvelle-Aquitaine, France |
 | **Pâte** | Pressée, non cuite |
 | **Lait** | Brebis, lait cru |
 | **Forme** | Cylindrique |

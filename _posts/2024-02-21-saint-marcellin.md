@@ -14,7 +14,7 @@ tags-preview: "Pâte molle"
 ## Informations
 
 | **Appellation** | I.G.P |
-| **Origine géographique** | Département : Isère, Région : Auvergne-Rhône-Alpes, Pays : France   |
+| **Origine géographique** | Isère, Auvergne-Rhône-Alpes, France |
 | **Pâte** | Molle |
 | **Lait** | Vache |
 | **Forme** | Palet |

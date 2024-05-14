@@ -16,7 +16,7 @@ tags-preview: "Pâte molle, lavée"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Département : Jura, Région : Bourgone-Franche-Comté, Pays : France   |
+| **Origine géographique** | Jura, Bourgone-Franche-Comté, France |
 | **Pâte** | Molle, lavée |
 | **Lait** | Vache, lait cru |
 | **Forme** | Ronde, cerclé d'épicéa |

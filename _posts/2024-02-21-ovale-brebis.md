@@ -14,7 +14,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Corrèze, Région : Nouvelle-Aquitaine, Pays : France   |
+| **Origine géographique** | Corrèze, Nouvelle-Aquitaine, France |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Brebis |
 | **Forme** | Ovale |

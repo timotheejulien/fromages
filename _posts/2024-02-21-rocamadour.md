@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Lot, Région : Nouvelle-Aquitaine, Pays : France   |
+| **Origine géographique** | Lot, Nouvelle-Aquitaine, France |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Chèvre |
 | **Forme** | Palet |

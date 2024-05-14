@@ -14,7 +14,7 @@ tags-preview: "Pâte persillée"
 ## Informations
 
 | **Appellation** | A.O.P |
-| **Origine géographique** | Département : Puy-de-Dôme, Région : Auvergne-Rhône-Alpes, Pays : France  |
+| **Origine géographique** | Puy-de-Dôme, Auvergne-Rhône-Alpes, France  |
 | **Pâte** | Persillée, fleurie, naturelle |
 | **Lait** | Vache |
 | **Forme** | Cylindrique |

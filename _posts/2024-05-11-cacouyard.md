@@ -17,7 +17,7 @@ tags-preview: "Pâte pressée, lavée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Doubs, Bourgogne-Franche-Comté, France  |
+| **Origine géographique** | Doubs, Bourgogne-Franche-Comté, France |
 | **Pâte** | Pressée, lavée |
 | **Lait** | Vache, pasteurisé |
 | **Forme** | Ronde (gros galet) |

@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | A.O.C, A.O.P |
-| **Origine géographique** | Départements : Seine-Maritime, Oise, Région : Normandie, Pays : France  |
+| **Origine géographique** | Seine-Maritime / Oise, Normandie, France  |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Vache, cru ou thermisé/pasteurisé |
 | **Forme** | Coeur (la plus connue), bonde cylindrique, carrée, briquette, double bonde, grand coeur |

@@ -14,7 +14,7 @@ tags-preview: "Pâte molle, lavée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Haute-Savoie, Région : Auvergne-Rhône-Alpes, Pays : France   |
+| **Origine géographique** | Haute-Savoie, Auvergne-Rhône-Alpes, France |
 | **Pâte** | Molle, lavée |
 | **Lait** | Vache, lait cru |
 | **Forme** | Ronde |

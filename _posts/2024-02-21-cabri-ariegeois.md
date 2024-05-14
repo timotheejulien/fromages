@@ -13,7 +13,7 @@ tags-preview: "Pâte molle"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Ariège, Région : Occitanie, Pays : France  |
+| **Origine géographique** | Ariège, Occitanie, France |
 | **Pâte** | Molle, lavée |
 | **Lait** | Chèvre |
 | **Forme** | Ronde |

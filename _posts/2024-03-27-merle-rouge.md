@@ -16,7 +16,7 @@ tags-preview: "Pâte pressée, non cuite, lavée"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Marne, Région : Grand Est, Pays : France  |
+| **Origine géographique** | Marne, Grand Est, France |
 | **Pâte** | Pressée, non cuite, lavée |
 | **Lait** | Vache, cru |
 | **Forme** | Ronde |

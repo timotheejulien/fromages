@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | A.O.C |
-| **Origine géographique** | Département : Haut-de-Seine, Région : Île-de-France, Pays : France   |
+| **Origine géographique** | Haut-de-Seine, Île-de-France, France |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Vache, lait cru |
 | **Forme** | Disque |

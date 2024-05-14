@@ -16,7 +16,7 @@ tags-preview: "Pâte pressée, cuite, fleurie"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Ille-et-Vilaine, Région : Bretagne, Pays : France  |
+| **Origine géographique** | Ille-et-Vilaine, Bretagne, France |
 | **Pâte** | Pressée, non cuite, fleurie |
 | **Lait** | Vache, cru |
 | **Forme** | Petite meule |

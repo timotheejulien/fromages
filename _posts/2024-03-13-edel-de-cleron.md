@@ -15,7 +15,7 @@ tags-preview: "Pâte molle, fleurie"
 ## Informations
 
 | **Appellation** | N/A |
-| **Origine géographique** | Département : Doubs, Région : Bourgogne-Franche-Comté, Pays : France  |
+| **Origine géographique** | Doubs, Bourgogne-Franche-Comté, France |
 | **Pâte** | Molle, fleurie |
 | **Lait** | Vache, pasteurisé |
 | **Forme** | Ronde, cerclée |
