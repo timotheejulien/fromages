@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Abondance"
+title: "Abondance"
 note: "★★★★☆"
 rating-date: "2024-02-21"
 image: /images/posts/abondance.jpg
