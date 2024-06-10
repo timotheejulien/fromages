@@ -24,7 +24,7 @@ tags-preview: "Pâte molle, fleurie"
 | **Affinage** | 1 mois en cave humide |
 | **Meilleure période de dégustation** | Avril à septembre |
 | **Boisson(s)** | N/A |
-| **Prix** | N/A |
+| **Prix** | 26,5 € /kg |
 
 ### Ressource(s)
 * [Wikipédia](https://fr.wikipedia.org/wiki/Brie_de_Meaux)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Taleggio"
-rating-date: "2024-06-07"
+title: "Bûchette de chèvre"
+rating-date: "2024-06-08"
 note: "★★★★☆"
-image: /images/posts/taleggio.jpg
+image: /images/posts/.jpg
 image-credit: Photo prise par moi-même
 comment: ""
 tags:

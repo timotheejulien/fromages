@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Taleggio"
+title: "Tomme du Jura"
 rating-date: "2024-06-07"
 note: "★★★★☆"
 image: /images/posts/taleggio.jpg
