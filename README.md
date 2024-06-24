@@ -1,4 +1,4 @@
-[![Follow @nhoizey@mamot.fr](https://img.shields.io/badge/Follow%20%40tim-%235b5bf8?style=flat&logo=mastodon&logoColor=white&link=https%3A%2F%2Fmastodon.timotheejulien.fr%2F%40tim)](https://mastodon.design/@timothee)
+[![Follow @nhoizey@mamot.fr](https://img.shields.io/badge/Follow%20%40tim-%235b5bf8?style=flat&logo=mastodon&logoColor=white&link=https%3A%2F%2Fmastodon.design%2F%40timothee)](https://mastodon.design/@timothee)
 
 # Cheese notes
 
