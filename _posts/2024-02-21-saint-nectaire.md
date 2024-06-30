@@ -23,7 +23,7 @@ tags-preview: "Pâte pressée, non cuite"
 | **Affinage** | Minimu 6 semaines en cave humide sur lit de paille de seigle, avec raclages de la croûte. |
 | **Meilleure période de dégustation** | Mai à octobre |
 | **Boisson(s)** | Vin blanc, cidre brut ou bière |
-| **Prix** | ~14 € pièce |
+| **Prix** | ~14 € pièce ou 32,60 € /kg |
 
 ### Ressource(s)
 * [Androuet](https://androuet.com/Saint-Nectaire-131.html)
