@@ -5,7 +5,7 @@ rating-date: "2024-07-06"
 note: "★★★★☆"
 image: /images/posts/maroilles.jpg
 image-credit: Photo prise par moi-même
-comment: "Ce fromage du Nord est délicieux malgré une forte odeur. Il est bien plus doux en bouche que son odeur pourrait laisser croire. Celle-ci provient de cette croûte lavée qui lui donnée également cette belle couleur brune-orangée. Sa texture tendre et dense le rend super agréable en bouche. Récemment dégusté pendant un apéritif, c'était top ! Il sera également idéal chaud dans un burger. En bouche on perçoit certaines notes de noisette et légèrement terreuse. C'est un super classique !"
+comment: "Ce fromage du Nord est délicieux malgré une forte odeur. Il est bien plus doux en bouche que son odeur pourrait laisser croire. Celle-ci provient de cette croûte lavée qui lui donne également cette belle couleur brune-orangée. Sa texture tendre et dense le rend super agréable en bouche. RJe l'ai récemment goûté pendant un apéritif et c'était excellent ! Il sera également idéal dans un burger. En bouche on perçoit certaines notes de noisette et légèrement terreuse. C'est un super classique !"
 tags:
     - Pâte molle
     - Pâte lavée
