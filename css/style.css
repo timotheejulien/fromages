@@ -252,7 +252,7 @@ nav ul li {
     padding: var(--space-medium);
     position: absolute;
     left: 50%;
-    top: calc(50% + var(--space-medium));
+    top: calc(50% + var(--space-xx-large));
     background: var(--color-background);
     border-radius: 24px 24px 0 0;
     transform: translate(-50%, -50%);
