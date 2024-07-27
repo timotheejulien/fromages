@@ -4,8 +4,8 @@ title: "Abondance"
 note: "★★★★☆"
 rating-date: "2024-02-21"
 image: /images/posts/abondance.jpg
-image-credit: Coyau&nbsp;/&nbsp;<a href="/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>
-comment: "Malgré une préférence pour le comté ou le beaufort, l’Abondance possède un léger goût de noisette et sa croûte donne un léger goût crayeux qui vient relever le fromage !"
+image-credit: <a title="Coyau / Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Abondance_(fromage)_01.jpg">Coyau / Wikimedia Commons</a>
+comment: Malgré une préférence pour le <a href="/comte.html">Comté</a> ou le Beaufort, l’Abondance possède un parfum de noisette et sa croûte donne un léger goût crayeux qui vient relever le fromage !
 tags: 
     - Pâte pressée
     - Pâte cuite

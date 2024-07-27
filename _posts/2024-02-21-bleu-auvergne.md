@@ -5,7 +5,7 @@ rating-date: "2024-02-21"
 note: "★★★★☆"
 image: /images/posts/bleu-auvergne.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Wikicheese_Clermont-Ferrand_-_Bleu_d%27Auvergne_20220825-02.jpg">Pymouss</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
-comment: "Puissant et persistant, à la texture friable et cassante mais très fondante. Il revêt des arômes délicats de sous bois et de champignons sauvages."
+comment: "Ce fromage est puissant et persistant. Il possède une texture friable et cassante mais reste très fondant en bouche. Il revêt des arômes délicats de sous bois et de champignons sauvages."
 tags:
     - Pâte persillée
 tags-preview: "Pâte persillée"
