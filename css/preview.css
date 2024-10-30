@@ -47,6 +47,7 @@ body {
 }
 
 #content-h2 {
+   width: 430px;
   margin: 0 0 8px 0;
   font-family: 'Mona-Sans', sans-serif;
   font-family: 'Mona Sans', sans-serif;
@@ -57,6 +58,7 @@ body {
 }
 
 .content-p {
+   width: 430px;
   margin: 0;
   padding: 0;
   font-family: 'Mona-Sans', sans-serif;
