@@ -34,40 +34,22 @@
 
 /* TYPOGRAPHY */
 @font-face {
-    font-family: MonaSans-title;
-    src: url(../assets/fonts/MonaSans-title.woff2) format("woff2");
-    font-style: normal;
-    font-weight: 500;
-    font-display: fallback;
-}
-
-@font-face {
-    font-family: MonaSans-body;
-    src: url(../assets/fonts/MonaSans-body.woff2) format("woff2");
-    font-style: normal;
-    font-weight: 400;
-    font-feature-settings: "ss01" on;
-    font-display: fallback;
-}
-
-@font-face {
-    font-family: MonaSans-bodyBold;
-    src: url(../assets/fonts/MonaSans-bodyBold.woff2) format("woff2");
-    font-style: normal;
-    font-weight: 700;
-    font-feature-settings: "ss01" on;
-    font-display: fallback;
+   font-family: UncutSans-Variable;
+   src: url(../assets/fonts/UncutSans-Variable.ttf) format("truetype");
+   font-style: normal;
+   font-feature-settings: 'dlig' on, 'salt' on, 'rvrn' on, 'ss01' on, 'ss02' on, 'ss03' on, 'ss06' on, 'ss07' on, 'ss08' on;
+   font-display: fallback;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: MonaSans-title, sans-serif;
+    font-family: UncutSans-Variable, sans-serif;
 }
 
 h1, .h1 { 
     margin: 0;
     font-size: 44px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     line-height: normal;
 }
 
@@ -75,7 +57,7 @@ h2, .h2 {
     margin: 0;
     font-size: 36px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 44px;
 }
 
@@ -83,34 +65,33 @@ h3, .h3 {
     margin: 0;
     font-size: 28px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 30px;
 }
 
 h4, .h4 {
     font-size: 18px;
-    font-weight: 450;
+    font-weight: 500;
     margin: 0;
     margin-bottom: 0px;
     line-height: 1.2;
 }
 
 p {
-    line-height: 1.5;
-    letter-spacing: .4px;
-    font-feature-settings: 'ss01' on;
+    line-height: 1.4;
+    letter-spacing: 0px;
 }
 
 p strong, strong {
-    font-family: MonaSans-bodyBold, sans-serif;
+    font-family: UncutSans-Variable, sans-serif;
+    font-weight: 600;
 }
 
 a {
-    line-height: 1.5;
+    line-height: 1.4;
     letter-spacing: .4px;
     text-decoration: underline;
     color: var(--color-text-primary);
-    font-feature-settings: 'ss01' on;
 }
 
 a:hover {
@@ -123,9 +104,9 @@ a:hover {
     display: inline-block;
     vertical-align: middle;
     text-decoration: none;
-    font-family: MonaSans-title;
+    font-family: UncutSans-Variable;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 20px;
     border-radius: 360px;
     padding: 12px 24px;
     border: none;
@@ -175,12 +156,13 @@ html {
 body {
     margin: 0;
     padding: 0;
-    font-family: MonaSans-body, sans-serif;
-    font-size: 18px;
+    font-family: UncutSans-Variable, sans-serif;
+    font-size: 20px;
     font-weight: 400;
     line-height: 26px;
     color: var(--color-text-primary);
     background: var(--color-background);
+    text-rendering: optimizeLegibility;
 }
 
 main {
@@ -214,9 +196,8 @@ nav ul li {
     position: relative;
     flex: auto;
     font-weight: 500;
-    font-size: 18px;
-    font-family: MonaSans-title, sans-serif;
-    font-feature-settings: 'ss01' off;
+    font-size: 20px;
+    font-family: UncutSans-Variable, sans-serif;
     line-height: 1.3rem;
     letter-spacing: 0px; 
     text-decoration: none;
@@ -275,23 +256,20 @@ nav ul li {
     background: var(--color-background-elevated);
     border: none;
     border-radius: 30px;
-    font-family: MonaSans-body, sans-serif;
-    font-feature-settings: 'ss01' on;
-    font-size: 18px;
-    font-weight: 450;
+    font-family: UncutSans-Variable, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
     line-height: 1.2;
-    line-height: 1.5;
-    letter-spacing: .4px;
+    letter-spacing: 0px;
     color: var(--color-text-primary);
 }
 
 #search-input::placeholder {
-    font-family: MonaSans-body, sans-serif;
-    font-size: 18px;
-    font-weight: 450;
-    line-height: 1.2;
-    line-height: 1.5;
-    letter-spacing: .4px;
+    font-family: UncutSans-Variable, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 0px;
     color: var(--color-text-primary);
 }
 
@@ -401,9 +379,9 @@ ul.listing li {
 
 table {
     width: 100%;
+    font-size: 20px;
     border-collapse: collapse;
     border: 1px solid var(--color-divider);
-    font-feature-settings: 'ss01' on;
 } 
 
 table > tbody > tr > td {
@@ -472,21 +450,21 @@ ul.footer-nav li {
     h1, .h1 { 
         font-size: 100px;
         font-style: normal;
-        font-weight: 500;
+        font-weight: 400;
         line-height: 120px;
     }
     
     h2, .h2 {
         font-size: 48px;
         font-style: normal;
-        font-weight: 500;
+        font-weight: 400;
         line-height: 54px;
     }
 
     h3, .h3 {
         font-size: 36px;
         font-style: normal;
-        font-weight: 500;
+        font-weight: 400;
         line-height: auto;
     }
 
