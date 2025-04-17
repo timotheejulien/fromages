@@ -204,7 +204,6 @@ nav ul li {
 }
 
 .nav-item:hover {
-    color: var(--color-text-secondary);
     text-decoration: none;
 }
 
@@ -215,7 +214,7 @@ nav ul li {
     position: absolute;
     left: 0;
     bottom: -5px;
-    background: var(--color-text-secondary);
+    background: var(--color-text-primary);
 }
 #search_modal {
     width: 100%;
