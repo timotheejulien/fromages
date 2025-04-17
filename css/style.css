@@ -78,7 +78,7 @@ h4, .h4 {
 }
 
 p {
-    line-height: 1.4;
+    line-height: 1.5;
     letter-spacing: 0px;
 }
 
@@ -106,7 +106,7 @@ a:hover {
     text-decoration: none;
     font-family: UncutSans-Variable;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
     border-radius: 8px;
     padding: 12px 24px;
     border: none;
@@ -157,7 +157,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: UncutSans-Variable, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 26px;
     color: var(--color-text-primary);
@@ -196,7 +196,7 @@ nav ul li {
     position: relative;
     flex: auto;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
     font-family: UncutSans-Variable, sans-serif;
     line-height: 1.3rem;
     letter-spacing: 0px; 
@@ -257,7 +257,7 @@ nav ul li {
     border: none;
     border-radius: 30px;
     font-family: UncutSans-Variable, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 1.2;
     letter-spacing: 0px;
@@ -266,7 +266,7 @@ nav ul li {
 
 #search-input::placeholder {
     font-family: UncutSans-Variable, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 1.4;
     letter-spacing: 0px;
@@ -379,7 +379,7 @@ ul.listing li {
 
 table {
     width: 100%;
-    font-size: 20px;
+    font-size: 18px;
     border-collapse: collapse;
     border: 1px solid var(--color-divider);
 } 
