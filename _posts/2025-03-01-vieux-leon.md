@@ -9,7 +9,7 @@ comment: Le Vieux Léon ressemble d'aspect à un <a href="https://fromages.timot
 tags:
     - Pâte pressée
     - Pâte cuite
-tags-preview: "Pâte pressée, non cuite"
+tags-preview: "Pâte pressée, cuite"
 ---
 
 ## Informations
