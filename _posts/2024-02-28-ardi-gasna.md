@@ -24,7 +24,7 @@ tags-preview: "Pâte pressée, non cuite"
 | **Affinage** | Minimum 5 mois |
 | **Meilleure période de dégustation** | Avril à août |
 | **Boisson(s)** | Vin blanc |
-| **Prix** | N/A |
+| **Prix** | 26,97 € /kg |
 
 ### Ressource(s)
 * [Androuet](https://androuet.com/Ardi-Gasna-643.html)

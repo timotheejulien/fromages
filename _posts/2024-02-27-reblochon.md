@@ -25,7 +25,7 @@ tags-preview: "Pâte pressée, non cuite, lavée"
 | **Affinage** | 4 à 5 semaines, en cave fraîche et humide, avec lavages |
 | **Meilleure période de dégustation** | Mai à septembre  |
 | **Boisson(s)** | Vin blanc de Savoie |
-| **Prix** | ~10 € pièce |
+| **Prix** | 28 € /kg (~10 € pièce)|
 
 ### Ressource(s)
 * [Androuet](https://androuet.com/Reblochon-de-savoie-130.html)
