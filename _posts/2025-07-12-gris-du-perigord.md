@@ -5,7 +5,7 @@ rating-date: "2025-07-12"
 note: "★★★☆☆"
 image: /images/posts/gris-perigord.jpg
 image-credit: Photo prise par moi-même
-comment: De faibles odeurs végétales et lactiques se dégagent de ce fromage. D'aspect on retrouve une croûte grise cendrée. Cette croûte de cendre végétale relève l’ensemble car la texture est fondante et crémeuse. On retrouve bien la texture de la cendre sous la dent qui amène une touche crayeuse. Il est assez doux, lactique en bouche. C'est un fromage qui conviendra à beaucoup de palais !
+comment: De faibles odeurs végétales et lactiques se dégagent de ce fromage. D'aspect on découvre une croûte grise faite de cendres végétales. Celle-ci relève l’ensemble car la texture interne est fondante et crémeuse. Sous la dent, on retrouve bien ces notes de cendre qui amènent une touche crayeuse. Il est assez doux, lactique en bouche. C'est un fromage qui conviendra à beaucoup de palais !
 tags:
     - Pâte molle
 tags-preview: "Pâte molle"
