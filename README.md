@@ -30,6 +30,8 @@ cd ./fromages
 jekyll serve
 ```
 
+Open your browser at `http://localhost:4000`
+
 ## Build
 
 ```
