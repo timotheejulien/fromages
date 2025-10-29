@@ -5,7 +5,7 @@ rating-date: "2025-09-26"
 note: "★★★★☆"
 image: /images/posts/image-placeholder.png
 image-credit: Je prends une photo la prochaine fois.
-comment: Le fromage à Raclette traditionnel ! Peu de chose à dire, simplement j'adore et j'ai une préférence pour le fromage à raclette fumé.
+comment: Le fromage à Raclette traditionnel est simplement délicieux ! Pour ma part, je l'adore et j'ai une préférence pour le fromage à raclette fumé.
 tags:
     - Pâte pressée
     - Pâte non cuite
