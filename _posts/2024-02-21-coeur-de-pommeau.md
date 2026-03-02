@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coeur de pommeau"
+title:  "Cœur de pommeau"
 rating-date: "2024-02-21"
 note: "★★★☆☆"
 image: /images/posts/coeur-pommeau.jpg

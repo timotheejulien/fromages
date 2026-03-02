@@ -24,7 +24,7 @@ tags-preview: "Pâte pressée, cuite"
 | **Affinage** | 5 mois minimums |
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc |
-| **Prix** | ~40 € /kg |
+| **Prix** | 49,90 € /kg pour du 18 mois |
 
 ### Ressource(s)
 * [Androuet](http://www.androuet.com/gruyere-suisse-169.html)

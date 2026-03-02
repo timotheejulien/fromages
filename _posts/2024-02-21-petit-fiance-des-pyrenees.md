@@ -27,7 +27,7 @@ tags-preview: "Pâte non cuite, molle, lavée"
 | **Affinage** | 45 jours |
 | **Meilleure période de dégustation** | Juin à septembre |
 | **Boisson(s)** | N/A |
-| **Prix** | ~45 € /kg |
+| **Prix** | 48,30 € /kg |
 
 ### Ressource(s)
 * [Le guide du fromage](https://www.leguidedufromage.com/le-petit-fiance-des-pyrenees-io590.html)
