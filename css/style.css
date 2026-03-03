@@ -342,7 +342,7 @@ ul.listing li {
     margin-top: var(--space-regular);
     margin-bottom: var(--space-medium);
     padding: var(--space-xx-small) var(--space-small) var(--space-x-small) var(--space-small);
-    font-size: 32px;
+    font-size: 18px;
     font-style: normal;
     font-weight: 500;
     line-height: 34px;
@@ -351,10 +351,12 @@ ul.listing li {
     display: inline-block;
 }
 
-
 .post-review svg, span {
    vertical-align:middle; 
+}
 
+.post-review svg {
+   width: 16px;
 }
 
 .post-image {
@@ -907,6 +909,10 @@ ul.listing a:hover .listing-title {
         font-weight: 500;
         line-height: 34px;
     }
+
+    .post-review svg {
+      width: 24px;
+   }
 
     .post-image, .post-image img {
         max-width: 400px;
