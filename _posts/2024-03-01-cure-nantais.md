@@ -2,7 +2,7 @@
 layout: post
 title:  "Curé nantais"
 rating-date: "2024-03-01"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/cure-nantais.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Cur%C3%A9_nantais.JPG">Rehtse</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons

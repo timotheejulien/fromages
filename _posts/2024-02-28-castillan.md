@@ -2,7 +2,7 @@
 layout: post
 title:  "Castillan"
 rating-date: "2024-02-28"
-note: "★★★★☆"
+note: 4
 milk: brebis
 image: /images/posts/castillan.jpg
 image-credit: Photo prise par moi-même

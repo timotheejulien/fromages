@@ -2,7 +2,7 @@
 layout: post
 title:  "Bleu de Bellevue"
 rating-date: "2024-04-05"
-note: "★★★★★"
+note: 5
 milk: vache
 image: /images/posts/bleu-de-bellevue.jpg
 image-credit: Photo prise par moi-même

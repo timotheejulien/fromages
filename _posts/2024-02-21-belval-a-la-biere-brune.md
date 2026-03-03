@@ -2,7 +2,7 @@
 layout: post
 title:  "Belval à la bière brune"
 rating-date: "2024-02-21"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/image-placeholder.jpg
 image-credit: 

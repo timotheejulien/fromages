@@ -2,7 +2,7 @@
 layout: post
 title: Carré Aurillac
 rating-date: "2024-11-22"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/carre-aurillac.jpg
 image-credit: Photo prise par moi-même

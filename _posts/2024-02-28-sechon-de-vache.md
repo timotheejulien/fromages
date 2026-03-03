@@ -2,7 +2,7 @@
 layout: post
 title:  "Séchon de vache"
 rating-date: "2024-02-28"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/image-placeholder.png
 image-credit: 

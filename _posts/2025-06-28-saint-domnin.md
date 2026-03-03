@@ -2,7 +2,7 @@
 layout: post
 title: Saint-Domnin de Provence
 rating-date: "2025-06-28"
-note: "★★★☆☆"
+note: 3
 milk: chevre
 image: /images/posts/saint-domnin.jpg
 image-credit: Photo prise par moi-même

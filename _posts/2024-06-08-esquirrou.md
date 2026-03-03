@@ -2,7 +2,7 @@
 layout: post
 title: "Esquirrou"
 rating-date: "2024-06-08"
-note: "★★★★☆"
+note: 4
 milk: brebis
 image: /images/posts/esquirrou.jpg
 image-credit: Photo prise par moi-même

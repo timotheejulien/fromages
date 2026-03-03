@@ -2,7 +2,7 @@
 layout: post
 title: "Bleu de Laqueuille"
 rating-date: "2024-07-06"
-note: "★★★★★"
+note: 5
 milk: vache
 image: /images/posts/bleu-de-laqueuille.jpg
 image-credit: Pymouss, CC BY-SA 4.0, via Wikimedia Commons

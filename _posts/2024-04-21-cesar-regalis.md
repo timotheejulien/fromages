@@ -2,7 +2,7 @@
 layout: post
 title:  "César Regalis"
 rating-date: "2024-04-21"
-note: "★★★★☆"
+note: 4
 milk: brebis
 image: /images/posts/cesar-regalis.jpg
 image-credit: Photo prise par moi-même

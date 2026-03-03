@@ -2,7 +2,7 @@
 layout: post
 title: "Bleu de Gex"
 rating-date: "2024-03-27"
-note: "★★★★★"
+note: 5
 milk: vache
 image: /images/posts/bleu-de-gex.jpg
 image-credit: Photo prise par moi-même

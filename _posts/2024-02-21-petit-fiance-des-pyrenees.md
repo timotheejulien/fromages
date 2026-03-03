@@ -2,7 +2,7 @@
 layout: post
 title: "Petit fiancé des Pyrénées"
 rating-date: "2024-02-21"
-note: "★★★★★"
+note: 5
 milk: chevre
 image: /images/posts/petit-fiance-pyrenees.jpg
 image-credit: Photo prise par moi-même

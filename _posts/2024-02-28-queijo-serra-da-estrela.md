@@ -2,7 +2,7 @@
 layout: post
 title:  "Queijo Serra da Estrela"
 rating-date: "2024-02-28"
-note: "★★☆☆☆"
+note: 2
 milk: brebis
 image: /images/posts/queijo-serra-da-estrela.jpg
 image-credit: Photo prise par moi-même

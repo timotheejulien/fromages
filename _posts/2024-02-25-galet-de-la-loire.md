@@ -2,7 +2,7 @@
 layout: post
 title:  "Galet de la Loire"
 rating-date: "2024-02-25"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/galet-de-la-loire.jpg
 image-credit: Photographie prise par moi-même

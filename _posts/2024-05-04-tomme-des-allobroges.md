@@ -2,7 +2,7 @@
 layout: post
 title:  "Tomme des Allobroges fermière"
 rating-date: "2024-05-04"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/tomme-des-allobroges.jpg
 image-credit: Photo prise par moi-même

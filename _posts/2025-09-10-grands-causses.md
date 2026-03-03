@@ -2,7 +2,7 @@
 layout: post
 title: Grands Causses
 rating-date: "2025-09-10"
-note: "★★★☆☆"
+note: 3
 milk: brebis
 image: /images/posts/grands-causses.jpg
 image-credit: Photo prise par moi-même

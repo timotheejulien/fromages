@@ -2,7 +2,7 @@
 layout: post
 title: Savoyard fumé
 rating-date: "2025-11-30"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/savoyard-fume.jpg
 image-credit: Photo prise par moi-même

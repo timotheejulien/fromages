@@ -2,7 +2,7 @@
 layout: post
 title:  "Moelleux du Revard"
 rating-date: "2024-02-28"
-note: "★★★★★"
+note: 5
 milk: vache
 image: /images/posts/moelleux-du-revard.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Moelleux_du_Revars.jpg">BruceZ</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons

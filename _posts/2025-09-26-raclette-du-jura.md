@@ -2,7 +2,7 @@
 layout: post
 title: Raclette du Jura
 rating-date: "2025-09-26"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/raclette.jpg
 image-credit: <a href="https://commons.wikimedia.org/w/index.php?curid=36744148">Photo de Pierre Guinoiseau (CC BY 2.0)</a>

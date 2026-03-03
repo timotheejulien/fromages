@@ -2,7 +2,7 @@
 layout: post
 title:  "Séchon de chèvre"
 rating-date: "2024-02-28"
-note: "★★★☆☆"
+note: 3
 milk: chevre
 image: /images/posts/image-placeholder.png
 image-credit: 

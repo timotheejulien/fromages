@@ -2,7 +2,7 @@
 layout: post
 title: "Crottin de Chavignol « repassé »"
 rating-date: "2024-07-01"
-note: "★★★★☆"
+note: 4
 milk: chevre
 image: /images/posts/crottin-de-chavignol.jpg
 image-credit: Photos prises par moi-même

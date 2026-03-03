@@ -2,7 +2,7 @@
 layout: post
 title: "Gouda à la truffe"
 rating-date: "2024-09-11"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/gouda-truffe.jpg
 image-credit: Photo prise par moi-même

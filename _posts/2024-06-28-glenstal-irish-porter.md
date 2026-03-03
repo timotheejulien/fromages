@@ -2,7 +2,7 @@
 layout: post
 title: "Glenstal Porter ou Irish Porter"
 rating-date: "2024-06-28"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/glenstal-porter.jpg
 image-credit: Photo prise par moi-même

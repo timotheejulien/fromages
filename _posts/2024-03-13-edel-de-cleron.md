@@ -2,7 +2,7 @@
 layout: post
 title:  "Édel de Cléron"
 rating-date: "2024-03-13"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/edel-de-cleron.jpg
 image-credit: Photo prise par moi-même

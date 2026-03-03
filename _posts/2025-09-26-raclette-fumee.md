@@ -2,7 +2,7 @@
 layout: post
 title: Raclette fumée
 rating-date: "2025-09-26"
-note: "★★★★★"
+note: 5
 milk: vache
 image: /images/posts/image-placeholder.png
 image-credit: Je prends une photo la prochaine fois.

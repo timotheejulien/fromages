@@ -2,7 +2,7 @@
 layout: post
 title: Gris du Périgord
 rating-date: "2025-07-12"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/gris-perigord.jpg
 image-credit: Photo prise par moi-même

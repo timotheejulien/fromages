@@ -2,7 +2,7 @@
 layout: post
 title:  "Reblochon fermier"
 rating-date: "2024-02-27"
-note: "★★★★★"
+note: 5
 milk: vache
 image: /images/posts/reblochon.jpg
 image-credit: Photo prise par moi-même

@@ -2,7 +2,7 @@
 layout: post
 title:  "Trou du cru"
 rating-date: "2024-02-28"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/trou-du-cru.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Le_Trou_Du_Cru.jpg">Tristan Ferne from UK</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons

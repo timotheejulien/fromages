@@ -2,7 +2,7 @@
 layout: post
 title: Saint Henry au thym
 rating-date: "2024-11-22"
-note: "★★★☆☆"
+note: 3
 milk: chevre
 image: /images/posts/saint-henry.jpg
 image-credit: Photo prise par moi-même

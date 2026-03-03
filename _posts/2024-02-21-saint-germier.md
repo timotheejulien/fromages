@@ -2,7 +2,7 @@
 layout: post
 title: "Saint-Germier"
 rating-date: "2024-02-21"
-note: "★★★★☆"
+note: 4
 milk: brebis
 image: /images/posts/saint-germier.jpg
 image-credit: Photographie prise par moi-même

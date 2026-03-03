@@ -2,7 +2,7 @@
 layout: post
 title: "Rocher nantais"
 rating-date: "2025-04-20"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/rocher-nantais.jpg
 image-credit: Photo prise par moi-même

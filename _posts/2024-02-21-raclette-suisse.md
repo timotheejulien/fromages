@@ -2,7 +2,7 @@
 layout: post
 title: "Raclette suisse"
 rating-date: "2024-02-21"
-note: "★★★★★"
+note: 5
 milk: vache
 image: /images/posts/raclette-suisse.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Raclette_-_001.jpg">Martin Steiger</a>, CC0, via Wikimedia Commons

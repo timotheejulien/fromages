@@ -2,7 +2,7 @@
 layout: post
 title: Bouton de culotte
 rating-date: "2026-01-04"
-note: "★★★★☆"
+note: 4
 milk: chevre
 image: /images/posts/bouton-de-culotte.jpg
 image-credit: Photo prise par moi-même

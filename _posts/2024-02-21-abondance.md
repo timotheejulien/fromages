@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abondance"
-note: "★★★★☆"
+note: 4
 milk: vache
 rating-date: "2024-02-21"
 image: /images/posts/abondance.jpg

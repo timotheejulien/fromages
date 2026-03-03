@@ -129,6 +129,7 @@ a:hover {
 
 .btn:hover {
    cursor: pointer;
+   border-radius: 0px
 }
 
 .btn-primary {
@@ -136,16 +137,8 @@ a:hover {
     color: var(--color-button-text-primary);
 }
 
-.btn-primary:hover {
-   background: var(--color-button-background-primary-hover);
-}
-
 .btn-secondary {
    border: 2px solid var(--color-text-primary);
-}
-
-.btn-secondary:hover {
-   border-radius: 0;
 }
 
 /* VARIABLE LAYOUT */
@@ -345,13 +338,24 @@ ul.listing li {
 }
 
 .post-review {
-    margin-top: var(--space-none);
+   width: fit-content;
+    margin-top: var(--space-regular);
     margin-bottom: var(--space-medium);
+    padding: var(--space-xx-small) var(--space-small) var(--space-x-small) var(--space-small);
     font-size: 32px;
     font-style: normal;
     font-weight: 500;
     line-height: 34px;
+    background: var(--color-primary);
+    border-radius: 8px;
+    display: inline-block;
 }
+
+
+    .post-review svg, span {
+      vertical-align:middle; 
+
+    }
 
 .post-image {
     height: 0%;
@@ -375,6 +379,7 @@ ul.listing li {
     object-position: 50% 50%;
     border: 1px solid;
     border-color: var(--color-divider);
+    border-radius: 8px;
 }
 
 .post-image figcaption {
@@ -672,7 +677,7 @@ ul.listing a:hover .listing-title {
 }
 
 .family-card-arrow {
-    color: var(--color-text-secondary);
+    color: var(--color-text-primary);
     flex-shrink: 0;
 }
 
@@ -845,7 +850,7 @@ ul.listing a:hover .listing-title {
     }
 
     .post-review {
-        font-size: 36px;
+        font-size: 24px;
         font-style: normal;
         font-weight: 500;
         line-height: 34px;

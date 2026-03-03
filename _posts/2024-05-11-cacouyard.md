@@ -2,7 +2,7 @@
 layout: post
 title:  "Cacouyard"
 rating-date: "2024-05-11"
-note: "★★☆☆☆"
+note: 2
 milk: vache
 image: /images/posts/cacouyard.jpg
 image-credit: Photo prise par moi-même

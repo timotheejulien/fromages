@@ -2,7 +2,7 @@
 layout: post
 title:  "Cœur de pommeau"
 rating-date: "2024-02-21"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/coeur-pommeau.jpg
 image-credit: Photographie prise par moi-même

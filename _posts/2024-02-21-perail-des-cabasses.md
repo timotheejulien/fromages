@@ -2,7 +2,7 @@
 layout: post
 title:  "Pérail des cabasses"
 rating-date: "2024-02-21"
-note: "★★★★★"
+note: 5
 milk: brebis
 image: /images/posts/perail-des-cabasses.jpg
 image-credit: <a title="Benoît Prieur, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cheese_P%C3%A9rail.jpg">Benoît Prieur, CC0, via Wikimedia Commons</a>

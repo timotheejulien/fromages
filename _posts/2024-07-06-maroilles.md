@@ -2,7 +2,7 @@
 layout: post
 title: "Maroilles"
 rating-date: "2024-07-06"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/maroilles.jpg
 image-credit: Photo prise par moi-même

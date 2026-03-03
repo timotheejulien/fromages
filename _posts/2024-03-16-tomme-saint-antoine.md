@@ -2,7 +2,7 @@
 layout: post
 title:  "Tomme Saint-Antoine"
 rating-date: "2024-03-16"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/image-placeholder.png
 # image-credit: Photo prise par moi-même

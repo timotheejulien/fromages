@@ -2,7 +2,7 @@
 layout: post
 title: "Mimolette"
 rating-date: "2024-07-01"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/mimolette.jpg
 image-credit: Photo prise par moi-même

@@ -2,7 +2,7 @@
 layout: post
 title:  "Comtesse de Vichy"
 rating-date: "2024-02-21"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/comtesse-vichy.jpg
 image-credit: Pierre-Yves Beaudouin&nbsp;/&nbsp;<a href="https://commons.wikimedia.org/wiki/File:WikiCheese_-_Comtesse_de_Vichy_06.jpg" title="Main Page">Wikimedia Commons</a>

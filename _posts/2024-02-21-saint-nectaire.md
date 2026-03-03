@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Saint-Nectaire"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/saint-nectaire.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Saint-Nectaire.jpg">Homer Ectus</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons

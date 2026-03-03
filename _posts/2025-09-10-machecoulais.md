@@ -2,7 +2,7 @@
 layout: post
 title: Machecoulais
 rating-date: "2025-09-10"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/machecoulais.jpg
 image-credit: Photo prise par moi-même

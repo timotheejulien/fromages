@@ -2,7 +2,7 @@
 layout: post
 title:  "Le P'tit gris"
 rating-date: "2024-04-13"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/le-ptit-gris.jpg
 image-credit: Photo prise par moi-même

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ardi-Gasna (brebis basque)"
 rating-date: "2024-02-28"
-note: "★★★★☆"
+note: 4
 milk: brebis
 image: /images/posts/ardi-gasna.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:WikiCheese_-_Ardi-gasna_05.jpg">Pierre-Yves Beaudouin / Wikimedia Commons</a>

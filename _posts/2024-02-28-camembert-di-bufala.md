@@ -2,7 +2,7 @@
 layout: post
 title:  "Camembert di bufala"
 rating-date: "2024-02-28"
-note: "★★★★☆"
+note: 4
 milk: mixte
 image: /images/posts/camembert-di-bufala.jpg
 image-credit: Photo prise par moi-même

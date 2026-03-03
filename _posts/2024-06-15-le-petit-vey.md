@@ -2,7 +2,7 @@
 layout: post
 title: "Le petit Vey"
 rating-date: "2024-02-28"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/le-petit-vey.jpg
 image-credit: Photo prise par moi-même

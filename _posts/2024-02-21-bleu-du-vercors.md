@@ -2,7 +2,7 @@
 layout: post
 title:  "Bleu du Vercors"
 rating-date: "2024-02-21"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/bleu-vercors.jpg
 image-credit: Photo prise par moi-même

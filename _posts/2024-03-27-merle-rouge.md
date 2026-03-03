@@ -2,7 +2,7 @@
 layout: post
 title:  "Merle rouge"
 rating-date: "2024-03-27"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/merle-rouge.jpg
 image-credit: Photo prise par moi-même

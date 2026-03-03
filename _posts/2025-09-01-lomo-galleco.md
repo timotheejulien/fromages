@@ -2,7 +2,7 @@
 layout: post
 title: Lomo Galleco
 rating-date: "2025-01-10"
-note: "★★★☆☆"
+note: 3
 milk: mixte
 image: /images/posts/lomo-galleco.jpg
 image-credit: Photo prise par moi-même

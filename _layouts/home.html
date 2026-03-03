@@ -28,7 +28,7 @@
             <span class="recent-card-name">{{ post.title }}</span>
             <div class="recent-card-meta">
               <span>{% if post.milk == 'vache' %}Vache{% elsif post.milk == 'brebis' %}Brebis{% elsif post.milk == 'chevre' %}Chèvre{% elsif post.milk == 'mixte' %}Mixte{% endif %}</span>
-              {% if post.note %}<span>{{ rating_num }}/5</span>{% endif %}
+              {% if post.note %}<span>{{ post.note }}/5</span>{% endif %}
             </div>
           </div>
         </a>

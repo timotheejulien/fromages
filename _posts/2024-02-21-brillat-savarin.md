@@ -2,7 +2,7 @@
 layout: post
 title:  "Brillât Savarin"
 rating-date: "2024-02-21"
-note: "★★★★★"
+note: 5
 milk: vache
 image: /images/posts/brillat-savarin.jpg
 image-credit: Pierre-Yves Beaudouin&nbsp;/&nbsp;<a href="/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>

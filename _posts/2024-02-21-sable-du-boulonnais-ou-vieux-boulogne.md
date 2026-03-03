@@ -2,7 +2,7 @@
 layout: post
 title: "Sablé du Boulonnais ou Vieux Boulogne"
 rating-date: "2024-02-21"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/sable-boulonnais.jpg
 image-credit: Photographie prise par moi-même

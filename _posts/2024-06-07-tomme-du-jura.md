@@ -2,7 +2,7 @@
 layout: post
 title: "Tomme du Jura"
 rating-date: "2024-06-07"
-note: "★★★☆☆"
+note: 3
 milk: vache
 image: /images/posts/tomme-du-jura.jpg
 image-credit: Photo prise par moi-même

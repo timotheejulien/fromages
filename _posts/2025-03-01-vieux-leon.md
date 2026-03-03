@@ -2,7 +2,7 @@
 layout: post
 title: Vieux Léon
 rating-date: "2024-02-28"
-note: "★★☆☆☆"
+note: 2
 milk: vache
 image: /images/posts/vieux-leon.jpg
 image-credit: Photo prise par moi-même

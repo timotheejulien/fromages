@@ -2,7 +2,7 @@
 layout: post
 title:  "Neufchâtel"
 rating-date: "2024-02-28"
-note: "★★★★☆"
+note: 4
 milk: vache
 image: /images/posts/neufchatel.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:C%C5%93urs_de_Neufch%C3%A2tel_01.jpg" target="_blank">Coyau / Wikimedia Commons</a>
