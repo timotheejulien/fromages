@@ -352,10 +352,10 @@ ul.listing li {
 }
 
 
-    .post-review svg, span {
-      vertical-align:middle; 
+.post-review svg, span {
+   vertical-align:middle; 
 
-    }
+}
 
 .post-image {
     height: 0%;
@@ -627,11 +627,21 @@ ul.listing a:hover .listing-title {
 .recent-card-meta {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: start;
     font-size: 16px;
     color: var(--color-text-secondary);
     font-weight: 400;
     line-height: 1.5;
+}
+
+.card-meta-note {
+   display: flex;
+   flex-direction: row;
+   gap: var(--space-x-small);
+}
+
+.card-meta-note svg {
+   width: 16px; 
 }
 
 /* SECTION FAMILIES */
@@ -662,6 +672,10 @@ ul.listing a:hover .listing-title {
     background: var(--color-background-elevated);
 }
 
+.family-card div {
+   width: 100%;
+}
+
 .family-card-name {
     display: block;
     font-weight: 400;
@@ -673,12 +687,46 @@ ul.listing a:hover .listing-title {
     display: block;
     font-size: 16px;
     color: var(--color-text-secondary);
-    margin-top: var(--space-xx-small);
 }
 
 .family-card-arrow {
     color: var(--color-text-primary);
     flex-shrink: 0;
+}
+
+/* SECTION CHEESE FAMILY (fromages.html) */
+.section-cheese-family {
+    padding-top: var(--space-large);
+}
+
+.family-card-right {
+    display: flex;
+    align-items: center;
+    gap: var(--space-small);
+    flex-shrink: 0;
+}
+
+.family-card-name-desc {
+   width: 100%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.family-card-name-desc *:last-child {
+  margin-left: auto;
+}
+
+.family-card-note {
+   display: flex;
+   gap: var(--space-x-small);
+   justify-content: center;
+   font-size: 16px;
+   color: var(--color-text-secondary);
+}
+
+.family-card-note svg {
+   width: 16px;
 }
 
 /* BREADCRUMB */
@@ -769,6 +817,10 @@ ul.listing a:hover .listing-title {
 
     /* SECTION FAMILIES - desktop */
     .section-families {
+        padding-top: var(--space-xxx-large);
+    }
+
+    .section-cheese-family {
         padding-top: var(--space-xxx-large);
     }
    .section-families-header {
@@ -943,5 +995,9 @@ ul.listing a:hover .listing-title {
 
     #search-input {
         background: var(--color-background);
+    }
+
+    .post-review {
+      color: #202020;
     }
 }

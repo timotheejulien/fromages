@@ -1,5 +1,5 @@
 {% include head.html %}
-{% include nav.html %}  
+{% include nav.html %}
 {% include search.html %}
 <main id="main-famille-fromage">
   <section class="container hero">
@@ -11,21 +11,22 @@
   {% assign sorted_cats = site.tags | sort %}
   {% for tag in sorted_cats %}
   {% assign sorted_posts = tag[1] | sort: 'title' %}
-  <section id="{{ tag[0] | slugify: 'latin' }}" class="section-fromage container flex">
-    <div class="third-width">
-      <h2>{{ tag[0] }}</h2>
+  <section id="{{ tag[0] | slugify: 'latin' }}" class="section-cheese-family container">
+    <div class="section-families-header">
+      <span class="h2">{{ tag[0] }}</span>
     </div>
-    <div>
-      <ul class="listing">
-        {% for post in sorted_posts %}
-        <li>
-          <a href="{{ post.url }}">
-            <span class="listing-title">{% if post.milk == 'vache' %}🐄 {% elsif post.milk == 'brebis' %}🐑 {% elsif post.milk == 'chevre' %}🐐 {% endif %}{{ post.title }}</span>
-            {% if post.note %}<span class="listing-meta"><span class="listing-note" aria-hidden="true">{{ post.note }}</span></span>{% endif %}
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
+    <div class="families-grid">
+      {% for post in sorted_posts %}
+      <a href="{{ post.url }}" class="family-card">
+        <div>
+          <span class="family-card-name">{{ post.title }}</span>
+          <div class="family-card-name-desc">
+            <span class="family-card-count">{% if post.milk == 'vache' %}Vache{% elsif post.milk == 'brebis' %}Brebis{% elsif post.milk == 'chevre' %}Chèvre{% elsif post.milk == 'mixte' %}Mixte{% endif %}</span>
+            {% if post.note %}<span class="family-card-note"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" class="icon icon-tabler icons-tabler-filled icon-tabler-star"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8.243 7.34l-6.38 .925l-.113 .023a1 1 0 0 0 -.44 1.684l4.622 4.499l-1.09 6.355l-.013 .11a1 1 0 0 0 1.464 .944l5.706 -3l5.693 3l.1 .046a1 1 0 0 0 1.352 -1.1l-1.091 -6.355l4.624 -4.5l.078 -.085a1 1 0 0 0 -.633 -1.62l-6.38 -.926l-2.852 -5.78a1 1 0 0 0 -1.794 0l-2.853 5.78z" /></svg> {{ post.note }}/5</span>{% endif %}
+          </div>
+        </div>
+      </a>
+      {% endfor %}
     </div>
   </section>
   <div class="section-fromage-divider"></div>
