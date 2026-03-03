@@ -3,6 +3,7 @@ layout: post
 title: "Gouda à la truffe"
 rating-date: "2024-09-11"
 note: "★★★☆☆"
+milk: vache
 image: /images/posts/gouda-truffe.jpg
 image-credit: Photo prise par moi-même
 comment: "Le Gouda est un fromage connu. Cette version est relevée par la truffe. La texture est vraiment sympa : ferme et à la fois tendre et fondante en bouche. Visuellement la truffe ajoute une petite touche noire qui n’est pas désagréable. Il se déguste merveilleusement bien à l’apéritif !"

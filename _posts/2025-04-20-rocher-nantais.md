@@ -3,6 +3,7 @@ layout: post
 title: "Rocher nantais"
 rating-date: "2025-04-20"
 note: "★★★★☆"
+milk: vache
 image: /images/posts/rocher-nantais.jpg
 image-credit: Photo prise par moi-même
 comment: Le Rocher nantais est considéré comme une tomme. Personnellement je le trouve plus mou et crémeux. Il possède une belle croûte orangée qui au goût est légèrement granuleuse et amène de la mâche tout en restant agréable. Son cœur est moelleux, un goût lactique puissant s'en dégage. Son apparence n'est pas sans rappeler le <a href="https://fromages.timotheejulien.fr/petit-fiance-des-pyrenees.html">Petit fiancé des Pyrénées</a>. Il aura cependant moins de puissance en bouche que son cousin le <a href="https://fromages.timotheejulien.fr/cure-nantais.html">Curé nantais</a>.

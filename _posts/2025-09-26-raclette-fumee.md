@@ -3,6 +3,7 @@ layout: post
 title: Raclette fumée
 rating-date: "2025-09-26"
 note: "★★★★★"
+milk: vache
 image: /images/posts/image-placeholder.png
 image-credit: Je prends une photo la prochaine fois.
 comment: C'est mon fromage à raclette préféré ! Le fumage lui donne une saveur supplémentaire qui se marie très bien avec la charcuterie et le vin. Cependant, le fromage est plus fort en bouche. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Castillan"
 rating-date: "2024-02-28"
 note: "★★★★☆"
+milk: brebis
 image: /images/posts/castillan.jpg
 image-credit: Photo prise par moi-même
 comment: "Une belle odeur fumée se dégage de sa croûte. C'est très bon en bouche, un goût délicat de noisette et on retrouve également une pointe salée. La pâte est plus douce que sa croûte ce qui amène un très bon équilibre lors de la dégustation."

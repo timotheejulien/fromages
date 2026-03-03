@@ -3,6 +3,7 @@ layout: post
 title:  "Queijo Serra da Estrela"
 rating-date: "2024-02-28"
 note: "★★☆☆☆"
+milk: brebis
 image: /images/posts/queijo-serra-da-estrela.jpg
 image-credit: Photo prise par moi-même
 comment: "C'est un fromage assez fort en bouche avec sa croute lavée qui est (dans mon souvenir) un poil caoutchouteuse. C'est la première fois qu'un fromage m'a un peu écoeuré à l'apéro. Cependant sa texture coulante est très sympa à déguster."

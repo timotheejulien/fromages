@@ -3,6 +3,7 @@ layout: post
 title:  "Bleu du Vercors"
 rating-date: "2024-02-21"
 note: "★★★★☆"
+milk: vache
 image: /images/posts/bleu-vercors.jpg
 image-credit: Photo prise par moi-même
 comment: Je l'ai goûté lors d’une raclette, il est assez doux pour une pâte persillée mais reste parfumé. La texture est proche d'une tomme. C'est excellent ! Se déguste bien évidemment aussi froid ;)

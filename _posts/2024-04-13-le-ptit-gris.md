@@ -3,6 +3,7 @@ layout: post
 title:  "Le P'tit gris"
 rating-date: "2024-04-13"
 note: "★★★★☆"
+milk: vache
 image: /images/posts/le-ptit-gris.jpg
 image-credit: Photo prise par moi-même
 comment: "Son odeur est assez neutre de loin mais une fois proche du nez, on reconnait bien une senteur lactique et animale. La pâte a également un goût salin et lactique. Cependant la croûte aux couleurs de cendre et à l'aspect terreux, amène une certaine amertume pour créer un bel équilibre. Pour vous donner une idée de sa texture, elle est plus molle que celle du Saint-Nectaire et bien plus crémeuse. C’est un fromage agréable !"

@@ -3,6 +3,7 @@ layout: post
 title: Savoyard fumé
 rating-date: "2025-11-30"
 note: "★★★☆☆"
+milk: vache
 image: /images/posts/savoyard-fume.jpg
 image-credit: Photo prise par moi-même
 comment: À première vue, on croirait un Reblochon avec une meilleure tenue et il est plus ferme en bouche. Une odeur fumée (au bois de hêtre) très agréable se dégage dès l'ouverture du fromage et que l'on retrouve fortement en bouche. Je pense qu'il serait excellent chaud, une belle alternative à la raclette. Pour conclure, c'est un bon fromage mais je préfère le Reblochon.

@@ -3,6 +3,7 @@ layout: post
 title: Carré Aurillac
 rating-date: "2024-11-22"
 note: "★★★★☆"
+milk: vache
 image: /images/posts/carre-aurillac.jpg
 image-credit: Photo prise par moi-même
 comment: Dès la première bouchée il m'a rappelé le bleu de Bresse grâce son goût et à sa texture. Cette dernière est molle, un peu comme une tomme mais tout en étant crémeuse. Au goût on retrouve les caractérisques d'une pâte persillée. Sa salinité offre un mélange harmonieux avec sa croûte fleurie qui amène une certaine douceur et fraicheur en bouche. C'est un bleu qui reste assez doux comparativement à ses homologues. C'est une très belle découverte sur un plateau de fromages !

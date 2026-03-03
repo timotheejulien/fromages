@@ -3,6 +3,7 @@ layout: post
 title: Grands Causses
 rating-date: "2025-09-10"
 note: "★★★☆☆"
+milk: brebis
 image: /images/posts/grands-causses.jpg
 image-credit: Photo prise par moi-même
 comment: Une belle croûte enveloppe cette tomme. Sa texture interne est dure, typique d'une pâte pressée. Au goût, on retrouve bien le lait de brebis et des saveurs boisées. C'est sympa en apéro.

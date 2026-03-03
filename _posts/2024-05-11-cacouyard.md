@@ -3,6 +3,7 @@ layout: post
 title:  "Cacouyard"
 rating-date: "2024-05-11"
 note: "★★☆☆☆"
+milk: vache
 image: /images/posts/cacouyard.jpg
 image-credit: Photo prise par moi-même
 comment: "Au visuelle il ressemble un peu à un Reblochon avec une croûte plus jaune. À l'odeur on retrouve des notes animales. Au goût, un parfum de noix se degage fortement. La texture est molle et souple, un peu comme une tomme. Je pense qu'il aurait une meilleure place dans un burger plutôt que sur un plateau de fromage. C'est un fromage correct mais je m'attendais à mieux.

@@ -2,6 +2,7 @@
 layout: post
 title: "Abondance"
 note: "★★★★☆"
+milk: vache
 rating-date: "2024-02-21"
 image: /images/posts/abondance.jpg
 image-credit: <a title="Coyau / Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Abondance_(fromage)_01.jpg">Coyau / Wikimedia Commons</a>

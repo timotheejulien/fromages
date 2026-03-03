@@ -3,6 +3,7 @@ layout: post
 title: "Tomme du Jura"
 rating-date: "2024-06-07"
 note: "★★★☆☆"
+milk: vache
 image: /images/posts/tomme-du-jura.jpg
 image-credit: Photo prise par moi-même
 comment: "Cette tomme est un bon classique. Sa croûte grisâtre amène un côté terreux pour ceux qui la mangent. À l'odeur, on retrouve des nuances de pailles, d'herbe sèches. Quant au goût, c'est un fromage assez frais en bouche qui possède une texture souple. C'est un fromage qui plaira à tout le monde."

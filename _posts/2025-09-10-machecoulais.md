@@ -3,6 +3,7 @@ layout: post
 title: Machecoulais
 rating-date: "2025-09-10"
 note: "★★★☆☆"
+milk: vache
 image: /images/posts/machecoulais.jpg
 image-credit: Photo prise par moi-même
 comment: C’est une création de la fromagerie Beillevaire à Machecoul, en Loire-Atlantique, d’où son nom. Je l'ai découvert sur l'Île de Ré. C'est une sympatique découverte ce fromage à croute lavée. Il est crémeux sur les bords et plus ferme au centre. Un fromage un peu passe partout pour une croûte lavée.

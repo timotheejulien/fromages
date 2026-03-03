@@ -3,6 +3,7 @@ layout: post
 title: Bouton de culotte
 rating-date: "2026-01-04"
 note: "★★★★☆"
+milk: chevre
 image: /images/posts/bouton-de-culotte.jpg
 image-credit: Photo prise par moi-même
 comment: "À l’odeur, il me fait penser au saucisson : c’est perturbant mais agréable. La découpe n’est pas évidente, le fromage est dur et friable. Pour autant, sa texture reste assez fondante, elle se rapprocherait d’un comté affiné. On retrouve le goût caractéristique du lait de chèvre, puissant mais pas écœurant. C'est une belle découverte !"

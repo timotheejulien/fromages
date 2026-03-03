@@ -3,6 +3,7 @@ layout: post
 title: "Petit fiancé des Pyrénées"
 rating-date: "2024-02-21"
 note: "★★★★★"
+milk: chevre
 image: /images/posts/petit-fiance-pyrenees.jpg
 image-credit: Photo prise par moi-même
 comment: "Tout simplement un de mes fromages préférés ! Cela dit, d'aspect il reprend  la forme du Reblochon avec une pâte lavée aux couleurs orangées. En bouche il est plus puissant, offrant des saveurs caprines équilibrées et parfumées de notes florales, de paille et de noisettes. Il est également plus crémeux, l'équilibre entre la pâte onctueuse et la croûte plus prononcée est un délice pour les papilles. À l'odeur, il offre des senteurs animales et boisées, assez puissantes.<br><br>

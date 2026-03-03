@@ -3,6 +3,7 @@ layout: post
 title:  "Brillât Savarin"
 rating-date: "2024-02-21"
 note: "★★★★★"
+milk: vache
 image: /images/posts/brillat-savarin.jpg
 image-credit: Pierre-Yves Beaudouin&nbsp;/&nbsp;<a href="/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>
 comment: Fromage goûtu et paradoxalement assez doux. Il est aussi extrêmement crémeux, on adore !!! Ne pas oublier la version truffée qui est également un délice !

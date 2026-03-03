@@ -4,15 +4,16 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>{{ page.title }} | Notes fromagères</title>
-      <meta name="description" content="{{ page.tags-preview }}">
+      <meta name="description" content="{{ page.comment | strip_html }}">
       <link rel="stylesheet" href="/css/style.css">
-      <meta property="og:locale"  content="fr_FR" />
-      <meta property="og:image" content="/images/previews/{{ page.slug }}.png"/>
-      <meta property="og:description" content="{{ page.tags-preview }}" />
+      <meta property="og:locale" content="fr_FR" />
+      <meta property="og:title" content="{{ page.title }} | Notes fromagères" />
+      <meta property="og:description" content="{{ page.comment | strip_html }}" />
+      <meta property="og:image" content="{{ site.url }}/images/previews/{{ page.slug }}.png" />
+      <link rel="icon" type="image/x-icon" href="/favicon.ico">
       <meta name="fediverse:creator" content="@timothee@mastodon.design" />
       <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
-      <script src="/assets/script.js"></script>
+      <script src="/assets/script.js" defer></script>
       {% include analytics.html %}
     </head>
-</html>
 <body>

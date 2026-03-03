@@ -3,6 +3,7 @@ layout: post
 title:  "Coulommiers"
 rating-date: "2024-02-21"
 note: "★★★★☆"
+milk: vache
 image: /images/posts/coulommiers.jpg
 image-credit: Myrabella <a href="https://commons.wikimedia.org/wiki/File:Coulommiers_lait_cru.jpg" title="Main Page">Wikimedia Commons</a>
 comment: "Goût de terroir prononcé mais un peu plus doux que son homologue le Camembert de Normandie."

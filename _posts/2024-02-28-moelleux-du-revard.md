@@ -3,6 +3,7 @@ layout: post
 title:  "Moelleux du Revard"
 rating-date: "2024-02-28"
 note: "★★★★★"
+milk: vache
 image: /images/posts/moelleux-du-revard.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Moelleux_du_Revars.jpg">BruceZ</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 comment: "Sans surprise, il est très moelleux, fondant et la croûte ramène un goût animal avec une texture plus granuleuse. D'aspect il ressemble à une tomme. Ça fait une belle texture en bouche entre la croûte et la pâte. Je recommande !"

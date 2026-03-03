@@ -3,6 +3,7 @@ layout: post
 title:  "Tomme des Allobroges fermière"
 rating-date: "2024-05-04"
 note: "★★★★☆"
+milk: vache
 image: /images/posts/tomme-des-allobroges.jpg
 image-credit: Photo prise par moi-même
 comment: "Comme tout fromage provenant du massif des Aravis, il est délicieux. C'est littéralement un mélange entre un Reblochon et un Saint-Nectaire. En effet, sa croûte peut devenir (apparemment) grisâtre mais sa forme ressemblera plus à son homologue de Savoie. Son odeur est agréable, à la fois douce mais animale. Au goût on retrouve bien le côté fromage d'alpage et sa texture est onctueuse. On perçoit également dans la texture de cette tomme, l'aspect du Saint-Nectaire à mon sens. Belle découverte !"

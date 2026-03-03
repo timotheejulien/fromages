@@ -3,6 +3,7 @@ layout: post
 title:  "Tomme Saint-Antoine"
 rating-date: "2024-03-16"
 note: "★★★☆☆"
+milk: vache
 image: /images/posts/image-placeholder.png
 # image-credit: Photo prise par moi-même
 comment: "C'est un fromage mœlleux et légèrement compact, on reconnait bien la texture d'une tomme. Il possède un goût parfumé avec la croûte, légèrement boisé et animal. Je l'ai également goûté dans un burger et il est cependant un peu fade. Pour être franc, il manque de caractère pour ressortir dans l'ensemble des parfums que possède un hamburger."

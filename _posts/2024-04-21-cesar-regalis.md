@@ -3,6 +3,7 @@ layout: post
 title:  "César Regalis"
 rating-date: "2024-04-21"
 note: "★★★★☆"
+milk: brebis
 image: /images/posts/cesar-regalis.jpg
 image-credit: Photo prise par moi-même
 comment: "Il est élaboré par le fromager Dominique Bouchait, MOF en 2015. Fait intéressant, il est entouré d'une feuille de cire alimentaire (couleur crème) qui lui permet de conserver son humidité. Celle-ci apporte une très bonne onctuosité. Semblable au Roquefort en terme de goût, il est également silloné ce qui permet au champignon « Penicilium Roqueforti » de se développer. Il est tout de même plus crémeux que son cousin. Son odeur est lactique et légèrement boisée. C'est une très belle alternative au Roquefort !"

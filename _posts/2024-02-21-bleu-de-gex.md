@@ -3,6 +3,7 @@ layout: post
 title: "Bleu de Gex"
 rating-date: "2024-03-27"
 note: "★★★★★"
+milk: vache
 image: /images/posts/bleu-de-gex.jpg
 image-credit: Photo prise par moi-même
 comment: "Curieusement c'est un fromage très peu odorant. Il a une très belle texture pour un bleu, elle ressemble à celle d'une tomme. Au goût il y a une certaine amertume mais on retrouve bel et bien le goût d'une pâte persillée. Très belle découverte pour changer des autres pâtes persillées, disons plus classique !"

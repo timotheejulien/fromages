@@ -8,19 +8,51 @@
     <div class="divider"></div>
   </section>
 
-  <section class="section-fromage container flex">
-    <div class="third-width">
-      <span class="h2">Plaisirs gustatifs</span>
-      <h2 class="color-text-secondary">Fromages dégustés</h2>
+  <section class="section-recent container">
+    <div class="section-recent-header">
+      <div>
+        <span class="h2">Récemment savourés</span>
+        <h2 class="color-text-secondary">Dernières dégustations</h2>
+      </div>
+      <a href="/fromages.html" class="btn btn-secondary">Voir tous les fromages →</a>
     </div>
-    
-    <div>
-      <ul class="listing">
-      {% assign posts = site.posts | sort: 'title' %}
-      {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <div class="recent-cards">
+      {% assign recent_posts = site.posts | sort: 'rating-date' | reverse %}
+      {% for post in recent_posts limit:5 %}
+        {% assign rating_num = post.note | split: '★' | size | minus: 1 %}
+        <a href="{{ post.url }}" class="recent-card">
+          <div class="recent-card-image">
+            <img src="{{ post.image }}" alt="Photo de {{ post.title }}" />
+          </div>
+          <div class="recent-card-body">
+            <span class="recent-card-name">{{ post.title }}</span>
+            <div class="recent-card-meta">
+              <span>{% if post.milk == 'vache' %}Vache{% elsif post.milk == 'brebis' %}Brebis{% elsif post.milk == 'chevre' %}Chèvre{% elsif post.milk == 'mixte' %}Mixte{% endif %}</span>
+              {% if post.note %}<span>{{ rating_num }}/5</span>{% endif %}
+            </div>
+          </div>
+        </a>
       {% endfor %}
-      </ul>
+    </div>
+  </section>
+
+  <section class="section-families container">
+    <div class="section-families-header">
+      <span class="h2">Typologie de pâte</span>
+      <h2 class="color-text-secondary">Les familles</h2>
+    </div>
+    <div class="families-grid">
+      {% assign sorted_tags = site.tags | sort %}
+      {% for tag in sorted_tags %}
+        {% assign tag_count = tag[1] | size %}
+        <a href="/fromages.html#{{ tag[0] | slugify: 'latin' }}" class="family-card">
+          <div>
+            <span class="family-card-name">{{ tag[0] }}</span>
+            <span class="family-card-count">{{ tag_count }} fromage{% if tag_count > 1 %}s{% endif %}</span>
+          </div>
+          <span class="family-card-arrow" aria-hidden="true">→</span>
+        </a>
+      {% endfor %}
     </div>
   </section>
 </main>

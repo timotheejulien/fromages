@@ -3,6 +3,7 @@ layout: post
 title:  "Appenzeller"
 rating-date: "2024-02-21"
 note: "★★★★★"
+milk: vache
 image: /images/posts/appenzeller.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:App_product_0001_bc.jpg">Ulled</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 comment: Très sympa pour changer du <a href="/comte.html">Comté</a>, plus prononcé en goût. Sa texture est un peu plus souple également.

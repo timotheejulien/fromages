@@ -1,0 +1,34 @@
+{% include head.html %}
+{% include nav.html %}  
+{% include search.html %}
+<main id="main-famille-fromage">
+  <section class="container hero">
+    <h1>{{ page.title }}</h1>
+    <p>Les fromages que j'ai dégustés et triés selon leurs types de pâtes.</p>
+    <div class="divider"></div>
+  </section>
+
+  {% assign sorted_cats = site.tags | sort %}
+  {% for tag in sorted_cats %}
+  {% assign sorted_posts = tag[1] | sort: 'title' %}
+  <section id="{{ tag[0] | slugify: 'latin' }}" class="section-fromage container flex">
+    <div class="third-width">
+      <h2>{{ tag[0] }}</h2>
+    </div>
+    <div>
+      <ul class="listing">
+        {% for post in sorted_posts %}
+        <li>
+          <a href="{{ post.url }}">
+            <span class="listing-title">{% if post.milk == 'vache' %}🐄 {% elsif post.milk == 'brebis' %}🐑 {% elsif post.milk == 'chevre' %}🐐 {% endif %}{{ post.title }}</span>
+            {% if post.note %}<span class="listing-meta"><span class="listing-note" aria-hidden="true">{{ post.note }}</span></span>{% endif %}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+  <div class="section-fromage-divider"></div>
+  {% endfor %}
+</main>
+{% include footer.html %}

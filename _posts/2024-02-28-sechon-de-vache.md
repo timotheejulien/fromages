@@ -3,6 +3,7 @@ layout: post
 title:  "Séchon de vache"
 rating-date: "2024-02-28"
 note: "★★★☆☆"
+milk: vache
 image: /images/posts/image-placeholder.png
 image-credit: 
 comment: "Proche du Saint Marcellin mais beaucoup plus sec, il a un goût plus affirmé ! Comme son homologue au chèvre, sa texture est parfaite pour le râper sur vos. Bonne découverte !"

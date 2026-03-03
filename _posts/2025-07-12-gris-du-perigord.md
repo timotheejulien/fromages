@@ -3,6 +3,7 @@ layout: post
 title: Gris du Périgord
 rating-date: "2025-07-12"
 note: "★★★☆☆"
+milk: vache
 image: /images/posts/gris-perigord.jpg
 image-credit: Photo prise par moi-même
 comment: De faibles odeurs végétales et lactiques se dégagent de ce fromage. D'aspect on découvre une croûte grise faite de cendres végétales. Celle-ci relève l’ensemble car la texture interne est fondante et crémeuse. Sous la dent, on retrouve bien ces notes de cendre qui amènent une touche crayeuse. Il est assez doux, lactique en bouche. C'est un fromage qui conviendra à beaucoup de palais !

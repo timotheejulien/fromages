@@ -3,6 +3,7 @@ layout: post
 title: "Esquirrou"
 rating-date: "2024-06-08"
 note: "★★★★☆"
+milk: brebis
 image: /images/posts/esquirrou.jpg
 image-credit: Photo prise par moi-même
 comment: "Ce fromage a été élu meilleur Fromage du Monde en mars 2018 lors de la 32è édition du concours World Championship Cheese Contest aux Etats-Unis. Il s'agit en réalité d'un  petit Ossau-iraty. <br><br> Je vous invite donc à découvrir ma fiche sur l'Ossau-Iraty."

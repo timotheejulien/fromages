@@ -3,6 +3,7 @@ layout: post
 title:  "Chevrotin Aravis"
 rating-date: "2024-02-21"
 note: "★★★★★"
+milk: chevre
 image: /images/posts/chevrotin-aravis.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Chevrotin_des_Aravis_(avril_2021)_-_2.jpg">Benoît Prieur</a>, CC0, via Wikimedia Commons
 comment: "Il se fait appeler le Reblochon au chèvre ! C’est excellent, on retrouve bien l’aspect et le goût du Reblochon. Une pépite pour remplacer le Petit Fiancé des Pyrénées."

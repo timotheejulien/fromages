@@ -3,6 +3,7 @@ layout: post
 title: Saint Henry au thym
 rating-date: "2024-11-22"
 note: "★★★☆☆"
+milk: chevre
 image: /images/posts/saint-henry.jpg
 image-credit: Photo prise par moi-même
 comment: Ce petit fromage artisanal est atypique avec son arôme de thym. Sa pâte moelleuse et fondante est rehaussée par l’arôme délicat et herbacé du thym. Il y a un bel équilibre entre la douceur du lait et la fraîcheur herbes. C'est un fromage de chèvre qui change.

@@ -3,8 +3,9 @@ layout: post
 title: Raclette du Jura
 rating-date: "2025-09-26"
 note: "★★★★☆"
-image: /images/posts/image-placeholder.png
-image-credit: Je prends une photo la prochaine fois.
+milk: vache
+image: /images/posts/raclette.jpg
+image-credit: <a href="https://commons.wikimedia.org/w/index.php?curid=36744148">Photo de Pierre Guinoiseau (CC BY 2.0)</a>
 comment: Le fromage à Raclette traditionnel est simplement délicieux ! Pour ma part, je l'adore et j'ai une préférence pour le fromage à raclette fumé.
 tags:
     - Pâte pressée
