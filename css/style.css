@@ -13,6 +13,7 @@
     --color-text-third: #BABABA;
     --color-focus: #202020;
     --color-primary: #EAB631;
+    --color-primary-light: rgba(234, 182, 49, 0.25);
   
     /* SPACE TOKEN */
     --space-none: 0;
@@ -139,11 +140,13 @@ a:hover {
 }
 
 .btn-secondary {
+   color: var(--color-text-primary);
    background: var(--color-background);
    border: 2px solid var(--color-text-primary);
 }
 
 .btn-tertiary {
+   color: var(--color-text-primary);
    text-decoration: underline;
    background: none;
    border: none;
@@ -304,10 +307,6 @@ nav ul li {
     color: var(--color-text-primary);
 }
 
-#search-input:focus {
-    outline: 2px solid var(--color-primary);
-}
-
 #results-container {
     padding: var(--space-none) var(--space-none) var(--space-none) var(--space-medium);
 }
@@ -359,7 +358,7 @@ ul.listing li {
     font-style: normal;
     font-weight: 500;
     line-height: 34px;
-    background: var(--color-primary);
+    background: var(--color-primary-light);
     border-radius: 8px;
     display: inline-block;
 }
@@ -1167,6 +1166,7 @@ ul.listing a:hover .listing-title {
    font-size: 18px;
    font-weight: 500;
    text-decoration: underline;
+   color: var(--color-text-primary);
    background: none;
    border: none;
 }
@@ -1193,6 +1193,7 @@ ul.listing a:hover .listing-title {
         --color-text-third: #DEDEDE;
         --color-focus: #FBFBFB;
         --color-primary: #FFD363;
+        --color-primary-light: rgba(234, 182, 49, 0.25);
     }
 
     img {
@@ -1214,6 +1215,6 @@ ul.listing a:hover .listing-title {
     }
 
     .post-review {
-      color: #202020;
+      color: var(--color-text-primary);
     }
 }
