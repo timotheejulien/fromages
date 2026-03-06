@@ -123,8 +123,9 @@ a:hover {
     border-radius: 8px;
     padding: 12px 24px;
     border: none;
-    border-radius: 8px
+    border-radius: 8px;
     cursor: pointer;
+    background: none;
 }
 
 .btn:hover {
@@ -138,7 +139,19 @@ a:hover {
 }
 
 .btn-secondary {
+   background: var(--color-background);
    border: 2px solid var(--color-text-primary);
+}
+
+.btn-tertiary {
+   text-decoration: underline;
+   background: none;
+   border: none;
+}
+
+.btn-tertiary:hover {
+   background: var(--color-background-elevated);
+   border-radius: 8px;
 }
 
 /* VARIABLE LAYOUT */
@@ -965,6 +978,181 @@ ul.listing a:hover .listing-title {
 }
 
 
+
+/* Ensure hidden attribute is respected when CSS sets an explicit display value */
+.filter-modal[hidden],
+.filter-overlay[hidden],
+.fromages-no-results[hidden],
+.family-card[hidden] {
+    display: none;
+}
+
+/* FILTER TOOLBAR */
+.fromages-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: var(--space-medium);
+}
+
+.fromages-count-area {
+    display: flex;
+    align-items: center;
+    gap: var(--space-regular);
+    font-size: 16px;
+    color: var(--color-text-secondary);
+}
+
+
+/* NO RESULTS */
+.fromages-no-results {
+    padding: var(--space-xx-large) 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-regular);
+    color: var(--color-text-secondary);
+    font-size: 16px;
+    text-align: center;
+}
+
+/* FILTER MODAL OVERLAY */
+.filter-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 100;
+}
+
+/* FILTER MODAL */
+.filter-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: min(560px, calc(100vw - var(--space-large)));
+    max-height: calc(100vh - var(--space-xx-large));
+    background: var(--color-background);
+    border-radius: 12px;
+    z-index: 101;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.filter-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--space-medium) var(--space-large);
+    border-bottom: 1px solid var(--color-divider);
+    flex-shrink: 0;
+}
+
+.filter-modal-title {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: UncutSans-Variable, sans-serif;
+}
+
+.filter-modal-body {
+    overflow-y: auto;
+    padding: var(--space-large);
+    flex-grow: 1;
+}
+
+.filter-modal-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--space-medium) var(--space-large) var(--space-medium) var(--space-small);
+    border-top: 1px solid var(--color-divider);
+    flex-shrink: 0;
+    gap: var(--space-regular);
+}
+
+.filter-modal-footer-right {
+    display: flex;
+    align-items: center;
+    gap: var(--space-regular);
+}
+
+.filter-modal-footer-count {
+    font-size: 16px;
+    color: var(--color-text-secondary);
+    white-space: nowrap;
+}
+
+/* FILTER SECTIONS */
+.filter-section {
+    padding: var(--space-large) 0;
+    border-bottom: 1px solid var(--color-divider);
+}
+
+.filter-section:first-child {
+    padding-top: 0;
+}
+
+.filter-section:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.filter-section-title {
+    margin: 0 0 var(--space-regular) 0;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: UncutSans-Variable, sans-serif;
+}
+
+/* FILTER CHIPS */
+.filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-small);
+}
+
+.filter-chip {
+    padding: var(--space-small) var(--space-regular);
+    border: 1px solid var(--color-divider);
+    background: none;
+    border-radius: 100px;
+    font-family: inherit;
+    font-size: 15px;
+    cursor: pointer;
+    color: var(--color-text-primary);
+    transition: background .1s ease, border-color .1s ease;
+    line-height: 1.4;
+}
+
+.filter-chip:hover {
+    background: var(--color-background-elevated);
+}
+
+.filter-chip[aria-pressed="true"] {
+    background: var(--color-text-primary);
+    color: var(--color-background);
+    border-color: var(--color-text-primary);
+}
+
+.btn-icon-close {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--color-text-primary);
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    transition: background .1s ease;
+}
+
+.btn-icon-close:hover {
+    background: var(--color-background-elevated);
+}
 
 /* DARK MODE */
 @media (prefers-color-scheme: dark) {

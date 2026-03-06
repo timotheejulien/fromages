@@ -6,18 +6,33 @@
     <h1>{{ page.title }}</h1>
     <p>Les fromages que j'ai dégustés et triés selon leurs types de pâtes.</p>
     <div class="divider"></div>
+    <div class="fromages-toolbar">
+      <div class="fromages-count-area">
+        <span id="fromages-count">{{ site.posts | size }} fromages</span>
+        <button id="btn-page-reset" class="btn-link-reset" type="button" hidden>Réinitialiser</button>
+      </div>
+      <button id="btn-filtres" class="btn btn-secondary" type="button">Filtres</button>
+    </div>
   </section>
+
+  <div id="fromages-no-results" class="container fromages-no-results" hidden>
+    <span>Aucun fromage pour ces critères.</span>
+    <button id="btn-no-results-reset" class="btn-link-reset" type="button">Réinitialiser les filtres</button>
+  </div>
 
   {% assign sorted_cats = site.tags | sort %}
   {% for tag in sorted_cats %}
   {% assign sorted_posts = tag[1] | sort: 'title' %}
-  <section id="{{ tag[0] | slugify: 'latin' }}" class="section-cheese-family container">
+  <section id="{{ tag[0] | slugify: 'latin' }}" class="section-cheese-family container" data-tag="{{ tag[0] | slugify: 'latin' }}">
     <div class="section-families-header">
       <span class="h2">{{ tag[0] }}</span>
     </div>
     <div class="families-grid">
       {% for post in sorted_posts %}
-      <a href="{{ post.url }}" class="family-card">
+      <a href="{{ post.url }}" class="family-card"
+         data-milk="{{ post.milk }}"
+         data-note="{{ post.note }}"
+         data-url="{{ post.url }}">
         <div>
           <span class="family-card-name">{{ post.title }}</span>
           <div class="family-card-name-desc">
@@ -31,5 +46,259 @@
   </section>
   <div class="section-fromage-divider"></div>
   {% endfor %}
+
+  <!-- Filter overlay -->
+  <div id="filter-overlay" class="filter-overlay" hidden></div>
+
+  <!-- Filter modal -->
+  <div id="filter-modal" class="filter-modal" role="dialog" aria-modal="true" aria-labelledby="filter-modal-title" hidden>
+    <div class="filter-modal-header">
+      <span id="filter-modal-title" class="filter-modal-title">Filtres</span>
+      <button id="btn-close" class="btn-icon-close" type="button" aria-label="Fermer les filtres">✕</button>
+    </div>
+    <div class="filter-modal-body">
+
+      <div class="filter-section">
+        <p class="filter-section-title">Type de lait</p>
+        <div class="filter-chips" role="group" aria-label="Type de lait">
+          <button class="filter-chip" type="button" data-filter="milk" data-value="vache" aria-pressed="false">Vache</button>
+          <button class="filter-chip" type="button" data-filter="milk" data-value="brebis" aria-pressed="false">Brebis</button>
+          <button class="filter-chip" type="button" data-filter="milk" data-value="chevre" aria-pressed="false">Chèvre</button>
+          <button class="filter-chip" type="button" data-filter="milk" data-value="mixte" aria-pressed="false">Mixte</button>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <p class="filter-section-title">Famille</p>
+        <div class="filter-chips" role="group" aria-label="Famille">
+          {% assign sorted_tags = site.tags | sort %}
+          {% for tag in sorted_tags %}
+          <button class="filter-chip" type="button" data-filter="family" data-value="{{ tag[0] | slugify: 'latin' }}" aria-pressed="false">{{ tag[0] }}</button>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <p class="filter-section-title">Note minimale</p>
+        <div class="filter-chips" role="group" aria-label="Note minimale">
+          <button class="filter-chip" type="button" data-filter="minNote" data-value="1" aria-pressed="false">★ 1</button>
+          <button class="filter-chip" type="button" data-filter="minNote" data-value="2" aria-pressed="false">★ 2</button>
+          <button class="filter-chip" type="button" data-filter="minNote" data-value="3" aria-pressed="false">★ 3</button>
+          <button class="filter-chip" type="button" data-filter="minNote" data-value="4" aria-pressed="false">★ 4</button>
+          <button class="filter-chip" type="button" data-filter="minNote" data-value="5" aria-pressed="false">★ 5</button>
+        </div>
+      </div>
+
+    </div>
+    <div class="filter-modal-footer">
+      <button id="btn-reset" class="btn btn-tertiary" type="button">Réinitialiser</button>
+      <div class="filter-modal-footer-right">
+        <span id="draft-count" class="filter-modal-footer-count"></span>
+        <button id="btn-apply" class="btn btn-primary" type="button">Appliquer</button>
+      </div>
+    </div>
+  </div>
+
 </main>
+
+<script>
+(function () {
+  var state = {
+    applied: { milk: null, family: null, minNote: null },
+    draft:   { milk: null, family: null, minNote: null }
+  };
+
+  var modal         = document.getElementById('filter-modal');
+  var overlay       = document.getElementById('filter-overlay');
+  var btnFiltres    = document.getElementById('btn-filtres');
+  var btnClose      = document.getElementById('btn-close');
+  var btnReset      = document.getElementById('btn-reset');
+  var btnApply      = document.getElementById('btn-apply');
+  var btnPageReset  = document.getElementById('btn-page-reset');
+  var btnNoResults  = document.getElementById('btn-no-results-reset');
+  var countEl       = document.getElementById('fromages-count');
+  var draftCountEl  = document.getElementById('draft-count');
+  var noResultsEl   = document.getElementById('fromages-no-results');
+  var chips         = document.querySelectorAll('.filter-chip');
+  var sections      = document.querySelectorAll('.section-cheese-family');
+
+  var prevFocus  = null;
+  var trapHandler = null;
+
+  // Init page count
+  updatePageCount(countUnique(state.applied));
+
+  // Events
+  btnFiltres.addEventListener('click', openModal);
+  btnClose.addEventListener('click', cancelModal);
+  overlay.addEventListener('click', cancelModal);
+  btnReset.addEventListener('click', resetDraft);
+  btnApply.addEventListener('click', applyModal);
+  btnPageReset.addEventListener('click', resetAll);
+  if (btnNoResults) btnNoResults.addEventListener('click', resetAll);
+
+  chips.forEach(function (chip) {
+    chip.addEventListener('click', function () {
+      var key = chip.dataset.filter;
+      var val = chip.dataset.value;
+      state.draft[key] = state.draft[key] === val ? null : val;
+      syncChipsUI();
+      updateDraftCount();
+    });
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && !modal.hidden) cancelModal();
+  });
+
+  // Modal management
+  function openModal() {
+    prevFocus = document.activeElement;
+    state.draft = { milk: state.applied.milk, family: state.applied.family, minNote: state.applied.minNote };
+    syncChipsUI();
+    updateDraftCount();
+    modal.hidden = false;
+    overlay.hidden = false;
+    var firstBtn = modal.querySelector('button');
+    if (firstBtn) firstBtn.focus();
+    trapFocus();
+  }
+
+  function cancelModal() {
+    modal.hidden = true;
+    overlay.hidden = true;
+    releaseFocus();
+    if (prevFocus) prevFocus.focus();
+  }
+
+  function applyModal() {
+    state.applied = { milk: state.draft.milk, family: state.draft.family, minNote: state.draft.minNote };
+    applyFilters();
+    updateFilterButton();
+    cancelModal();
+  }
+
+  // Draft
+  function resetDraft() {
+    state.draft = { milk: null, family: null, minNote: null };
+    syncChipsUI();
+    updateDraftCount();
+  }
+
+  // Applied
+  function resetAll() {
+    state.applied = { milk: null, family: null, minNote: null };
+    state.draft   = { milk: null, family: null, minNote: null };
+    applyFilters();
+    updateFilterButton();
+  }
+
+  // UI sync
+  function syncChipsUI() {
+    chips.forEach(function (chip) {
+      var active = state.draft[chip.dataset.filter] === chip.dataset.value;
+      chip.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+  }
+
+  function updateFilterButton() {
+    var count = [state.applied.milk, state.applied.family, state.applied.minNote]
+      .filter(function (v) { return v !== null; }).length;
+    btnFiltres.textContent = count > 0 ? 'Filtres (' + count + ')' : 'Filtres';
+  }
+
+  function updateDraftCount() {
+    var n = countUnique(state.draft);
+    draftCountEl.textContent = n === 0 ? 'Aucun fromage' : 'Voir ' + n + ' fromage' + (n > 1 ? 's' : '');
+  }
+
+  function updatePageCount(n) {
+    countEl.textContent = n === 0 ? '' : n + ' fromage' + (n > 1 ? 's' : '');
+    var hasFilters = state.applied.milk !== null || state.applied.family !== null || state.applied.minNote !== null;
+    btnPageReset.hidden = !hasFilters;
+    noResultsEl.hidden = n > 0;
+  }
+
+  // Count unique cheeses passing the given filters
+  function countUnique(filters) {
+    var seen = new Set();
+    sections.forEach(function (section) {
+      if (filters.family && section.dataset.tag !== filters.family) return;
+      section.querySelectorAll('.family-card').forEach(function (card) {
+        if (filters.milk && card.dataset.milk !== filters.milk) return;
+        if (filters.minNote && parseInt(card.dataset.note) < parseInt(filters.minNote)) return;
+        seen.add(card.dataset.url);
+      });
+    });
+    return seen.size;
+  }
+
+  // Apply filters to the DOM
+  function applyFilters() {
+    sections.forEach(function (section) {
+      var familyOk = !state.applied.family || section.dataset.tag === state.applied.family;
+      if (!familyOk) {
+        section.hidden = true;
+        return;
+      }
+
+      var hasVisible = false;
+      section.querySelectorAll('.family-card').forEach(function (card) {
+        var milkOk = !state.applied.milk || card.dataset.milk === state.applied.milk;
+        var noteOk = !state.applied.minNote || parseInt(card.dataset.note) >= parseInt(state.applied.minNote);
+        card.hidden = !(milkOk && noteOk);
+        if (milkOk && noteOk) hasVisible = true;
+      });
+
+      section.hidden = !hasVisible;
+    });
+
+    // Sync dividers: hide divider after each hidden section
+    sections.forEach(function (section) {
+      var divider = section.nextElementSibling;
+      if (divider && divider.classList.contains('section-fromage-divider')) {
+        divider.hidden = section.hidden;
+      }
+    });
+
+    // Hide the last visible divider (no trailing separator)
+    var visibleSections = Array.prototype.filter.call(sections, function (s) { return !s.hidden; });
+    if (visibleSections.length > 0) {
+      var lastSection = visibleSections[visibleSections.length - 1];
+      var lastDivider = lastSection.nextElementSibling;
+      if (lastDivider && lastDivider.classList.contains('section-fromage-divider')) {
+        lastDivider.hidden = true;
+      }
+    }
+
+    updatePageCount(countUnique(state.applied));
+  }
+
+  // Focus trap
+  function trapFocus() {
+    var focusables = modal.querySelectorAll('button:not([disabled])');
+    var first = focusables[0];
+    var last  = focusables[focusables.length - 1];
+
+    trapHandler = function (e) {
+      if (e.key !== 'Tab') return;
+      if (e.shiftKey) {
+        if (document.activeElement === first) { e.preventDefault(); last.focus(); }
+      } else {
+        if (document.activeElement === last)  { e.preventDefault(); first.focus(); }
+      }
+    };
+
+    modal.addEventListener('keydown', trapHandler);
+  }
+
+  function releaseFocus() {
+    if (trapHandler) {
+      modal.removeEventListener('keydown', trapHandler);
+      trapHandler = null;
+    }
+  }
+})();
+</script>
+
 {% include footer.html %}
