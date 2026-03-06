@@ -26,6 +26,9 @@
     --space-x-large: 48px;
     --space-xx-large: 64px;
     --space-xxx-large: 96px;
+
+    /* RADIUS TOKEN */
+    --space-default: 8px;
 }
 
 /* COLOR */
@@ -121,10 +124,10 @@ a:hover {
     font-family: UncutSans-Variable;
     font-weight: 500;
     font-size: 18px;
-    border-radius: 8px;
+    border-radius: var( --space-default);
     padding: 12px 24px;
     border: none;
-    border-radius: 8px;
+    border-radius: var( --space-default);
     cursor: pointer;
     background: none;
 }
@@ -154,7 +157,7 @@ a:hover {
 
 .btn-tertiary:hover {
    background: var(--color-background-elevated);
-   border-radius: 8px;
+   border-radius: var( --space-default);
 }
 
 /* VARIABLE LAYOUT */
@@ -359,7 +362,7 @@ ul.listing li {
     font-weight: 500;
     line-height: 34px;
     background: var(--color-primary-light);
-    border-radius: 8px;
+    border-radius: var( --space-default);
     display: inline-block;
 }
 
@@ -393,7 +396,7 @@ ul.listing li {
     object-position: 50% 50%;
     border: 1px solid;
     border-color: var(--color-divider);
-    border-radius: 8px;
+    border-radius: var( --space-default);
 }
 
 .post-image figcaption {
@@ -424,13 +427,39 @@ ul.listing li {
 table {
     width: 100%;
     font-size: 18px;
-    border-collapse: collapse;
-    border: 1px solid var(--color-divider);
 } 
+
+table  {
+ border-spacing: 0;
+ border-collapse: separate;
+ border-radius: var( --space-default);
+ border: 1px solid var(--color-divider);
+}
+
+/* Apply a border to the right of all but the last column */
+table th:not(:last-child),
+table td:not(:last-child) {
+ border-right: 1px solid var(--color-divider);
+}
+
+/* Apply a border to the bottom of all but the last row */
+table >thead>tr:not(:last-child)>th,
+table >thead>tr:not(:last-child)>td,
+table >tbody>tr:not(:last-child)>th,
+table >tbody>tr:not(:last-child)>td,
+table >tfoot>tr:not(:last-child)>th,
+table >tfoot>tr:not(:last-child)>td,
+table >tr:not(:last-child)>td,
+table >tr:not(:last-child)>th,
+table >thead:not(:last-child),
+table >tbody:not(:last-child),
+table >tfoot:not(:last-child) {
+ border-bottom: 1px solid var(--color-divider);
+}
 
 table > tbody > tr > td {
     padding: var(--space-small);
-    border: 1px solid var(--color-divider);
+    /* border: 1px solid var(--color-divider); */
 }
 
 table > tbody > tr > td:first-child strong {
@@ -472,7 +501,7 @@ table > tbody > tr > td:nth-child(2) {
     margin-top: var(--space-xxx-large);
     padding: var(--space-medium) var(--space-medium) var(--space-regular) var(--space-medium);
     border: 1px solid var(--color-divider);
-    border-radius: 8px;
+    border-radius: var( --space-default);
 }
 
 ul.footer-nav {
@@ -614,7 +643,7 @@ ul.listing a:hover .listing-title {
     width: 100%;
     aspect-ratio: 1 / 1;
     overflow: hidden;
-    border-radius: 8px;
+    border-radius: var( --space-default);
 }
 
 .recent-card-image img {
@@ -685,7 +714,7 @@ ul.listing a:hover .listing-title {
     color: var(--color-text-primary);
     gap: var(--space-medium);
     transition: background .1s ease-in-out;
-    border-radius: 8px;
+    border-radius: var( --space-default);
 }
 
 .family-card:hover {
