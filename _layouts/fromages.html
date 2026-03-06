@@ -8,10 +8,11 @@
     <div class="divider"></div>
     <div class="fromages-toolbar">
       <div class="fromages-count-area">
-        <span id="fromages-count">{{ site.posts | size }} fromages</span>
+        <button id="btn-filtres" class="btn btn-secondary" type="button">Filtres</button>
         <button id="btn-page-reset" class="btn-link-reset" type="button" hidden>Réinitialiser</button>
       </div>
-      <button id="btn-filtres" class="btn btn-secondary" type="button">Filtres</button>
+
+      <span id="fromages-count">{{ site.posts | size }} fromages</span>
     </div>
   </section>
 

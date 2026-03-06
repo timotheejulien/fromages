@@ -473,6 +473,7 @@ table > tbody > tr > td:nth-child(2) {
     margin-top: var(--space-xxx-large);
     padding: var(--space-medium) var(--space-medium) var(--space-regular) var(--space-medium);
     border: 1px solid var(--color-divider);
+    border-radius: 8px;
 }
 
 ul.footer-nav {
@@ -516,6 +517,7 @@ ul.footer-nav li {
 }
 
 /* ENRICHED LISTING */
+
 ul.listing a {
     display: flex;
     justify-content: space-between;
@@ -662,6 +664,10 @@ ul.listing a:hover .listing-title {
 /* SECTION FAMILIES */
 .section-families-header {
     margin-bottom: var(--space-medium);
+}
+
+.filter-modal-footer-count {
+   display: none;
 }
 
 .families-grid {
@@ -908,6 +914,13 @@ ul.listing a:hover .listing-title {
         min-width: 340px;
     }
 
+    .filter-modal-footer-count {
+      font-size: 14px;
+      color: var(--color-text-secondary);
+      white-space: nowrap;
+      display: block;
+   }
+
     .post-header {
         padding-bottom: var(--space-xxx-large);
     }
@@ -977,8 +990,6 @@ ul.listing a:hover .listing-title {
     }
 }
 
-
-
 /* Ensure hidden attribute is respected when CSS sets an explicit display value */
 .filter-modal[hidden],
 .filter-overlay[hidden],
@@ -1001,6 +1012,10 @@ ul.listing a:hover .listing-title {
     gap: var(--space-regular);
     font-size: 16px;
     color: var(--color-text-secondary);
+}
+
+#fromages-count {
+   color: var(--color-text-secondary);
 }
 
 
@@ -1077,12 +1092,6 @@ ul.listing a:hover .listing-title {
     gap: var(--space-regular);
 }
 
-.filter-modal-footer-count {
-    font-size: 16px;
-    color: var(--color-text-secondary);
-    white-space: nowrap;
-}
-
 /* FILTER SECTIONS */
 .filter-section {
     padding: var(--space-large) 0;
@@ -1118,7 +1127,7 @@ ul.listing a:hover .listing-title {
     background: none;
     border-radius: 100px;
     font-family: inherit;
-    font-size: 15px;
+    font-size: 16px;
     cursor: pointer;
     color: var(--color-text-primary);
     transition: background .1s ease, border-color .1s ease;
@@ -1152,6 +1161,19 @@ ul.listing a:hover .listing-title {
 
 .btn-icon-close:hover {
     background: var(--color-background-elevated);
+}
+
+.btn-link-reset {
+   font-size: 18px;
+   font-weight: 500;
+   text-decoration: underline;
+   background: none;
+   border: none;
+}
+
+.btn-link-reset:hover {
+   text-decoration: none;
+   cursor: pointer;
 }
 
 /* DARK MODE */
