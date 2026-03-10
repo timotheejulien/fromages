@@ -11,6 +11,9 @@ tags:
     - Pâte molle
     - Pâte lavée
 tags-preview: "Pâte molle, lavée"
+ressources:
+    - url: https://androuet.com/trou-du-cru-197.html
+    - url: https://fr.wikipedia.org/wiki/Le_Trou_du_Cru
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | Mai à septembre |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/trou-du-cru-197.html)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Le_Trou_du_Cru)

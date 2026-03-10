@@ -10,6 +10,9 @@ comment: "Le bleu de Laqueuille a été conçu par Antoine ROUSSEL. Sa technique
 tags:
     - Pâte persillée
 tags-preview: "Pâte persillée"
+ressources:
+    - url: https://www.fromages-laqueuille.fr/fromage-lait-pasteurise/bleu-de-laqueuille/
+    - url: https://androuet.com/Bleu-de-Laqueuille-202.html
 ---
 
 ## Informations
@@ -25,7 +28,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | Mai à septembre (acheté en juillet) |
 | **Boisson(s)** | Bière, vin blanc |
 | **Prix** | 21,95 € /kg |
-
-### Ressource(s)
-* [Fromages Laqueuille](https://www.fromages-laqueuille.fr/fromage-lait-pasteurise/bleu-de-laqueuille/)
-* [Androuet](https://androuet.com/Bleu-de-Laqueuille-202.html)

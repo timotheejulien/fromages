@@ -10,6 +10,8 @@ comment: "Une belle odeur fumée se dégage de sa croûte. C'est très bon en bo
 tags:
     - Pâte pressée
 tags-preview: "Pâte pressée"
+ressources:
+    - url: https://fr.wikipedia.org/wiki/Castellano_(fromage
 ---
 
 ## Informations
@@ -25,6 +27,3 @@ tags-preview: "Pâte pressée"
 | **Meilleure période de dégustation** | Dégusté en février |
 | **Boisson(s)** | Vin blanc, bière |
 | **Prix** | 29,95 € /kg |
-
-### Ressource(s)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Castellano_(fromage))

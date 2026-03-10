@@ -26,6 +26,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | Toute l'année |
 | **Boisson(s)** | N/A |
 | **Prix** | 8 € pièce |
-
-### Ressource(s)
-* N/A

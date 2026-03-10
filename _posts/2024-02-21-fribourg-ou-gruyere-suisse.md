@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte cuite
 tags-preview: "Pâte pressée, cuite"
+ressources:
+    - url: http://www.androuet.com/gruyere-suisse-169.html
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte pressée, cuite"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 49,90 € /kg pour du 18 mois |
-
-### Ressource(s)
-* [Androuet](http://www.androuet.com/gruyere-suisse-169.html)

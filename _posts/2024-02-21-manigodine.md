@@ -10,6 +10,8 @@ tags:
     - Pâte molle
     - Pâte lavée
 tags-preview: "Pâte molle, lavée"
+ressources:
+    - url: http://androuet.com/Manigodine-1529.html
 ---
 
 ## Informations
@@ -25,6 +27,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](http://androuet.com/Manigodine-1529.html)

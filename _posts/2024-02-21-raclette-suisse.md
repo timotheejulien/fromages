@@ -26,6 +26,3 @@ tags-preview: "Pâte pressée, cuite"
 | **Meilleure période de dégustation** | Novembre à février |
 | **Boisson(s)** | Vin blanc (Apremont) |
 | **Prix** | 25 € /kg |
-
-### Ressource(s)
-* N/A

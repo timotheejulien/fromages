@@ -11,6 +11,8 @@ tags:
     - Pâte molle
     - Pâte lavée
 tags-preview: "Pâte molle, lavée"
+ressources:
+    - url: http://www.androuet.com/Pont-l-Evêque-122.html
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | Mai à Septembre |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](http://www.androuet.com/Pont-l-Evêque-122.html)

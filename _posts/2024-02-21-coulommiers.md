@@ -11,6 +11,8 @@ tags:
     - Pâte molle
     - Pâte fleurie
 tags-preview: "Pâte molle, fleurie"
+ressources:
+    - url: http://androuet.com/Coulommiers-112.html
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | Avril à septembre |
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](http://androuet.com/Coulommiers-112.html)

@@ -12,6 +12,8 @@ tags:
     - Pâte molle
     - Pâte lavée
 tags-preview: "Pâte molle, lavée"
+ressources:
+    - url: http://androuet.com/Mont-d-or-ou-vacherin-mont-d-or-154.html
 ---
 
 ## Informations
@@ -27,6 +29,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | Du 10 septembre au 10 mai<br>Produit du 15 août au 15 mars |
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](http://androuet.com/Mont-d-or-ou-vacherin-mont-d-or-154.html)

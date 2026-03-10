@@ -10,6 +10,9 @@ comment: "Plus doux et crémeux que le Roquefort, c’est top en apéritif ou en
 tags:
     - Pâte persillée
 tags-preview: "Pâte persillée"
+ressources:
+    - url: https://androuet.com/Fourme-d-Ambert-129.html
+    - url: https://fr.wikipedia.org/wiki/Fourme_d%27Ambert
 ---
 
 ## Informations
@@ -25,7 +28,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | Mai à octobre |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 26 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Fourme-d-Ambert-129.html)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Fourme_d%27Ambert)

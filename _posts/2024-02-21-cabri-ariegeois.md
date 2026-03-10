@@ -9,6 +9,8 @@ comment: C’est une belle découverte ! D’aspect il ressemble au <a href="/m
 tags:
     - Pâte molle
 tags-preview: "Pâte molle"
+ressources:
+    - url: http://androuet.com/Cabri-Ariégeois-32.html
 ---
 
 ## Informations
@@ -24,6 +26,3 @@ tags-preview: "Pâte molle"
 | **Meilleure période de dégustation** | Avril à octobre |
 | **Boisson(s)** | *Sancerre blanc / St Joseph ou Vacqueyras* |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](http://androuet.com/Cabri-Ariégeois-32.html)

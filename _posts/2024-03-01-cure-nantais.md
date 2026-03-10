@@ -12,6 +12,9 @@ tags:
     - Pâte non cuite
     - Pâte lavée
 tags-preview: "Pâte pressée, non cuite, lavée"
+ressources:
+    - url: https://androuet.com/Cur%C3%A9-Nantais-110.html
+    - url: https://fr.wikipedia.org/wiki/Le_Cur%C3%A9_Nantais
 ---
 
 ## Informations
@@ -27,7 +30,3 @@ tags-preview: "Pâte pressée, non cuite, lavée"
 | **Meilleure période de dégustation** | Mai à octobre |
 | **Boisson(s)** | Vin blanc, bière |
 | **Prix** | ~8 € pièce |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Cur%C3%A9-Nantais-110.html)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Le_Cur%C3%A9_Nantais)

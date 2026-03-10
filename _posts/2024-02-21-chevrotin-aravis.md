@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://saveurs-des-aravis.fr/nos-saveurs-nos-produits/chevrotin
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Avril à septembre |
 | **Boisson(s)** | N/A |
 | **Prix** | 48 € /kg |
-
-### Ressource(s)
-* [Saveurs des Aravis](https://saveurs-des-aravis.fr/nos-saveurs-nos-produits/chevrotin)

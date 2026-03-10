@@ -11,6 +11,9 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://www.fromagerienarbief.com/vente-fromage-jura/19-tome-fort-saint-antoine.html
+    - url: https://fromageriecharland.fr/boutique/fromages/ane/tomme-du-fort/
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Bière, vin blanc |
 | **Prix** | ~20 € /kg |
-
-### Ressource(s)
-* [Fromagerie Le Narbief - Le Bizot](https://www.fromagerienarbief.com/vente-fromage-jura/19-tome-fort-saint-antoine.html)
-* [Fromagerie Charland](https://fromageriecharland.fr/boutique/fromages/ane/tomme-du-fort/)

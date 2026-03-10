@@ -11,6 +11,8 @@ tags:
     - Pâte molle
     - Pâte lavée
 tags-preview: "Pâte molle, lavée"
+ressources:
+    - url: https://fr.wikipedia.org/wiki/Moelleux_du_Revard
 ---
 
 ## Informations
@@ -26,7 +28,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc, bière |
 | **Prix** | 29,95 € /kg |
-
-### Ressource(s)
-* [Androuet]()
-* [Wikipédia](https://fr.wikipedia.org/wiki/Moelleux_du_Revard)

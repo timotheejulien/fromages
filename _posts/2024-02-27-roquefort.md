@@ -10,6 +10,8 @@ comment: "Ce fromage qui retourne les papilles est la pâte persillée français
 tags:
     - Pâte persillée
 tags-preview: "Pâte persillée"
+ressources:
+    - url: https://androuet.com/Roquefort-15.html
 ---
 
 ## Informations
@@ -25,6 +27,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | Avril à octobre |
 | **Boisson(s)** | Vinc blanc (peut être sucré) |
 | **Prix** | ~20 €/kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Roquefort-15.html)

@@ -11,6 +11,9 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://androuet.com/Ardi-Gasna-643.html
+    - url: https://fr.wikipedia.org/wiki/Ardi-Gasna
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Avril à août |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 26,97 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Ardi-Gasna-643.html)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Ardi-Gasna)

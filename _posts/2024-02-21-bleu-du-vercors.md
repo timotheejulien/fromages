@@ -25,6 +25,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin de Savoie pour la raclette |
 | **Prix** | 40 € /kg |
-
-### Ressource(s)
-* N/A

@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://lesnouveauxfromagers.fr/home/34-tomme-des-allobroges.html
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc de Savoie |
 | **Prix** | 29,80 € /kg |
-
-### Ressource(s)
-* [Les nouveaux fromagers](https://lesnouveauxfromagers.fr/home/34-tomme-des-allobroges.html)

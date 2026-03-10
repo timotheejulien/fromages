@@ -10,6 +10,8 @@ comment: "Une saveur forte et un arôme légèrement piquant. On retrouve égale
 tags:
     - Pâte persillée
 tags-preview: "Pâte persillée"
+ressources:
+    - url: https://androuet.com/Shropshire-173.html
 ---
 
 ## Informations
@@ -25,6 +27,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | Novembre à mai |
 | **Boisson(s)** | N/A |
 | **Prix** | 38 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Shropshire-173.html)

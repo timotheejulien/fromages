@@ -26,6 +26,3 @@ tags-preview: "Pâte "
 | **Meilleure période de dégustation** | Dégusté fin septembre |
 | **Boisson(s)** | Vin blanc de Savoie |
 | **Prix** | 29,10 € /kg |
-
-### Ressource(s)
-* N/A

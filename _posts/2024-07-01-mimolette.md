@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://androuet.com/Mimolette-144.html
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Avril à septembre |
 | **Boisson(s)** | Vin blanc rond, bière ambrée, IPA |
 | **Prix** | ~19 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Mimolette-144.html)

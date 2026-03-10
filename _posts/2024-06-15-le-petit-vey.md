@@ -11,6 +11,8 @@ tags:
     - Pâte molle
     - Pâte fleurie
 tags-preview: "Pâte molle, fleurie"
+ressources:
+    - url: https://www.isigny-ste-mere.com/produits/nos-fromages/nos-specialites-fromageres/
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | Acheter en juin |
 | **Boisson(s)** | Vinc blanc sec, cidre ou bière |
 | **Prix** | 3 € pièce |
-
-### Ressource(s)
-* [Isigny Ste Mère](https://www.isigny-ste-mere.com/produits/nos-fromages/nos-specialites-fromageres/)

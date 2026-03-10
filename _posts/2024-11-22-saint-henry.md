@@ -10,6 +10,9 @@ comment: Ce petit fromage artisanal est atypique avec son arôme de thym. Sa pâ
 tags:
     - Pâte molle
 tags-preview: "Pâte molle"
+ressources:
+    - url: https://www.fromageriecremerieossau.fr/produit/saint-henry-au-thym
+    - url: https://fromage.philippeolivier.fr/166-nouvelle-aquitaine/4307-saint-henri-au-romarin
 ---
 
 ## Informations
@@ -25,7 +28,3 @@ tags-preview: "Pâte molle"
 | **Meilleure période de dégustation** | Dégusté fin novembre |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 4,70 € pièce |
-
-### Ressource(s)
-* [Fromagerie Crèmerie Ossau](https://www.fromageriecremerieossau.fr/produit/saint-henry-au-thym)
-* [Philippe Olivier](https://fromage.philippeolivier.fr/166-nouvelle-aquitaine/4307-saint-henri-au-romarin)

@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://www.quesoslomogallego.com
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Dégusté en début septembre  |
 | **Boisson(s)** | Bière IPA |
 | **Prix** | 12,69 € /kg |
-
-### Ressource(s)
-* [Quesos Lomo Galleco](https://www.quesoslomogallego.com)

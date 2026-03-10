@@ -26,6 +26,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
-
-### Ressource(s)
-* N/A

@@ -25,6 +25,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | Septembre à Avril |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 19 € /kg |
-
-### Ressource(s)
-* N/A

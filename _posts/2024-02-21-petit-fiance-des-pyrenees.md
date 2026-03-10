@@ -14,6 +14,10 @@ tags:
     - Pâte non cuite
     - Pâte lavée
 tags-preview: "Pâte non cuite, molle, lavée"
+ressources:
+    - url: https://www.leguidedufromage.com/le-petit-fiance-des-pyrenees-io590.html
+    - url: https://androuet.com/producteur-androuet-details.php?id=7
+    - url: https://androuet.com/fianc%C3%A9-des-pyr%C3%A9n%C3%A9es-62.html
 ---
 
 ## Informations
@@ -29,8 +33,3 @@ tags-preview: "Pâte non cuite, molle, lavée"
 | **Meilleure période de dégustation** | Juin à septembre |
 | **Boisson(s)** | N/A |
 | **Prix** | 48,30 € /kg |
-
-### Ressource(s)
-* [Le guide du fromage](https://www.leguidedufromage.com/le-petit-fiance-des-pyrenees-io590.html)
-* [Fromagerie du Col del Fach, article de blog d'Androuet](https://androuet.com/producteur-androuet-details.php?id=7)
-* [Androuet](https://androuet.com/fianc%C3%A9-des-pyr%C3%A9n%C3%A9es-62.html)

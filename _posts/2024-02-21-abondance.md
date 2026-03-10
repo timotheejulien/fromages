@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte cuite
 tags-preview: "Pâte pressée, cuite"
+ressources:
+    - url: http://androuet.com/Abondance-89.html
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte pressée, cuite"
 | **Meilleure période de dégustation** | Juillet à novembre |
 | **Boisson(s)** | Vin blanc sec / Apremont |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](http://androuet.com/Abondance-89.html)

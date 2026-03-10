@@ -11,6 +11,9 @@ tags:
     - Pâte fleurie
     - Pâte pressée
 tags-preview: "Pâte fleurie, pressée"
+ressources:
+    - url: https://www.leguidedufromage.com/comtesse-de-vichy-io486.html
+    - url: http://www.androuet.com/Comtesse-de-Vichy-1525.html
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte fleurie, pressée"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | *Vin blanc Crozes-Hermitage, Bière Ambrée* |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [N/A](<[Le guide du fromage](https://www.leguidedufromage.com/comtesse-de-vichy-io486.html)
-* [Androuet](http://www.androuet.com/Comtesse-de-Vichy-1525.html)>)

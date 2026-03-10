@@ -12,6 +12,9 @@ tags:
     - Pâte non cuite
     - Pâte lavée
 tags-preview: "Pâte pressée, non cuite, lavée"
+ressources:
+    - url: https://edmondderothschildheritage.com/fr/nature/merle-rouge/
+    - url: https://www.produits-laitiers.com/merle-rouge/
 ---
 
 ## Informations
@@ -27,7 +30,3 @@ tags-preview: "Pâte pressée, non cuite, lavée"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc, vin rouge léger |
 | **Prix** | ~24 € /kg |
-
-### Ressource(s)
-* [Edmond de Rothschild Héritage](https://edmondderothschildheritage.com/fr/nature/merle-rouge/)
-* [Produits laitiers](https://www.produits-laitiers.com/merle-rouge/)

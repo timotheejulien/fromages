@@ -13,6 +13,8 @@ tags:
     - Pâte pressée
     - Pâte lavée
 tags-preview: "Pâte pressée, lavée"
+ressources:
+    - url: https://www.comte-monts-jura.com/cacouyard-le-cacouyard,22-103.htm
 ---
 
 ## Informations
@@ -28,6 +30,3 @@ tags-preview: "Pâte pressée, lavée"
 | **Meilleure période de dégustation** | Acheté en mai |
 | **Boisson(s)** | Vin blanc, bière  |
 | **Prix** | 20 € /kg |
-
-### Ressource(s)
-* [Comté Monts Jura](https://www.comte-monts-jura.com/cacouyard-le-cacouyard,22-103.htm)

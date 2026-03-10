@@ -11,6 +11,9 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://www.lecomptoirdufromage.fr/esquirrou/
+    - url: https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/esquirrou-du-pays-basque-champion-du-monde-fromages-1442295.html
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Juillet à septembre |
 | **Boisson(s)** | Vin blanc sec et rond, bière légère |
 | **Prix** | 26,95 € /kg |
-
-### Ressource(s)
-* [Le comptoir du fromage](https://www.lecomptoirdufromage.fr/esquirrou/)
-* [France Info](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/esquirrou-du-pays-basque-champion-du-monde-fromages-1442295.html)

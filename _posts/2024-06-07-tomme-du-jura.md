@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://www.laboitedufromager.com/fromage/tomme-du-jura-2/
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 26,95 € /kg |
-
-### Ressource(s)
-* [La boite du fromager](https://www.laboitedufromager.com/fromage/tomme-du-jura-2/)

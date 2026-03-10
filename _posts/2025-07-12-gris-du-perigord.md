@@ -10,6 +10,9 @@ comment: De faibles odeurs végétales et lactiques se dégagent de ce fromage. 
 tags:
     - Pâte molle
 tags-preview: "Pâte molle"
+ressources:
+    - url: https://www.quiveutdufromage.com/f-gris-du-perigord
+    - url: https://www.tastyfully.fr/le-catalogue-du-gout/produit-laitiers/fromagerie/gris-du-perigord
 ---
 
 ## Informations
@@ -25,7 +28,3 @@ tags-preview: "Pâte molle"
 | **Meilleure période de dégustation** | Consommé en juillet |
 | **Boisson(s)** | Vin blanc minéral |
 | **Prix** | ~19 € /kg |
-
-### Ressource(s)
-* [Qui veut du fromage](https://www.quiveutdufromage.com/f-gris-du-perigord)
-* [Tastyfully](https://www.tastyfully.fr/le-catalogue-du-gout/produit-laitiers/fromagerie/gris-du-perigord)

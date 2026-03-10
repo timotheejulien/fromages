@@ -12,6 +12,9 @@ tags:
     - Pâte non cuite
     - Pâte lavée
 tags-preview: "Pâte pressée, non cuite, lavée"
+ressources:
+    - url: https://www.produits-laitiers.com/rocher-nantais
+    - url: https://www.touslesfromages.fr/rocher-nantais-io3569.html
 ---
 
 ## Informations
@@ -27,7 +30,3 @@ tags-preview: "Pâte pressée, non cuite, lavée"
 | **Meilleure période de dégustation** | Acheté en avril |
 | **Boisson(s)** | Vin blanc (chenin), bière ambrée/IPA |
 | **Prix** | 26 € /kg |
-
-### Ressource(s)
-* [Les produits laitiers](https://www.produits-laitiers.com/rocher-nantais)
-* [Tous les fromages français](https://www.touslesfromages.fr/rocher-nantais-io3569.html)

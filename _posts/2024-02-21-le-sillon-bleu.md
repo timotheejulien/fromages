@@ -25,6 +25,3 @@ tags-preview: "Pâte lavée, pressée"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | N/A |
 | **Prix** | 17,70 € /kg |
-
-### Ressource(s)
-* N/A

@@ -10,6 +10,8 @@ comment: "Sa couleur crème peut virer sur le jaune paille quand il est affiné.
 tags: 
     - Pâte molle
 tags-preview: "Pâte molle à croûte mixte"
+ressources:
+    - url: https://www.lecomptoirdufromage.fr/galet-de-la-loire/
 ---
 
 ## Informations
@@ -25,6 +27,3 @@ tags-preview: "Pâte molle à croûte mixte"
 | **Meilleure période de dégustation** | Juillet à Novembre |
 | **Boisson(s)** | Vin blanc sec |
 | **Prix** | 7,40 € pièce |
-
-### Ressource(s)
-* [Le comptoir du fromage](https://www.lecomptoirdufromage.fr/galet-de-la-loire/)

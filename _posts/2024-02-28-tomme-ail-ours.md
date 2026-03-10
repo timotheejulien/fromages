@@ -26,6 +26,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | N/A |
-
-### Ressource(s)
-* N/A

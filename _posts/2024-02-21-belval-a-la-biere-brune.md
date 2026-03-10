@@ -26,7 +26,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | N/A |
 | **Prix** | 27,90 € /kg |
-
-### Ressource(s)
-
-* N/A

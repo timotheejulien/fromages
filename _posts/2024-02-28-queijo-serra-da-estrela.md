@@ -11,6 +11,9 @@ tags:
     - Pâte molle
     - Pâte lavée
 tags-preview: "Pâte molle, lavée"
+ressources:
+    - url: https://androuet.com/Serra-da-Estrela-1156.html
+    - url: https://fr.wikipedia.org/wiki/Queijo_Serra_da_Estrela
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Serra-da-Estrela-1156.html) 
-* [Wikipédia](https://fr.wikipedia.org/wiki/Queijo_Serra_da_Estrela)

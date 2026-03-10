@@ -11,6 +11,10 @@ tags:
     - Pâte molle
     - Pâte fleurie
 tags-preview: "Pâte molle, fleurie"
+ressources:
+    - url: https://androuet.com/coeur-de-neufchatel-108.html
+    - url: https://fr.wikipedia.org/wiki/Neufch%C3%A2tel_(fromage
+    - url: https://www.produits-laitiers-aop.fr/produits/neufchatel/
 ---
 
 ## Informations
@@ -26,8 +30,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | Mai à août |
 | **Boisson(s)** | Vinc blanc |
 | **Prix** | ~6,50 € pièce |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/coeur-de-neufchatel-108.html)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Neufch%C3%A2tel_(fromage))
-* [Produits laitiers A.O.P](https://www.produits-laitiers-aop.fr/produits/neufchatel/)

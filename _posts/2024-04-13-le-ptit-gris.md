@@ -12,6 +12,8 @@ tags:
     - Pâte cuite
     - Pâte fleurie
 tags-preview: "Pâte pressée, cuite, fleurie"
+ressources:
+    - url: https://www.ouest-france.fr/bretagne/noyal-muzillac-56190/noyal-muzillac-le-p-tit-gris-le-nouveau-fromage-de-la-ferme-bio-de-kerbizien-55d5eab0-b0d2-11eb-a05e-dea762b0ffb3
 ---
 
 ## Informations
@@ -27,6 +29,3 @@ tags-preview: "Pâte pressée, cuite, fleurie"
 | **Meilleure période de dégustation** | Goûté en avril |
 | **Boisson(s)** | Vin blanc, bière |
 | **Prix** | 22,95 € /kg |
-
-### Ressource(s)
-* [Ouest-France](https://www.ouest-france.fr/bretagne/noyal-muzillac-56190/noyal-muzillac-le-p-tit-gris-le-nouveau-fromage-de-la-ferme-bio-de-kerbizien-55d5eab0-b0d2-11eb-a05e-dea762b0ffb3)

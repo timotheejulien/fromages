@@ -26,6 +26,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | Avril à août |
 | **Boisson(s)** | Cidre brut, Vinc blanc légèrement acidulé |
 | **Prix** | ~7 € / pièce |
-
-### Ressource(s)
-* N/A

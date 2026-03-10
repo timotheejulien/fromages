@@ -11,6 +11,8 @@ tags:
     - Pâte molle
     - Pâte fleurie
 tags-preview: "Pâte molle, fleurie"
+ressources:
+    - url: https://fr.wikipedia.org/wiki/%C3%89del_de_Cl%C3%A9ron
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | Toute l'année |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 7,00 € |
-
-### Ressource(s)
-* [Wikipédia](https://fr.wikipedia.org/wiki/%C3%89del_de_Cl%C3%A9ron)

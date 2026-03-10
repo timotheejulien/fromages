@@ -25,6 +25,3 @@ tags-preview: "Pâte fleurie"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | ~3 € pièce |
-
-### Ressource(s)
-* N/A

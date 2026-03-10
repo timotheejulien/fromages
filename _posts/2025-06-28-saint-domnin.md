@@ -10,6 +10,9 @@ comment: "Visuellement il est très beau avec ses brins de lavande délicatement
 tags:
     - Pâte fleurie
 tags-preview: "Pâte fleurie"
+ressources:
+    - url: https://androuet.com/Saint-Domnin-de-Provence-1004.html
+    - url: https://www.produits-laitiers.com/saint-domnin
 ---
 
 ## Informations
@@ -25,7 +28,3 @@ tags-preview: "Pâte fleurie"
 | **Meilleure période de dégustation** | Mai à septembre, dégusté en juin |
 | **Boisson(s)** | Riesling, bandol blanc, Cornas ou Lirac |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Saint-Domnin-de-Provence-1004.html)
-* [Les produits laitiers](https://www.produits-laitiers.com/saint-domnin)

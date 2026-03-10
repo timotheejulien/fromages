@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://www.mon-marche.fr/produit/le-savoyard-fume
 ---
 
 ## Informations
@@ -27,5 +29,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Boisson(s)** | Vin blanc minéral |
 | **Prix** | 20,99 € /kg |
 
-### Ressource(s)
-* [mon-marche.fr](https://www.mon-marche.fr/produit/le-savoyard-fume)

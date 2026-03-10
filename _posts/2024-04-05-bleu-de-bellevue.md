@@ -10,6 +10,9 @@ comment: "Considéré comme le premier fromage fermier à pâte persillée de Br
 tags:
     - Pâte persillée
 tags-preview: "Pâte persillée"
+ressources:
+    - url: https://www.legourmeur.fr/portfolio-items/bleu-de-bellevue-de-bretagne/
+    - url: https://fromagerie-darley.fr/produit/bleu-de-bellevue/
 ---
 
 ## Informations
@@ -17,7 +20,7 @@ tags-preview: "Pâte persillée"
 | **Appellation** | N/A |
 | **Origine géographique** | Côtes-d'Armor, Bretagne, France |
 | **Pâte** | Persillée |
-| **Lait** | Vache,cru |
+| **Lait** | Vache, cru |
 | **Forme** | Petite meule |
 | **Odeur** | Parfumée, douce |
 | **Texture** | Souple |
@@ -25,7 +28,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | N/A (dégusté en avril) |
 | **Boisson(s)** | Vin blanc fruité (parfum de poire idéalement) |
 | **Prix** | 29,50 € /kg |
-
-### Ressource(s)
-* [Le Gourmeur](https://www.legourmeur.fr/portfolio-items/bleu-de-bellevue-de-bretagne/)
-* [Fromagerie Darley](https://fromagerie-darley.fr/produit/bleu-de-bellevue/)

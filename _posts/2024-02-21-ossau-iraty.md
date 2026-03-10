@@ -11,6 +11,9 @@ tags:
     - Pâte pressée
     - Pâte cuite
 tags-preview: "Pâte pressée, cuite"
+ressources:
+    - url: https://www.ossau-iraty.fr
+    - url: https://androuet.com/Ossau-Iraty-12.html
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte pressée, cuite"
 | **Meilleure période de dégustation** | Juillet à septembre |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Ossau-Iraty](https://www.ossau-iraty.fr)
-* [Androuet](https://androuet.com/Ossau-Iraty-12.html)

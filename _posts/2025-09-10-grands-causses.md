@@ -11,6 +11,9 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://www.quiveutdufromage.com/f-tomme-des-grands-causses
+    - url: https://www.maison-conquet.fr/fromages-de-brebis-aveyron/8505-tomme-des-grands-causses.html
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Acheté en septembre |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 43,35 € /kg |
-
-### Ressource(s)
-* [Qui veut du fromage](https://www.quiveutdufromage.com/f-tomme-des-grands-causses)
-* [Maison Conquet](https://www.maison-conquet.fr/fromages-de-brebis-aveyron/8505-tomme-des-grands-causses.html)

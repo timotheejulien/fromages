@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte "
+ressources:
+    - url: https://androuet.com/Raclette-fum%C3%A9e-655.html
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte "
 | **Meilleure période de dégustation** | Dégusté fin septembre |
 | **Boisson(s)** | Vin blanc de Savoie |
 | **Prix** | 26,80 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Raclette-fum%C3%A9e-655.html)

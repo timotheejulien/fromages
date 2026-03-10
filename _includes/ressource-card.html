@@ -1,0 +1,17 @@
+{% assign og = site.data.og_cache[include.url] %}
+{% assign card_domain = og.domain | default: include.url %}
+
+<a href="{{ include.url }}" class="ressource-card{% if og.fallback or og == nil %} ressource-card--fallback{% endif %}" target="_blank" rel="noopener noreferrer">
+  {% unless og.fallback or og == nil %}
+    <div class="ressource-card-body">
+      <span class="ressource-card-title">{{ og.title }}</span>
+      {% if og.description and og.description != "" %}
+        <p class="ressource-card-description">{{ og.description }}</p>
+      {% endif %}
+    </div>
+  {% endunless %}
+  <div class="ressource-card-footer">
+    <span class="ressource-card-domain">{{ card_domain }}</span>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-arrow-up-right"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M17 7l-10 10" /><path d="M8 7l9 0l0 9" /></svg>
+  </div>
+</a>

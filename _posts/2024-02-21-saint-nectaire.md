@@ -10,6 +10,9 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://androuet.com/Saint-Nectaire-131.html
+    - url: https://fr.wikipedia.org/wiki/Saint-nectaire
 ---
 
 ## Informations
@@ -25,7 +28,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Mai à octobre |
 | **Boisson(s)** | Vin blanc, cidre brut ou bière |
 | **Prix** | ~14 € pièce ou 32,60 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Saint-Nectaire-131.html)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Saint-nectaire)

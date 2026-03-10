@@ -10,6 +10,8 @@ comment: "Curieusement c'est un fromage très peu odorant. Il a une très belle 
 tags:
     - Pâte persillée
 tags-preview: "Pâte persillée"
+ressources:
+    - url: https://androuet.com/bleu-de-gex-198.html
 ---
 
 ## Informations
@@ -25,6 +27,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | Avril à juillet |
 | **Boisson(s)** | Bière, vin blanc |
 | **Prix** | ~26 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/bleu-de-gex-198.html)

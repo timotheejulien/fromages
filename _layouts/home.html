@@ -14,7 +14,7 @@
         <span class="h2">Récemment savourés</span>
         <h2 class="color-text-secondary">Dernières dégustations</h2>
       </div>
-      <a href="/fromages.html" class="btn btn-secondary">Voir tous les fromages →</a>
+      <a href="/fromages.html" class="btn btn-secondary">Voir tous les fromages</a>
     </div>
     <div class="recent-cards">
       {% assign recent_posts = site.posts | sort: 'rating-date' | reverse %}
@@ -55,7 +55,7 @@
             <span class="family-card-name">{{ tag[0] }}</span>
             <span class="family-card-count">{{ tag_count }} fromage{% if tag_count > 1 %}s{% endif %}</span>
           </div>
-          <span class="family-card-arrow" aria-hidden="true">→</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-arrow-right"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 12l14 0" /><path d="M13 18l6 -6" /><path d="M13 6l6 6" /></svg>
         </a>
       {% endfor %}
     </div>

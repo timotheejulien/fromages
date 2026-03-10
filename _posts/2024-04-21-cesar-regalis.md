@@ -10,6 +10,10 @@ comment: "Il est élaboré par le fromager Dominique Bouchait, MOF en 2015. Fait
 tags:
     - Pâte persillée
 tags-preview: "Pâte persillée"
+ressources:
+    - url: https://fr.wikipedia.org/wiki/C%C3%A9sar_R%C3%A9galis
+    - url: https://www.fromagers-mont-royal.com/fromages/le-regalis/
+    - url: https://www.leguidedufromage.com/le-cesar-regalis-io662.html
 ---
 
 ## Informations
@@ -25,8 +29,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | En automne et en hiver |
 | **Boisson(s)** | Vin blanc rond |
 | **Prix** | ~40 € /kg |
-
-### Ressource(s)
-* [Wikipédia](https://fr.wikipedia.org/wiki/C%C3%A9sar_R%C3%A9galis)
-* [Fromagers Mont-Royal](https://www.fromagers-mont-royal.com/fromages/le-regalis/)
-* [Le guide du fromage](https://www.leguidedufromage.com/le-cesar-regalis-io662.html)

@@ -11,6 +11,9 @@ tags:
     - Pâte molle
     - Pâte fleurie
 tags-preview: "Pâte molle, fleurie"
+ressources:
+    - url: https://crottindechavignol.fr/degustation
+    - url: https://www.laboitedufromager.com/fromage/crottin-de-chavignol/
 ---
 
 ## Informations
@@ -27,6 +30,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Boisson(s)** | Vin blanc (Sancerre) |
 | **Prix** | ~3 € pièce |
 
-### Ressource(s)
-* [Crotin de Chavignol](https://crottindechavignol.fr/degustation)
-* [La boite du fromager](https://www.laboitedufromager.com/fromage/crottin-de-chavignol/)

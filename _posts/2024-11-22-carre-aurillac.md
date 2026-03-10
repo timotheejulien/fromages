@@ -11,6 +11,9 @@ tags:
     - Pâte persillée
     - Pâte fleurie
 tags-preview: "Pâte persillée, fleurie"
+ressources:
+    - url: https://www.laboitedufromager.com/fromage/carre-daurillac
+    - url: https://lesfromageurs.com/produit/carre-daurillac-500g
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte persillée, fleurie"
 | **Meilleure période de dégustation** | Dégusté fin novembre |
 | **Boisson(s)** | Vin blanc sec |
 | **Prix** | 24,00 € /kg |
-
-### Ressource(s)
-* [La boite du fromager](https://www.laboitedufromager.com/fromage/carre-daurillac)
-* [Les fromageurs](https://lesfromageurs.com/produit/carre-daurillac-500g)

@@ -11,6 +11,9 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://androuet.com/Irish-Porter-1528.html
+    - url: https://savourezvosidees.fr/produit/irish-porter-cheese/
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Acheté fin juin |
 | **Boisson(s)** | Bière brune, vin blanc |
 | **Prix** | 37,90 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Irish-Porter-1528.html)
-* [Savourez vos idées](https://savourezvosidees.fr/produit/irish-porter-cheese/)

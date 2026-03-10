@@ -25,6 +25,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | N/A |
 | **Boisson(s)** | *Côte du Rhone ou St Joseph* |
 | **Prix** | N/A |
-
-### Ressource(s)
-* N/A

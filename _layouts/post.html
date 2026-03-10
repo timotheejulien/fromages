@@ -25,10 +25,21 @@
 
     <section class="container">
         {{ page.content }}
+
+        {% if page.ressources %}
+        <section class="ressources">
+            <h3 class="h3">Ressource(s)</h3>
+            <div class="ressources-list">
+                {% for ressource in page.ressources %}
+                    {% include ressource-card.html url=ressource.url %}
+                {% endfor %}
+            </div>
+        </section>
+        {% endif %}
     </section>
 
     <section class="container">
-         <div class="section-recent-header">
+         <div id="post-section-recommendations" class="section-recent-header">
             <div>
                <span class="h2">Fromages associés aux mêmes tags</span>
             </div>

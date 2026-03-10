@@ -11,6 +11,9 @@ tags:
     - Pâte molle
     - Pâte fleurie
 tags-preview: "Pâte molle, fleurie"
+ressources:
+    - url: https://androuet.com/Bouton-de-culotte-51.html
+    - url: https://www.laboitedufromager.com/fromage/bouton-de-culotte/
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | Juin à Novembre, dégusté en janvier |
 | **Boisson(s)** | St Joseph ou Vacqueyras, bière ambrée |
 | **Prix** | 2,50 € pièce |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Bouton-de-culotte-51.html)
-* [La boite du fromager](https://www.laboitedufromager.com/fromage/bouton-de-culotte/)

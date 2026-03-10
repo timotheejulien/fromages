@@ -11,6 +11,9 @@ tags:
     - Pâte molle
     - Pâte lavée
 tags-preview: "Pâte molle, lavée"
+ressources:
+    - url: https://epices-review.fr/vieux-boulogne/
+    - url: https://androuet.com/Fruit%C3%A9-du-Boulonnais-989.html
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | Novembre à janvier |
 | **Boisson(s)** | Bière, cidre ou vin blanc |
 | **Prix** | 20,70 € pièce |
-
-### Ressource(s)
-* [Épices review](https://epices-review.fr/vieux-boulogne/)
-* [Androuet](https://androuet.com/Fruit%C3%A9-du-Boulonnais-989.html)

@@ -26,6 +26,3 @@ tags-preview: "Pâte pressée, cuite"
 | **Meilleure période de dégustation** | Dégusté en mars |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 19,90 € / kg |
-
-### Ressource(s)
-* N/A

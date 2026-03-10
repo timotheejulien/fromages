@@ -11,6 +11,9 @@ tags:
     - Pâte molle
     - Pâte fleurie
 tags-preview: "Pâte molle, fleurie"
+ressources:
+    - url: https://www.androuet.com/Rocamadour-68.html
+    - url: https://fr.wikipedia.org/wiki/Rocamadour_(fromage
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | Avril à septembre |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 1,20 € /pièce |
-
-### Ressource(s)
-* [Androuet](https://www.androuet.com/Rocamadour-68.html)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Rocamadour_(fromage))

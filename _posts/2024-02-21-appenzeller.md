@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte cuite
 tags-preview: "Pâte pressée, cuite"
+ressources:
+    - url: https://androuet.com/appenzeller-ou-appenzel-189.html
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte pressée, cuite"
 | **Meilleure période de dégustation** | Juillet à Novembre |
 | **Boisson(s)** | Chablis / Vin jaune / Pinot noir |
 | **Prix** | 39,80 €/kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/appenzeller-ou-appenzel-189.html)

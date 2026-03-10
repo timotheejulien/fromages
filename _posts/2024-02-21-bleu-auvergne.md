@@ -10,6 +10,8 @@ comment: "Ce fromage est puissant et persistant. Il possède une texture friable
 tags:
     - Pâte persillée
 tags-preview: "Pâte persillée"
+ressources:
+    - url: https://androuet.com/Bleu-d-auvergne-139.html
 ---
 
 ## Informations
@@ -25,6 +27,3 @@ tags-preview: "Pâte persillée"
 | **Meilleure période de dégustation** | Avril à octobre |
 | **Boisson(s)** | Gewurztraminer d'Alsace / Sauternes / Monbazillac / Château Neuf du Pape |
 | **Prix** | 20,90 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Bleu-d-auvergne-139.html)

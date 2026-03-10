@@ -10,6 +10,8 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: http://www.androuet.com/Sablé-de-Wissant-1002.html
 ---
 
 ## Informations
@@ -25,6 +27,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Octobre à février |
 | **Boisson(s)** | N/A |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](http://www.androuet.com/Sablé-de-Wissant-1002.html)

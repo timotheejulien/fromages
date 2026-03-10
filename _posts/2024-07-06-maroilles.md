@@ -11,6 +11,9 @@ tags:
     - Pâte molle
     - Pâte lavée
 tags-preview: "Pâte molle, lavée"
+ressources:
+    - url: https://androuet.com/Maroilles-140.html
+    - url: https://www.produits-laitiers-aop.fr/produits/maroilles/
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | Mai à août |
 | **Boisson(s)** | Bière, vinc blanc |
 | **Prix** | 23,95 € /kg |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Maroilles-140.html)
-* [Produits laitiers AOP](https://www.produits-laitiers-aop.fr/produits/maroilles/)

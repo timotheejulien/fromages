@@ -11,6 +11,9 @@ tags:
     - Pâte molle
     - Pâte fleurie
 tags-preview: "Pâte molle, fleurie"
+ressources:
+    - url: https://fr.wikipedia.org/wiki/Brie_de_Meaux
+    - url: https://androuet.com/Brie-de-Meaux-123.html
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte molle, fleurie"
 | **Meilleure période de dégustation** | Avril à septembre |
 | **Boisson(s)** | N/A |
 | **Prix** | 26,5 € /kg |
-
-### Ressource(s)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Brie_de_Meaux)
-* [Androuet](https://androuet.com/Brie-de-Meaux-123.html)

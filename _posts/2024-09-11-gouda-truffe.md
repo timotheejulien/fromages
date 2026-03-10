@@ -11,6 +11,8 @@ tags:
     - Pâte pressée
     - Pâte non cuite
 tags-preview: "Pâte pressée, non cuite"
+ressources:
+    - url: https://androuet.com/Gouda-188.html
 ---
 
 ## Informations
@@ -26,6 +28,3 @@ tags-preview: "Pâte pressée, non cuite"
 | **Meilleure période de dégustation** | Mai à septembre (dégusté début septembre) |
 | **Boisson(s)** | Vin blanc, bière ambrée & I.P.A |
 | **Prix** | N/A |
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Gouda-188.html)

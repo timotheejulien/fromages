@@ -11,6 +11,9 @@ tags:
     - Pâte molle
     - Pâte lavée
 tags-preview: "Pâte molle, lavée"
+ressources:
+    - url: https://lespetiteslaiteries.fr/fromages/machecoulais
+    - url: https://www.fromages.com/machecoulais
 ---
 
 ## Informations
@@ -26,7 +29,3 @@ tags-preview: "Pâte molle, lavée"
 | **Meilleure période de dégustation** | Acheté en septembre |
 | **Boisson(s)** | Vin blanc |
 | **Prix** | 5,70 € pièce |
-
-### Ressource(s)
-* [Les petites laiteries](https://lespetiteslaiteries.fr/fromages/machecoulais)
-* [Fromage.com](https://www.fromages.com/machecoulais)

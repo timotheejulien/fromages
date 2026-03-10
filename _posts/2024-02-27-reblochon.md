@@ -12,6 +12,9 @@ tags:
     - Pâte non cuite
     - Pâte lavée
 tags-preview: "Pâte pressée, non cuite, lavée"
+ressources:
+    - url: https://androuet.com/Reblochon-de-savoie-130.html
+    - url: https://fr.wikipedia.org/wiki/Reblochon
 ---
 
 ## Informations
@@ -27,7 +30,3 @@ tags-preview: "Pâte pressée, non cuite, lavée"
 | **Meilleure période de dégustation** | Mai à septembre  |
 | **Boisson(s)** | Vin blanc de Savoie |
 | **Prix** | 28 € /kg (~10 € pièce)|
-
-### Ressource(s)
-* [Androuet](https://androuet.com/Reblochon-de-savoie-130.html)
-* [Wikipédia](https://fr.wikipedia.org/wiki/Reblochon)
