@@ -3,7 +3,7 @@ layout: post
 title: "Tête de moine"
 rating-date: "2024-02-21"
 note: "4,8"
-milk: Vache
+milk: vache
 image: /images/posts/tete-de-moine.jpg
 image-credit: <a href="https://commons.wikimedia.org/wiki/File:Girolle_7910.jpg">Photo de Mike Lehmann (CC BY-SA 3.0)</a>
 comment: "La découpe en fleur est très esthétique sur un plateau. Je l'adore à l'apéro, brut et sans pain. En terme de goût et texture, il me rappelle le Gruyère suisse. Il est très fruité, c'est un régal !"
