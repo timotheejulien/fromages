@@ -844,5 +844,54 @@
     "domain": "les-alpages.fr",
     "fetched_at": "2026-03-10",
     "fallback": false
+  },
+  "https://androuet.com/parmesan-reggiano-ou-parmigiano-reggiano-186.html": {
+    "title": "Parmesan Reggiano ou Parmigiano Reggiano",
+    "description": "Le Parmesan ou Parmigiano Reggiano est un fromage italien emblématique.",
+    "domain": "androuet.com",
+    "fetched_at": "2026-03-10",
+    "fallback": false
+  },
+  "https://fr.wikipedia.org/wiki/Parmigiano_Reggiano": {
+    "title": "Parmigiano Reggiano — Wikipédia",
+    "description": null,
+    "domain": "fr.wikipedia.org",
+    "fetched_at": "2026-03-10",
+    "fallback": false
+  },
+  "https://androuet.com/Pecorino-Crotonese-1020.html": {
+    "title": "Pecorino Crotonese",
+    "description": "C'est un fromage au lait de brebis ou de chèvre, cru ou pasteurisé, originaire de Calabre.",
+    "domain": "androuet.com",
+    "fetched_at": "2026-03-10",
+    "fallback": false
+  },
+  "https://fr.wikipedia.org/wiki/Pecorino_(fromage)": {
+    "title": "Pecorino (fromage) — Wikipédia",
+    "description": null,
+    "domain": "fr.wikipedia.org",
+    "fetched_at": "2026-03-10",
+    "fallback": false
+  },
+  "https://androuet.com/T%C3%AAte-de-Moine-100.html": {
+    "title": "Tête-de-Moine",
+    "description": "La tete de moine est un fromage Suisse, à pâte pressée non cuite très fruité.",
+    "domain": "androuet.com",
+    "fetched_at": "2026-03-10",
+    "fallback": false
+  },
+  "https://fr.wikipedia.org/wiki/T%C3%AAte_de_moine": {
+    "title": "Tête de moine — Wikipédia",
+    "description": null,
+    "domain": "fr.wikipedia.org",
+    "fetched_at": "2026-03-10",
+    "fallback": false
+  },
+  "https://www.tetedemoine.ch/fr/infos/histoire": {
+    "title": "Histoire - Tête de moine AOP - Fromage de Bellelay",
+    "description": "La Tête de Moine AOP, Fromage de Bellelay, est un fromage suisse à pâte mi-dure. Elle se déguste en rosettes très fines, à l'aide d'une Girolle.",
+    "domain": "tetedemoine.ch",
+    "fetched_at": "2026-03-10",
+    "fallback": false
   }
 }
