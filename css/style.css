@@ -209,19 +209,69 @@ body {
 }
 
 main {
-    padding-top: calc(110px + var(--space-large));
+    padding-top: var(--space-large);
 } 
 
 header {
-    padding: var(--space-regular) var(--space-none) var(--space-regular) var(--space-none);
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 10;
-    background: rgba(251, 251, 251, 0.85);
-    backdrop-filter: blur(10px) saturate(120%);
-    -webkit-backdrop-filter: blur(10px) saturate(120%);
+   display: none;
+}
+
+/* NAV MOBILE */
+.nav-mobile {
+   width: calc(100% - 32px);
+   position: fixed;
+   left: 16px;
+   bottom: 16px;
+   z-index: 500;
+   background: rgba(251, 251, 251, 0.85);
+   backdrop-filter: blur(10px) saturate(120%);
+   -webkit-backdrop-filter: blur(10px) saturate(120%);
+   box-shadow: 0px 10px 30px 1px rgba(0,0,0,0.08);
+   -webkit-box-shadow: 0px 10px 30px 1px rgba(0,0,0,0.08);
+   border-radius: 100px;
+   border: 1px solid rgba(255, 255, 255, 0.85);
+}
+
+.nav-mobile > ul {
+   width: 100%;
+   margin: 0;
+   padding: var(--space-none) var(--space-small) var(--space-none) var(--space-small);
+   display: flex;
+   gap: var(--space-small);
+}
+
+.nav-mobile > ul > li {
+   margin: var(--space-none);
+   padding: var(--space-none);
+   display: flex;
+   gap: 0;
+   align-items: center;
+   flex: 1;
+   list-style: none;
+}
+
+.nav-mobile-item, button.nav-item {
+   width: 100%;
+   padding: var(--space-small) var(--space-xx-small) var(--space-small) var(--space-xx-small);
+   position: relative;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: nowrap;
+   justify-content: center;
+   align-items: center;
+   align-content: normal;
+   gap: 0;
+   font-weight: 500;
+   font-size: 12px;
+   font-family: UncutSans-Variable, sans-serif;
+   line-height: 1.4;
+   letter-spacing: 0px;
+   color: var(--color-text-primary);
+   text-decoration: none;
+}
+
+.nav-mobile-item svg {
+   min-width: 24px;
 }
 
 nav ul {
@@ -235,16 +285,7 @@ nav ul li {
     list-style: none;
 }
 
-.nav-item {
-    position: relative;
-    flex: auto;
-    font-weight: 500;
-    font-size: 18px;
-    font-family: UncutSans-Variable, sans-serif;
-    line-height: 1.3rem;
-    letter-spacing: 0px; 
-    text-decoration: none;
-}
+
 
 .nav-item:hover {
     text-decoration: none;
@@ -259,6 +300,13 @@ nav ul li {
     bottom: -5px;
     background: var(--color-text-primary);
 }
+
+.nav-item[role], button.nav-item, button#search-button {
+   background: none;
+   border: none;
+   cursor: pointer;
+}
+
 #search_modal {
     width: 100%;
     height: 100%;
@@ -1162,8 +1210,41 @@ ul.listing a:hover .listing-title {
     }
 
     /* LAYOUT */
+    header {
+      display: block;
+      padding: var(--space-regular) var(--space-none) var(--space-regular) var(--space-none);
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      background: rgba(251, 251, 251, 0.85);
+      backdrop-filter: blur(10px) saturate(120%);
+      -webkit-backdrop-filter: blur(10px) saturate(120%);
+   }
+
+   .nav-mobile {
+      display: none;
+   }
+
     nav ul {
         gap: var(--space-medium);
+    }
+
+    .nav-item, button.nav-item {
+      position: relative;
+      flex: auto;
+      font-weight: 500;
+      font-size: 18px;
+      font-family: UncutSans-Variable, sans-serif;
+      line-height: 1.3rem;
+      letter-spacing: 0px;
+      text-decoration: none;
+    }
+    
+    button.nav-item {
+      padding: var(--space-xx-small) var(--space-none) 1px var(--space-none);
+      margin: 0;
     }
 
     #search_modal {
@@ -1348,6 +1429,15 @@ ul.listing a:hover .listing-title {
         backdrop-filter: blur(10px) saturate(120%);
         -webkit-backdrop-filter: blur(10px) saturate(120%);
     }
+
+    .nav-mobile {
+      background: rgba(32, 32, 32, 0.85);
+      backdrop-filter: blur(10px) saturate(120%);
+      -webkit-backdrop-filter: blur(10px) saturate(120%);
+      box-shadow: 0px 10px 30px 1px rgba(0,0,0,0.1);
+      -webkit-box-shadow: 0px 10px 30px 1px rgba(0,0,0,0.3);
+      border: 1.5px solid rgba(255, 255, 255, 0.05);
+   }
 
     #search-container {
         background: var(--color-background-elevated);
