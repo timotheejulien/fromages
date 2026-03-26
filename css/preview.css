@@ -1,80 +1,66 @@
-@font-face {
-   font-family: UncutSans-Variable;
-   src: url(../assets/fonts/UncutSans-Variable.woff2) format("truetype");
-   font-style: normal;
-   font-feature-settings: 'dlig' on, 'salt' on, 'rvrn' on, 'ss01' on, 'ss02' on, 'ss03' on, 'ss06' on, 'ss07' on, 'ss08' on;
-   font-display: fallback;
+/* BASE */
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
 }
 
 html {
-  font-size: 16px;
+   font-size: 16px;
 }
 
+/* LAYOUT */
 body {
-  width: 600px;
-  height: 330px;
-  margin: 0;
-  position: relative;
-  color: #202020;
-  background: #FBFBFB;
+   width: 600px;
+   height: 315px;
+   display: table;
+   color: #202020;
+   background: #FBFBFB;
+   font-family: 'UncutSans-Variable', sans-serif;
+   overflow: hidden;
 }
 
-.content {
-  width: calc(100% - 96px);
-  max-width: 600px;
-  height: auto;
-  padding: 48px 48px 48px 48px;
-  position: absolute;
-  bottom: 0;
-  left: 0;
+/* LEFT COLUMN */
+.left {
+   display: table-cell;
+   vertical-align: bottom;
+   padding: 48px 48px 24px 48px;
 }
 
-#icon {
-  width: 50px;
-  height: 50px;
-  margin: 0;
-  padding: 0;
-  position: absolute;
-  top: 48px;
-  right: 48px;
-  text-align: left;
-  background: #FFD363;
+/* TITLE */
+.left h2 {
+   margin: 0 0 8px 0;
+   font-size: 2rem;
+   line-height: 120%;
+   font-style: normal;
+   font-weight: 400;
+   text-rendering: optimizeLegibility;
 }
 
-#icon-h1 {
-  margin: 0;
-  left: 10px;
-  top: 8px;
-  position: absolute;
-  font-family: "Uncut Sans Variable", sans-serif;
-  font-size: 30px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  text-rendering: optimizeLegibility;
-
+/* TAGS-PREVIEW */
+.left p {
+   margin: 0;
+   padding: 0;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 26px;
+   color: #707070;
+   text-rendering: optimizeLegibility;
 }
 
-#content-h2 {
-   width: 430px;
-  margin: 0 0 8px 0;
-  font-family: "Uncut Sans Variable", sans-serif;
-  font-size: 2.5rem;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  text-rendering: optimizeLegibility;
+/* RIGHT COLUMN */
+.right {
+   display: table-cell;
+   vertical-align: bottom;
+   width: 255px;
+   padding: 22px 22px 22px 0;
 }
 
-.content-p {
-   width: 430px;
-  margin: 0;
-  padding: 0;
-  font-family: "Uncut Sans Variable", sans-serif;
-  font-size: 18px;
-  font-weight: 500;
-  line-height: 26px;
-  letter-spacing: 0.4px;
-  color: #707070;
-  text-rendering: optimizeLegibility;
+/* POST IMAGE */
+.right img {
+   width: 270px;
+   height: 270px;
+   object-fit: cover;
+   border-radius: 4px;
+   display: block;
 }

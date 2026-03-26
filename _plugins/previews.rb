@@ -4,61 +4,138 @@ require 'imgkit'
 module Previews
   def self.process(site, payload)
     begin
-      # Ensure the destination directory exists
-      FileUtils.mkdir('./images/previews')
+      FileUtils.mkdir_p('./images/previews')
     rescue
     end
 
-    # Loop through all the posts
+    root     = Dir.pwd
+    font_src = "file://#{root}/assets/fonts/UncutSans-Variable.ttf"
+
     site.collections['posts'].docs.each do |p|
-      slug = p.data['slug']
-      tmp_img = "/tmp/#{slug}.png"
+      slug    = p.data['slug']
       src_img = "./images/previews/#{slug}.png"
 
-      # Skip if there is already an existing image. 
-      # To regenerate a preview image, simply delete the image in the destination folder
-      if !File.exist?(src_img)
-        puts "\n  Creating preview: #{slug}.png"
+      post_mtime    = File.mtime(p.path)
+      preview_mtime = File.exist?(src_img) ? File.mtime(src_img) : Time.at(0)
+      next if preview_mtime >= post_mtime
 
-        # HTML for generating a @2x image of 1200x530 image at 100 quality
-        # Setting the charset is helpful when you have accents in your posts title
-        kit = IMGKit.new(
-          "<!DOCTYPE HTML>
-          <html>
-            <head>
-              <meta charset='utf-8' />
-              <link href='https://fonts.cdnfonts.com/css/mona-sans' rel='stylesheet'> 
-            </head>
-            <body>
-              <div id='icon'>
-                <h1 id='icon-h1'>TJ</h1>
+      puts "\n  Creating preview: #{slug}.png"
+
+      img_src = "file://#{root}#{p.data['image']}"
+      title   = p.data['title']
+      tags    = p.data['tags-preview']
+
+      kit = IMGKit.new(
+        "<!DOCTYPE HTML>
+        <html>
+          <head>
+            <meta charset='utf-8' />
+            <style>
+              @font-face {
+                font-family: 'UncutSans';
+                src: url('#{font_src}');
+                font-style: normal;
+                font-weight: 100 900;
+              }
+
+              * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+              }
+
+              body {
+                width: 600px;
+                height: 315px;
+                display: table;
+                background: #FBFBFB;
+                font-family: 'UncutSans', sans-serif;
+                overflow: hidden;
+              }
+
+              .left {
+                display: table-cell;
+                vertical-align: top;
+              }
+
+              .left-inner {
+                position: relative;
+                width: 300px;
+                height: 315px;
+              }
+
+              .site-label {
+                position: absolute;
+                top: 24px;
+                left: 24px;
+                font-size: 14px;
+                font-weight: 400;
+                color: #707070;
+              }
+
+              .title {
+                position: absolute;
+                bottom: 48px;
+                left: 24px;
+                right: 16px;
+                font-size: 2.4rem;
+                font-weight: 400;
+                line-height: 1.1;
+                color: #202020;
+              }
+
+              .tags {
+                position: absolute;
+                bottom: 24px;
+                left: 24px;
+                font-size: 14px;
+                font-weight: 400;
+                color: #707070;
+              }
+
+              .right {
+                display: table-cell;
+                vertical-align: top;
+                width: 300px;
+                padding: 24px 24px 24px 0;
+              }
+
+              .right-img {
+                width: 100%;
+                height: 267px;
+                border-radius: 8px;
+                background-size: cover;
+                background-position: center;
+              }
+            </style>
+          </head>
+          <body>
+            <div class='left'>
+              <div class='left-inner'>
+                <p class='site-label'>Notes fromagères</p>
+                <h2 class='title'>#{title}</h2>
+                <p class='tags'>#{tags}</p>
               </div>
-              <div class='content'>
-                  <h2 id='content-h2'>#{p.data['title']}</h2>
-                  <p class='content-p'>#{p.data['tags-preview']}</p>
-              </div>
-            </body>
-          </html>",
-          zoom: 2,
-          quality: 100,
-          width: 1200,
-          height: 630
-        )
+            </div>
+            <div class='right'>
+              <div class='right-img' style='background-image: url(\"#{img_src}\")'></div>
+            </div>
+          </body>
+        </html>",
+        zoom: 2,
+        quality: 100,
+        width: 1200,
+        height: 630,
+        :allow => root
+      )
 
-        # Attach the local stylesheet for wkhtmltoimage to pick up
-        kit.stylesheets << './css/preview.css'
+      kit.to_file(src_img)
 
-        # Save the image to the previews directory
-        kit.to_file(src_img)
-
-        # Optimize to reduce the size to about a third
-        `pngquant #{src_img} -o #{src_img} -f`
-      end
+      `pngquant #{src_img} -o #{src_img} -f`
     end
   end
 end
 
-# Add a hook that's run after html is written
-Jekyll::Hooks.register :site, :post_write do |site, payload|
+Jekyll::Hooks.register :site, :post_render do |site, payload|
   Previews.process(site, payload)
 end
