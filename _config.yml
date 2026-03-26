@@ -3,6 +3,7 @@ author:
 title: Notes fromagères
 description: J'ai décidé il y a quelques temps de créer une fiche sur chaque fromage que je déguste. J'essaie sans prétention, selon mes connaissances et mes sens, de retranscrire cela dans ces notes.
 url: https://fromages.timotheejulien.fr
+site_url: https://fromages.timotheejulien.fr
 permalink: /:categories/:title.html
 
 collections:
