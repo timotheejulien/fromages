@@ -893,5 +893,19 @@
     "domain": "tetedemoine.ch",
     "fetched_at": "2026-03-10",
     "fallback": false
+  },
+  "https://montsetterroirs.com/le-saint-mont-des-alpes": {
+    "title": "Le Saint Mont des Alpes - Monts & Terroirs",
+    "description": "Le Saint Mont des Alpes est un fromage d’origine française, connu pour son caractère riche et sa qualité exceptionnelle.  Le juste équilibre de l’alliance du lait des Alpes et du savoir-faire de nos maîtres de caves ; il arrive à pleine maturation...",
+    "domain": "montsetterroirs.com",
+    "fetched_at": "2026-03-26",
+    "fallback": false
+  },
+  "https://www.estrepublicain.fr/edition-de-besancon/2016/01/16/le-sacro-saint-comte-imite": {
+    "title": "Franche-Comté : le sacro-saint comté imité !",
+    "description": "Le principal producteur de comté, Monts et Terroirs, à Poligny, peut-il nuire à la filière avec son Saint-Mont des Alpes, une copie, moins chère, de ...",
+    "domain": "estrepublicain.fr",
+    "fetched_at": "2026-03-26",
+    "fallback": false
   }
 }
