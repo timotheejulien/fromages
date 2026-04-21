@@ -3,57 +3,51 @@
     "title": "Abondance",
     "description": "Le fromage Abondance est fait avec du lait de vache. Il est fruité et légèrement salé.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/appenzeller-ou-appenzel-189.html": {
     "title": "Appenzeller ou Appenzel",
     "description": "L'Appenzeller est un fromage de vache à la saveur fruitée.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "http://www.androuet.com/Bethmale-200.html": {
     "title": "Bethmale",
     "description": "Le Bethmale est un fromage au lait de vache au goût acidulé et sucré.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Bleu-d-auvergne-139.html": {
     "title": "Bleu d'Auvergne",
     "description": "Le fromage Bleu d'Auvergne a un goût relativement prononcé.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/bleu-de-gex-198.html": {
-    "title": "Bleu de Gex",
-    "description": "Le Bleu de Gex est un fromage de vache typique du Jura.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://fr.wikipedia.org/wiki/Brie_de_Meaux": {
     "title": "Brie de Meaux — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Brie-de-Meaux-123.html": {
-    "title": "Brie de Meaux",
-    "description": "Le fromage Brie de Meaux est l'un des plus réputés : sa saveur est lactique et fruité.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "http://androuet.com/Brillat-Savarin-111.html": {
-    "title": "Brillat-Savarin",
-    "description": "Le Brillat Savarin est un fromage triple-crème. Nom donné par Henri Androuët.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "http://androuet.com/Cabri-Ariégeois-32.html": {
     "domain": "http://androuet.com/Cabri-Ariégeois-32.html",
@@ -64,98 +58,82 @@
     "title": "Chevrotin",
     "description": "Fromage au lait cru et entier, le chevrotin bénéficie d'une Appellation d’Origine Protégée",
     "domain": "saveurs-des-aravis.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.leguidedufromage.com/le-claousou-io621.html": {
     "title": "Le Claousou",
     "description": "Le fromage \"Le Claousou\" est un fromage au lait cru ou thermisé de brebis, Pâte molle à croûte lavée, poids de 300g, une durée d'affinage de 2 semaines environ, une matière grasse de 25%",
     "domain": "leguidedufromage.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.comte.com/": {
     "title": "Le Comté, 1er fromage AOP de France",
     "description": "À la rencontre d'un grand fromage : le Comté, premier AOP de France. Découvrez toutes les saveurs et l’histoire du Comté.",
     "domain": "comte.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.m.wikipedia.org/wiki/Comt%C3%A9_(fromage)": {
     "title": "Comté (fromage) — Wikipédia",
     "description": null,
     "domain": "fr.m.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/fromage.php?id=126": {
-    "title": "Comté",
-    "description": "Le Fromage Comté est fabriqué dans les fruitières villageoises de Franche-Comté.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://www.leguidedufromage.com/comtesse-de-vichy-io486.html": {
     "title": "Comtesse de Vichy",
     "description": "Le fromage \"Comtesse de Vichy\" est un fromage au lait cru de vache, Pâte molle à croûte fleurie ou naturelle, poids de 180g, 350g et 550g, dimensions de 8,5 cm et 15 cm, une durée d'affinage de 4...",
     "domain": "leguidedufromage.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "http://www.androuet.com/Comtesse-de-Vichy-1525.html": {
-    "title": "Comtesse de Vichy",
-    "description": "",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "http://androuet.com/Coulommiers-112.html": {
-    "title": "Coulommiers",
-    "description": "Le fromage Coulommiers est très ancien : il est fruité, moelleux et au goût de terroir.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://androuet.com/Etivaz-705.html": {
-    "title": "Etivaz",
-    "description": "L'Etivaz est un fromage AOC d'Alpage Suisse aux goût beurré et fruité inimitable.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "http://www.androuet.com/gruyere-suisse-169.html": {
-    "title": "Gruyère Suisse",
-    "description": "Le Gruyère est le célèbre fromage AOC suisse au lait de vache.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://androuet.com/Gorgonzola-167.html": {
-    "title": "Gorgonzola",
-    "description": "le Gorgonzola est un fromage légendaire de Lombardie en Italie.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "http://www.androuet.com/Livarot-116.html": {
-    "title": "Livarot",
-    "description": "Le fromage Livarot est puissant et fondant en bouche.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "http://androuet.com/Manigodine-1529.html": {
-    "title": "Manigodine",
-    "description": "",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "http://androuet.com/Mont-d-or-ou-vacherin-mont-d-or-154.html": {
     "title": "Mont d'Or ou Vacherin Mont d'Or",
     "description": "Le fromage Mont d Or est un fromage emblématique du Jura.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Morbier-127.html": {
@@ -172,7 +150,7 @@
     "title": "Le fromage Morbier AOP - Un trait de caractère du massif jurassien",
     "description": "Sous la fine croûte rose-orangée du fromage Morbier, se cache une pâte lisse et onctueuse, marquée par une célèbre raie noire.",
     "domain": "fromage-morbier.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "http://androuet.com/Munster-133.html": {
@@ -184,7 +162,7 @@
     "title": "Ossau-Iraty",
     "description": "Béarn & Pays Basque garantis",
     "domain": "ossau-iraty.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Ossau-Iraty-12.html": {
@@ -196,7 +174,7 @@
     "title": "Le Petit Fiancé des Pyrénées",
     "description": "Le fromage \"Le Petit Fiancé des Pyrénées\" est un fromage au lait cru de chèvre, Pâte pressée non cuite, poids de 400g, dimensions 10 cm, une durée d'affinage de 45 jours",
     "domain": "leguidedufromage.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/producteur-androuet-details.php?id=7": {
@@ -233,7 +211,7 @@
     "title": "Qu'est-ce que le Vieux-Boulogne ? - Épices Review",
     "description": "SOMMAIREHistoireFabricationAspect et goûtUtilisations culinairesLe fromage qui sent le plus mauvais au monde Le Vieux-Boulogne, aussi appelé Sablé du Boulonnais, est un fromage à pâte molle et à croûte lavée, fabriqué à partir de lait cru de vache. Il est originaire de Boulogne-sur-Mer, dans le Pas-de-Calais, dans le nord de la France. Le Vieux-Boulogne est considéré […]",
     "domain": "epices-review.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Fruit%C3%A9-du-Boulonnais-989.html": {
@@ -250,7 +228,7 @@
     "title": "Saint-nectaire — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Shropshire-173.html": {
@@ -262,49 +240,49 @@
     "title": "Stilton Cheese",
     "description": "Le Blue Stilton Cheese est considéré au Royaume-Uni comme le",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.lecomptoirdufromage.fr/galet-de-la-loire/": {
     "title": "Galet de la Loire - Le Comptoir du Fromage",
     "description": null,
     "domain": "lecomptoirdufromage.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Reblochon-de-savoie-130.html": {
     "title": "Reblochon de Savoie",
     "description": "Le fromage Reblochon vient de Savoie : il est délicieusement noiseté et crémeux.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.wikipedia.org/wiki/Reblochon": {
     "title": "Reblochon — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Roquefort-15.html": {
     "title": "Roquefort",
     "description": "Le Roquefort est un fromage célèbre pour sa saveur brebis prononcée qui fond sous le palais.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Ardi-Gasna-643.html": {
     "title": "Ardi-Gasna",
     "description": "L'Ardi-Gasna est un fromage de brebis basque.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.wikipedia.org/wiki/Ardi-Gasna": {
     "title": "Ardi-Gasna — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.wikipedia.org/wiki/Castellano_(fromage": {
@@ -316,14 +294,14 @@
     "title": "Fourme d'Ambert",
     "description": "La fourme d'Ambert est les plus doux des bleus : la pâte de ce froamge est grasse et fruitée",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.wikipedia.org/wiki/Fourme_d%27Ambert": {
     "title": "Fourme d'Ambert — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Langres-121.html": {
@@ -340,15 +318,13 @@
     "title": "Moelleux du Revard — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/coeur-de-neufchatel-108.html": {
-    "title": "Coeur de Neufchatel",
-    "description": "Le fromage Coeur de Neufchatel à une croûte fleurie, une pâte lisse et moelleuse et une saveur délicate ma",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://fr.wikipedia.org/wiki/Neufch%C3%A2tel_(fromage": {
     "domain": "fr.wikipedia.org",
@@ -359,21 +335,19 @@
     "title": "Neufchâtel - Produits laitiers AOP",
     "description": "Découvrez les caractéristiques du Neufchâtel , ainsi que des conseils de dégustation spécifique à ce produit.",
     "domain": "produits-laitiers-aop.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Serra-da-Estrela-1156.html": {
-    "title": "Serra da Estrela",
-    "description": "C'est un fromage de brebis pur ou mélangé au lait de chèvre.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://fr.wikipedia.org/wiki/Queijo_Serra_da_Estrela": {
     "title": "Queijo Serra da Estrela — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "http://androuet.com/abbaye-d-echourgnac-(trappe": {
@@ -385,7 +359,7 @@
     "title": "Trappe Échourgnac — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.leguidedufromage.com/le-tricorne-io453.html": {
@@ -394,24 +368,20 @@
     "fallback": true
   },
   "https://androuet.com/Fromage-Tricorne-1499.html": {
-    "title": "Tricorne",
-    "description": "",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://androuet.com/trou-du-cru-197.html": {
-    "title": "Trou du cru",
-    "description": "Le Trou du cru est un fromage au lait de vache à la saveur prononcée.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://fr.wikipedia.org/wiki/Le_Trou_du_Cru": {
     "title": "Le Trou du Cru — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Cur%C3%A9-Nantais-110.html": {
@@ -423,7 +393,7 @@
     "title": "Le Curé Nantais — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Epoisses-105.html": {
@@ -440,21 +410,21 @@
     "title": "Édel de Cléron — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.fromagerienarbief.com/vente-fromage-jura/19-tome-fort-saint-antoine.html": {
     "title": "Tome Fort Saint Antoine",
     "description": "Tome Fort Saint Antoine au lait cru de vache Prix de vente au kg.",
     "domain": "fromagerienarbief.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fromageriecharland.fr/boutique/fromages/ane/tomme-du-fort/": {
     "title": "Tomme du Fort Saint Antoine - Fromagerie fondée en 1998",
     "description": "La Tomme du Fort Saint Antoine au lait cru de vache, est affiné dans les même caves que le Comté. Ce fromage du Jura est aussi méconnu que bon ! Livraison à domicile réfrigérée offerte dès 45€",
     "domain": "fromageriecharland.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://edmondderothschildheritage.com/fr/nature/merle-rouge/": {
@@ -466,21 +436,21 @@
     "title": "Merle rouge • Fromage",
     "description": "Présentation Le Merle Rouge n'est pas une espèce ornithologique apparue en Marne, mais le nom de cette premiere tomme à pâte pressée differente des bries, fer de lance de la région dont elle est issue. Ce fromage est donc frotté régulierement durant ses 2 mois d'affinage à la lie de merlot, cépage cultivé par la Famille Edmond de Rothschild, propriétaire du Domaine du Château Clarke et de la Ferme des Trente Arpents, productrice de ce fromage.   Aspect physique Le merle Rouge se pare d'une robe aux teintes presque mordorées, oscillant de jaune orangé à pourpre. Sa pâte elle contraste de par sa couleur ivoire, mi-ferme par quelques petites ouvertures.   Saveur Le premier nez qui se dégage est frais, tannique, évoquant les baies. Une fois en bouche, des arômes vineux et boisés contrastent avec la pâte fraîche, presque verte.   ",
     "domain": "produits-laitiers.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.legourmeur.fr/portfolio-items/bleu-de-bellevue-de-bretagne/": {
     "title": "Bleu de Bellevue de Bretagne",
     "description": "Le Bleu de Bellevue est un fromage typique de Bretagne que je vous invite à découvrir à travers son histoire et les bonnes adresses où en déguster.",
     "domain": "legourmeur.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fromagerie-darley.fr/produit/bleu-de-bellevue/": {
-    "title": "Bleu de Bellevue – Darley",
-    "description": null,
+    "title": "Bleu de Bellevue | Darley",
+    "description": "Fromage fermier au lait cru biologique élaboré dans notre ferme à RUCA",
     "domain": "fromagerie-darley.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.ouest-france.fr/bretagne/noyal-muzillac-56190/noyal-muzillac-le-p-tit-gris-le-nouveau-fromage-de-la-ferme-bio-de-kerbizien-55d5eab0-b0d2-11eb-a05e-dea762b0ffb3": {
@@ -492,7 +462,7 @@
     "title": "César Régalis — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.fromagers-mont-royal.com/fromages/le-regalis/": {
@@ -504,28 +474,28 @@
     "title": "Le César Régalis",
     "description": "Le fromage \"Le César Régalis\" est un fromage au lait pasteurisé de brebis, Pâte persillée, poids de 2,7kg, une durée d'affinage de 3 mois minimum, une matière grasse de 34%",
     "domain": "leguidedufromage.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://lesnouveauxfromagers.fr/home/34-tomme-des-allobroges.html": {
     "title": "Tomme des Allobroges - Les Nouveaux Fromagers",
     "description": "Lait cru de vache - La ferme des Thônes",
     "domain": "lesnouveauxfromagers.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.produits-laitiers.com/tomyere/": {
     "title": "Tomyère • Fromage",
     "description": "Présentation Le fromage Tomyère présente une pâte pressée cuite, au lait cru et entier de vache de la famille des Gruyères. Il est produit en zone de montagne par la fruitière de Longeville dans le Haut-Doubs, en Bourgogne-Franche-Comté. Puis il est affiné au minimum 4 mois et parfois jusqu’à 14 mois sur des planches d'épicéa.   Aspect physique La croûte brune et sèche du Tomyère laisse apparaître la marque de la toile. Sa pâte est d'un jaune plus ou moins prononcé suivant la saison de fabrication du fromage. Sa texture est dense, ferme et ne comporte pas de trous.   Saveur Il a une pâte ferme mais fondante en bouche, avec une saveur équilibrée, un goût beurré et fruité qui devient plus boisé et grillé pour les fromages les plus affinés.",
     "domain": "produits-laitiers.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.laboitedufromager.com/fromage/tomyere/": {
     "title": "Tomyère",
     "description": "La Tomyère est un fromage à pâte pressée cuite du Hauts-Doubs, idéal pour pour une petite faim !    Prix au Kilo : 31€ / Kg (Soit 9,30€ les 300g) %",
     "domain": "laboitedufromager.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.comte-monts-jura.com/cacouyard-le-cacouyard,22-103.htm": {
@@ -537,7 +507,7 @@
     "title": "Taleggio",
     "description": "Le Taleggio est un fromage italien au lait de vache au goût doux à fort suivant l'âge.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.wikipedia.org/wiki/Taleggio_(fromage": {
@@ -549,154 +519,144 @@
     "title": "Tomme du Jura",
     "description": "La Tomme du Jura est un fromage au lait de vache, à pâte pressée non cuite. Elle se présente sous forme de tomme de 30 à 40 cm de diamètre et de 5 à 8 cm d’épaisseur pour un poids pouvant atteindre 8 kg. Sa croûte est lisse et homogène, de couleur gris foncé ou clair avec des moisissures blanches et une pâte ferme de couleur jaune clair. La Tomme du Jura dévoile une odeur fraîche qui est très spécifique à ce fromage. Avec un taux de matière grasse de 23 %, elle révèle un goût lactique et fruité dont la nuance varie selon la durée de l’affinage.     Prix au kilo : 27,50 € / Kg (soit 8,25€ les 300g) %",
     "domain": "laboitedufromager.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.lecomptoirdufromage.fr/esquirrou/": {
     "title": "Ossau-Iraty Esquirrou - Le Comptoir du Fromage",
     "description": null,
     "domain": "lecomptoirdufromage.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/esquirrou-du-pays-basque-champion-du-monde-fromages-1442295.html": {
     "title": "\"L'Esquirrou\" du Pays basque, champion du monde des fromages !",
     "description": "3 400 fromages de 26 pays étaient en lice cette année au Championship Cheese Contest, le championnat mondial des fromages organisé dans le Wisconsin aux Etats-Unis ! Le fromage au lait de brebis de Michel Touyarou fabriqué...",
     "domain": "france3-regions.francetvinfo.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.isigny-ste-mere.com/produits/nos-fromages/nos-specialites-fromageres/": {
     "title": "Nos spécialités fromagères",
     "description": "Savourez nos délicieuses spécialités fromagères. Des fromages affinés avec soin pour un goût authentique et une texture fondante.",
     "domain": "isigny-ste-mere.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Irish-Porter-1528.html": {
     "title": "Irish Porter",
     "description": "",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://savourezvosidees.fr/produit/irish-porter-cheese/": {
     "title": "Irish Porter Cheese, cheddar à la célèbre bière irlandaise Guinness",
     "description": "Irish Porter Cheese, Cheddar au lait de vache et à la célèbre bière brune irlandaise Guinness. C'est un fromage moelleux à la pâte marbrée.",
     "domain": "savourezvosidees.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.leguidedufromage.com/u-lentu-io405.html": {
     "title": "U Lentu",
     "description": "Le fromage \"U Lentu\" est un fromage au lait cru de brebis, Pâte molle à croûte fleurie ou naturelle, une matière grasse de 25%",
     "domain": "leguidedufromage.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://mondedufromages.com/u-lentu": {
-    "title": "Prozim - Find a Professional and Book a Consultation by Appointment, Chat or Video call",
-    "description": "Prozim - Find a Professional and Book a Consultation by Appointment, Chat or Video call",
     "domain": "mondedufromages.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://crottindechavignol.fr/degustation": {
     "title": "Le terroir du Crottin de Chavignol AOP / AOC",
     "description": "Le CHAVIGNOL est un fromage de chèvre au lait cru, de forme cylindrique très légèrement bombé à la périphérie.",
     "domain": "crottindechavignol.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.laboitedufromager.com/fromage/crottin-de-chavignol/": {
     "title": "Crottin de Chavignol AOP",
     "description": "Le Crottin de Chavignol est un fromage au lait cru de chèvre. Sa pâte est couleur blanche ou ivoire. Elle est recouverte d'une croûte naturelle. Il contient 32% de matière grasse sur produit fini. C'est un petit cylindre très légèrement arrondi à la périphérie, pesant environ 60g.    Prix à la Pièce : 3,90 € %",
     "domain": "laboitedufromager.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Mimolette-144.html": {
-    "title": "Mimolette",
-    "description": "La Mimolette est un fromage de fabrication laitière du Nord",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://androuet.com/Maroilles-140.html": {
-    "title": "Maroilles",
-    "description": "Le fromage Maroilles est le plus célèbre du Nord de la France.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://www.produits-laitiers-aop.fr/produits/maroilles/": {
     "title": "Maroilles - Produits laitiers AOP",
     "description": "Découvrez les caractéristiques du Maroilles , ainsi que des conseils de dégustation spécifique à ce produit.",
     "domain": "produits-laitiers-aop.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.fromages-laqueuille.fr/fromage-lait-pasteurise/bleu-de-laqueuille/": {
     "title": "Bleu de Laqueuille : Société Laitière Laqueuille",
     "description": "Le Bleu de Laqueuille est la spécialité de la société laitière de Laqueuille, fort de son affinage lent et de son salage à la main.",
     "domain": "fromages-laqueuille.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Bleu-de-Laqueuille-202.html": {
-    "title": "Bleu de Laqueuille",
-    "description": "Le Bleu de Laqueille est un fromage de vache à la saveur relevée.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://www.xirikota.fr/produits/galedou": {
     "title": "Galedou",
     "description": null,
     "domain": "xirikota.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://lespetiteslaiteries.fr/fromages/mi-chevre/": {
     "title": "Mi-chèvre – lespetiteslaiteries",
     "description": null,
     "domain": "lespetiteslaiteries.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Gouda-188.html": {
-    "title": "Gouda",
-    "description": "Le Gouda est un fromage au lait de vache, au goût noiseté et piquant.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
-    "fallback": false
+    "fetched_at": "2026-04-20",
+    "fallback": true
   },
   "https://www.laboitedufromager.com/fromage/carre-daurillac": {
     "title": "Carré d'Aurillac",
     "description": "Le Carré d’Aurillac est un fromage à pâte persillée et à croûte naturelle fabriqué à base de lait de vache pasteurisé. Comme son nom l’indique, il se reconnaît par sa forme carrée et sa croûte fleurie. Pesant environ 2,2 kg, il mesure 20 cm de côté et 6 cm de hauteur. Ce fromage se distingue par sa pâte fine, souple et liée, lui donnant une texture douce et onctueuse. Son persillage uniformément réparti démontre tout le savoir-faire de sa fromagerie d’origine.  Doux et typé, le Carré d’Aurillac présente une saveur délicate, légèrement salée et amère. Au fur et à mesure de son affinage, ce fromage bleu acquiert un goût de noisette peu prononcé. Il a la particularité d’être allégé avec une teneur de 28 % en matière grasse.     Prix au Kilo : 34,90 € /Kg (soit 8,73 € les 250g) %",
     "domain": "laboitedufromager.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://lesfromageurs.com/produit/carre-daurillac-500g": {
     "title": "Carré d'Aurillac - 500g - Les Fromageurs",
     "description": "Découvrez le Carré d’Aurillac sur LesFromageurs.com : un fromage au lait de vache à croûte fleurie, crémeux et délicatement persillé. Originaire du Cantal, il séduit par sa douceur et son fondant en bouche.",
     "domain": "lesfromageurs.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.fromageriecremerieossau.fr/produit/saint-henry-au-thym": {
     "title": "Saint Henri au thym - Fromagerie Crèmerie d'Ossau",
     "description": "Le Saint-Henri est un petit fromage de chèvre des Deux-Sèvres au lait cru, crémeux et onctueux. Les chèvres de race alpine qui donnent le lait avec lequel est fait le fromage, sont nourries d’herbes, de luzerne et de fourrage. Région : Poitou Charentes Origine : Deux-Sèvres Lait cru / Pâte molle",
     "domain": "fromageriecremerieossau.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fromage.philippeolivier.fr/166-nouvelle-aquitaine/4307-saint-henri-au-romarin": {
     "title": "Saint-Henri au Romarin",
     "description": "Le Saint-Henri au Piment d'Espelette est un fromage fabriqué à partir de lait de chèvre cru. Pépite fromagère découverte il y a peu, c'est un coup de cœur d'affineur que nous vous proposons ! Il ravit tous les fins palais et amateurs de vrai fromage au lait de chèvre. \nSa pâte d'un blanc ivoire à la texture crémeuse et onctueuse, est parfumée au Romarin. Les saveurs lactiques sont alors subtilement révélées par le côté frais et herbacé de la décoction au Romarin. \n\nFabriqué au coeur des Deux-Sèvres en Nouvelle-Aquitaine, ce petit fromage vous est proposé après un affinage dans nos caves, sur paillon de seigle. \nNotre équipe de cavistes en prend soin dans la cave dédiée aux lactiques à croutes naturelles aux côtés du Saint-Maure, du Tunnel de ChèvreÂ",
     "domain": "fromage.philippeolivier.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.produits-laitiers.com/rocher-nantais": {
@@ -708,14 +668,14 @@
     "title": "Rocher Nantais",
     "description": "Le fromage \"Rocher Nantais\" est un fromage au lait cru de vache, Pâte pressée non cuite, poids de 350 g, une durée d'affinage de 30 jours, une matière grasse de 22%",
     "domain": "touslesfromages.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Saint-Domnin-de-Provence-1004.html": {
     "title": "Saint-Domnin de Provence",
     "description": "Le Saint-Domnin est un fromage original de Provence, recouvert d'un brin de lavande.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.produits-laitiers.com/saint-domnin": {
@@ -727,14 +687,14 @@
     "title": "Fromage Gris du Périgord : Qui Veut Du Fromage",
     "description": "Gris du Périgord - Histoire du fromage, origine, dégustation, recettes, ... Tout ce qu'il faut savoir sur Qui Veut Du Fromage",
     "domain": "quiveutdufromage.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.tastyfully.fr/le-catalogue-du-gout/produit-laitiers/fromagerie/gris-du-perigord": {
     "title": "Gris Du Périgord – Tastyfully.fr",
     "description": "L’or Gris du Périgord Le Périgord est un terroir riche : sillonné par la Dordogne, la nature y est généreuse et le paysage vert avec de nombreux sous-bois et noisetiers. Gris du Périgord est né de la volonté de faire...",
     "domain": "tastyfully.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.quesoslomogallego.com": {
@@ -746,21 +706,21 @@
     "title": "Tomme des Grands Causses",
     "description": "Tomme des Grands Causses",
     "domain": "quiveutdufromage.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.maison-conquet.fr/fromages-de-brebis-aveyron/8505-tomme-des-grands-causses.html": {
     "title": "Tomme des Grands Causses | Fromage au Lait de Brebis | Vente en Ligne",
     "description": "La tomme des grands causses est un fromage fermier au lait cru de brebis, à pâte pressée non cuite et à croûte naturelle. Livraison en direct en réfrigéré.",
     "domain": "maison-conquet.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://lespetiteslaiteries.fr/fromages/machecoulais": {
     "title": "Machecoulais – lespetiteslaiteries",
     "description": null,
     "domain": "lespetiteslaiteries.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.fromages.com/machecoulais": {
@@ -772,63 +732,63 @@
     "title": "La Mizotte - Le Comptoir du Fromage",
     "description": null,
     "domain": "lecomptoirdufromage.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Raclette-fum%C3%A9e-655.html": {
     "title": "Raclette fumée",
     "description": "Fromage Suisse à raclette au goût fumé.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.mon-marche.fr/produit/l-elutcha-des-buissieres": {
     "title": "L'Elutcha des Buissières - Mon Marché",
     "description": "L'Elutcha des Buissières : l’essentiel du quotidien, sélectionné avec soin. Livraison rapide, 7j/7.",
     "domain": "mon-marche.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.mon-marche.fr/produit/le-savoyard-fume": {
     "title": "Le Savoyard Fumé - Mon Marché",
     "description": "Le Savoyard Fumé : l’essentiel du quotidien, sélectionné avec soin. Livraison rapide, 7j/7.",
     "domain": "mon-marche.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Bouton-de-culotte-51.html": {
     "title": "Bouton de culotte",
     "description": "Le Bouton de culotte est un fromage de chèvre de fabrication fermière.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.laboitedufromager.com/fromage/bouton-de-culotte/": {
     "title": "Bouton de Culotte fermier",
     "description": "Le Bouton de Culotte est un petit fromage fabriqué à base de lait cru de chèvre. C’est l’un des plus petits fromages traditionnels de France, voire du monde. Il est originaire de la région viticole du Mâconnais (dans le département de la Saône-et-Loire). D’ailleurs, ce fromage est également appelé Chevreton du Mâconnais ou encore Cabrion.  D’une forme cylindrique de 4 cm de diamètre et de hauteur, et pesant 15 à 30 g, le Bouton de Culotte ressemble à un petit crottin de Chavignol. Il possède une pâte blanche molle. Quant à la croûte, elle est plus ou moins fleurie. Cette dernière est de couleur ivoire. Au fil du temps, elle peut virer du gris au brun.  Saviez-vous que ce fromage tire principalement son nom des boutons des pantalons d’antan ? Petits et plus ou moins cylindriques.     Prix à la pièce : 2,50 € / Pièce d'environ 50g %",
     "domain": "laboitedufromager.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Sbrinz-373.html": {
     "title": "Sbrinz",
     "description": "Le Sbrinz est un fromage Suisse se rapprochant du Parmesan.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.instagram.com/reel/C8m2bnEsI91/?igsh=MTBvbWo2dzFndDE3dQ==": {
     "title": "Instagram",
     "description": null,
     "domain": "instagram.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.wikipedia.org/wiki/Sbrinz": {
     "title": "Sbrinz — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://les-alpages.fr/article/fromage/sbrinz-suisse-lancetre-du-parmesan/": {
@@ -842,56 +802,56 @@
     "title": "Fromagerie Les Alpages  » Sbrinz Suisse – l’ancêtre du parmesan",
     "description": null,
     "domain": "les-alpages.fr",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/parmesan-reggiano-ou-parmigiano-reggiano-186.html": {
     "title": "Parmesan Reggiano ou Parmigiano Reggiano",
     "description": "Le Parmesan ou Parmigiano Reggiano est un fromage italien emblématique.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.wikipedia.org/wiki/Parmigiano_Reggiano": {
     "title": "Parmigiano Reggiano — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/Pecorino-Crotonese-1020.html": {
     "title": "Pecorino Crotonese",
     "description": "C'est un fromage au lait de brebis ou de chèvre, cru ou pasteurisé, originaire de Calabre.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.wikipedia.org/wiki/Pecorino_(fromage)": {
     "title": "Pecorino (fromage) — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://androuet.com/T%C3%AAte-de-Moine-100.html": {
     "title": "Tête-de-Moine",
     "description": "La tete de moine est un fromage Suisse, à pâte pressée non cuite très fruité.",
     "domain": "androuet.com",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://fr.wikipedia.org/wiki/T%C3%AAte_de_moine": {
     "title": "Tête de moine — Wikipédia",
     "description": null,
     "domain": "fr.wikipedia.org",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://www.tetedemoine.ch/fr/infos/histoire": {
     "title": "Histoire - Tête de moine AOP - Fromage de Bellelay",
     "description": "La Tête de Moine AOP, Fromage de Bellelay, est un fromage suisse à pâte mi-dure. Elle se déguste en rosettes très fines, à l'aide d'une Girolle.",
     "domain": "tetedemoine.ch",
-    "fetched_at": "2026-03-10",
+    "fetched_at": "2026-04-20",
     "fallback": false
   },
   "https://montsetterroirs.com/le-saint-mont-des-alpes": {
@@ -906,6 +866,20 @@
     "description": "Le principal producteur de comté, Monts et Terroirs, à Poligny, peut-il nuire à la filière avec son Saint-Mont des Alpes, une copie, moins chère, de ...",
     "domain": "estrepublicain.fr",
     "fetched_at": "2026-03-26",
+    "fallback": false
+  },
+  "https://www.fruitieres-chabert.com/tomme-de-savoie": {
+    "title": "Tomme de Savoie - Fruitières Chabert",
+    "description": "La Tomme de Savoie est un fromage au lait cru fabriqué en Savoie par la fromagerie Chabert à Saint-Germain-la-Chambotte et Hauteville-sur-Fier.",
+    "domain": "fruitieres-chabert.com",
+    "fetched_at": "2026-04-20",
+    "fallback": false
+  },
+  "https://www.mon-marche.fr/produit/le-cabrillou-cremeux": {
+    "title": "Le Cabrillou crèmeux - Mon Marché",
+    "description": "Le Cabrillou crèmeux : l’essentiel du quotidien, sélectionné avec soin. Livraison rapide, 7j/7.",
+    "domain": "mon-marche.fr",
+    "fetched_at": "2026-04-21",
     "fallback": false
   }
 }
