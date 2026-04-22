@@ -881,5 +881,26 @@
     "domain": "mon-marche.fr",
     "fetched_at": "2026-04-21",
     "fallback": false
+  },
+  "https://fromagerie-beillevaire.com/meule-de-savoie": {
+    "title": "Meule de Savoie - Fromagerie Beillevaire",
+    "description": "La Meule de Savoie est un beau fromage de garde, fabriqué dans notre atelier de Sainte-Hélène-du-Lac dans la tradition savoyarde",
+    "domain": "fromagerie-beillevaire.com",
+    "fetched_at": "2026-04-22",
+    "fallback": false
+  },
+  "https://www.mon-marche.fr/produit/la-meule-de-savoie": {
+    "title": "La Meule de Savoie - Mon Marché",
+    "description": "La Meule de Savoie : l’essentiel du quotidien, sélectionné avec soin. Livraison rapide, 7j/7.",
+    "domain": "mon-marche.fr",
+    "fetched_at": "2026-04-22",
+    "fallback": false
+  },
+  "https://www.coop-de-yenne.fr/fromages-montagne/34-fromage-la-dent-du-chat.html": {
+    "title": "Meule de Savoie \"La Dent du Chat\"",
+    "description": "",
+    "domain": "coop-de-yenne.fr",
+    "fetched_at": "2026-04-22",
+    "fallback": false
   }
 }
