@@ -6,7 +6,7 @@ note: "3,2"
 milk: vache
 image: /images/posts/meule-de-savoie.jpg
 image-credit: Photo prise par moi même.
-comment: Visuellement, ce n'est pas facile de trouver une vraie caractéristique pour le différencier de ses cousins. Dès la première bouchée, cette Meule de Savoie m'a rappelé le <a href="/saint-mont-des-alpes.html">Saint Mont des Alpes</a>. La texture est un mélange entre le comté et l’emmental. Au goût il est moins puissant que son homologue, des saveurs beurrées se dégagent légèrement. La fromagerie Bellevaire a développé <i>une version « Réserve » de ce fromage (affinée jusqu’à 15 mois), elle prend alors en intensité et en noblesse</i>. 
+comment: Visuellement, ce n'est pas facile de trouver une vraie caractéristique pour le différencier de ses cousins. Dès la première bouchée, cette Meule de Savoie m'a rappelé le <a href="/saint-mont-des-alpes.html">Saint Mont des Alpes</a>. La texture est un mélange entre le <a href="/comte.html">Comté</a> et l’Emmental. Au goût il est moins puissant que son homologue, des saveurs beurrées se dégagent légèrement. La fromagerie Bellevaire a développé <i>une version « Réserve » de ce fromage (affinée jusqu’à 15 mois), elle prend alors en intensité et en noblesse</i>. 
 tags:
    - Pâte pressée
    - Pâte cuite
