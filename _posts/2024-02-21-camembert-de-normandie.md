@@ -6,7 +6,7 @@ note: 5
 milk: vache
 image: /images/posts/camembert.jpg
 image-credit: Photographie prise par moi-même
-comment: "Est-ce qu'il faut vraiment préciser que c'est délicieux ?! Mis à part cela, ça vaut vraiment le coup d'acheter un Camembert dans une fromagerie. Vous sentirez bien plus le terroir comparé à un camembert de super marché. N'achetez que des Camembert de Normandie, cette particule prouve que c'est un fromage A.O.P ! À noter que celui de la photo est incroyable, je l'ai goûté lors d'une dégustation chez Paroles de fromagers (Paris 11ème)."
+comment: "Est-ce qu'il faut vraiment préciser que c'est délicieux ?! Mis à part cela, ça vaut vraiment le coup d'acheter un Camembert dans une fromagerie. Vous sentirez bien plus le terroir comparé à un camembert de super marché. N'achetez que des Camemberts de Normandie, cette particule prouve que c'est un fromage A.O.P ! À noter que celui de la photo est incroyable, je l'ai goûté lors d'une dégustation chez Paroles de fromagers (Paris 11ème).<br><br>Lors de l'atelier « Fromages et accords improbables » des caves du Louvre,  il était accompagné d'un pétillant de rhubarbe du domaine Ginglinger. Aussi surprenant que cela puisse paraître, c'était une dinguerie !"
 tags: 
     - Pâte molle
     - Pâte fleurie
@@ -24,5 +24,5 @@ tags-preview: "Pâte molle, fleurie"
 | **Texture** | Molle, crémeuse |
 | **Affinage** | 1 mois |
 | **Meilleure période de dégustation** | Avril à août |
-| **Boisson(s)** | Cidre brut, Vinc blanc légèrement acidulé |
+| **Boisson(s)** | Pétillant de rhubarbe, cidre brut, Vinc blanc légèrement acidulé |
 | **Prix** | ~7 € / pièce |
