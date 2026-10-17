@@ -8,7 +8,9 @@ module Previews
     preview_dir = File.join(root, 'images', 'previews')
     FileUtils.mkdir_p(preview_dir)
 
-    font_src = "file://#{root}/assets/fonts/UncutSans-Variable.ttf"
+    font_path = File.join(root, 'assets', 'fonts', 'UncutSans-Variable.ttf')
+    renderer  = File.join(root, 'scripts', 'render_previews.mjs')
+    source_mtime = [File.mtime(__FILE__), File.mtime(renderer)].max
 
     previews = []
 
@@ -16,18 +18,20 @@ module Previews
       slug    = p.data['slug']
       src_img = File.join(preview_dir, "#{slug}.png")
 
-      post_mtime    = File.mtime(p.path)
+      post_mtime    = [File.mtime(p.path), source_mtime].max
       preview_mtime = File.exist?(src_img) ? File.mtime(src_img) : Time.at(0)
       next if preview_mtime >= post_mtime
 
       puts "\n  Creating preview: #{slug}.png"
 
-      img_src = "file://#{root}#{p.data['image']}"
+      image_path = File.join(root, p.data['image'].sub(%r{\A/}, ''))
       title   = p.data['title']
       tags    = p.data['tags-preview']
 
       previews << {
         path: src_img,
+        font_path: font_path,
+        image_path: image_path,
         html: <<~HTML
         <!DOCTYPE HTML>
         <html>
@@ -36,7 +40,7 @@ module Previews
             <style>
               @font-face {
                 font-family: 'UncutSans';
-                src: url('#{font_src}');
+                src: url('__FONT_SRC__') format('truetype');
                 font-style: normal;
                 font-weight: 100 900;
               }
@@ -121,7 +125,7 @@ module Previews
               </div>
             </div>
             <div class='right'>
-              <div class='right-img' style='background-image: url(\"#{img_src}\")'></div>
+              <div class='right-img' style='background-image: url(\"__IMAGE_SRC__\")'></div>
             </div>
           </body>
         </html>
@@ -131,7 +135,6 @@ module Previews
 
     return if previews.empty?
 
-    renderer = File.join(root, 'scripts', 'render_previews.mjs')
     _output, error, status = Open3.capture3('node', renderer, stdin_data: JSON.generate(previews))
     raise "Impossible de générer les previews : #{error}" unless status.success?
   end
