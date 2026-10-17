@@ -969,5 +969,19 @@
     "domain": "gratiot-grossiste.fr",
     "fetched_at": "2026-10-17",
     "fallback": true
+  },
+  "https://www.terres-auvergne.fr/fromages/tommes-des-bonnefoi": {
+    "title": "Les Tommes des Bonnefoi - Les Terres d'Auvergne",
+    "description": "Les Tommes des Bonnefoi, sont issues d’une fabrication fermière, au lait cru de vache. Fabriquées dans le département de la Haute-Loire, par la famille Bonnefoi.",
+    "domain": "terres-auvergne.fr",
+    "fetched_at": "2026-10-17",
+    "fallback": false
+  },
+  "https://www.leguidedufromage.com/lou-titounet-io910.html": {
+    "title": "Lou Titounet'",
+    "description": "Le fromage \"Lou Titounet'\" est un fromage au lait thermisé de brebis, Pâte molle à croûte fleurie ou naturelle, poids de 125, dimensions 8cm de diamètre / 4,5cm de haut, une durée d'affinage de...",
+    "domain": "leguidedufromage.com",
+    "fetched_at": "2026-10-17",
+    "fallback": false
   }
 }
