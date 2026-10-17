@@ -1,19 +1,20 @@
 require 'fileutils'
-require 'imgkit'
+require 'json'
+require 'open3'
 
 module Previews
   def self.process(site, payload)
-    begin
-      FileUtils.mkdir_p('./images/previews')
-    rescue
-    end
+    root        = site.source
+    preview_dir = File.join(root, 'images', 'previews')
+    FileUtils.mkdir_p(preview_dir)
 
-    root     = Dir.pwd
     font_src = "file://#{root}/assets/fonts/UncutSans-Variable.ttf"
+
+    previews = []
 
     site.collections['posts'].docs.each do |p|
       slug    = p.data['slug']
-      src_img = "./images/previews/#{slug}.png"
+      src_img = File.join(preview_dir, "#{slug}.png")
 
       post_mtime    = File.mtime(p.path)
       preview_mtime = File.exist?(src_img) ? File.mtime(src_img) : Time.at(0)
@@ -25,8 +26,10 @@ module Previews
       title   = p.data['title']
       tags    = p.data['tags-preview']
 
-      kit = IMGKit.new(
-        "<!DOCTYPE HTML>
+      previews << {
+        path: src_img,
+        html: <<~HTML
+        <!DOCTYPE HTML>
         <html>
           <head>
             <meta charset='utf-8' />
@@ -121,18 +124,16 @@ module Previews
               <div class='right-img' style='background-image: url(\"#{img_src}\")'></div>
             </div>
           </body>
-        </html>",
-        zoom: 2,
-        quality: 100,
-        width: 1200,
-        height: 630,
-        :allow => root
-      )
-
-      kit.to_file(src_img)
-
-      `pngquant #{src_img} -o #{src_img} -f`
+        </html>
+        HTML
+      }
     end
+
+    return if previews.empty?
+
+    renderer = File.join(root, 'scripts', 'render_previews.mjs')
+    _output, error, status = Open3.capture3('node', renderer, stdin_data: JSON.generate(previews))
+    raise "Impossible de générer les previews : #{error}" unless status.success?
   end
 end
 

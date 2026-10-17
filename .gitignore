@@ -1,3 +1,5 @@
 .DS_Store
 _site/
 .claude
+node_modules/
+.npm-cache/
